@@ -2,32 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>NanaNana</title>
   
-  <subtitle>NanaNana</subtitle>
+  <subtitle>浑水摸鱼的加拿大留学生</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-17T06:39:13.038Z</updated>
+  <updated>2020-05-17T20:10:31.698Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>NanaNana</name>
+    <name>Nana⚝Nana</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2</title>
-    <link href="http://yoursite.com/2020/05/17/2/"/>
-    <id>http://yoursite.com/2020/05/17/2/</id>
-    <published>2020-05-17T06:39:13.000Z</published>
-    <updated>2020-05-17T06:39:13.038Z</updated>
+    <title>B站直播的一些小插件</title>
+    <link href="http://yoursite.com/2020/05/17/Live/"/>
+    <id>http://yoursite.com/2020/05/17/Live/</id>
+    <published>2020-05-17T19:46:10.000Z</published>
+    <updated>2020-05-17T20:10:31.698Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.ibb.co/wp6FMCB/head-pic-2.png" alt><h1 id="前-因-后-果"><a href="#前-因-后-果" class="headerlink" title="前 因 后 果"></a>前 因 后 果</h1><h3 id="在我自己直播的时候发现B站自家直播姬功能是在少得可怜，所以上网搜寻了许多改善直播的小插件整理在这里。"><a href="#在我自己直播的时候发现B站自家直播姬功能是在少得可怜，所以上网搜寻了许多改善直播的小插件整理在这里。" class="headerlink" title="在我自己直播的时候发现B站自家直播姬功能是在少得可怜，所以上网搜寻了许多改善直播的小插件整理在这里。"></a>在我自己直播的时候发现B站自家直播姬功能是在少得可怜，所以上网搜寻了许多改善直播的小插件整理在这里。</h3><h3 id="1-B站弹幕姬-（不会有人不知道这个吧，不会吧不会吧）"><a href="#1-B站弹幕姬-（不会有人不知道这个吧，不会吧不会吧）" class="headerlink" title="1. B站弹幕姬 （不会有人不知道这个吧，不会吧不会吧）"></a>1.<font size="5"> <a href="https://www.danmuji.org/" target="_blank" rel="noopener">B站弹幕姬</a></font> （不会有人不知道这个吧，不会吧不会吧）</h3><p>弹幕姬可以以弹幕的方式显示直播间评论，如图（来自弹幕姬官网）</p><img src="https://www.danmuji.org/pics/3.png" alt><p>弹幕姬还拥有完善的插件系统，例如语音播报，点歌系统，如图（截图来自弹幕姬官网）</p><img src="https://i.ibb.co/jHBXmnc/TIM-20200517155855.png" alt><p>我目前常用的插件是<font size="5"> <a href="https://www.danmuji.org/plugins/FollowAlert" target="_blank" rel="noopener">关注提醒</a></font>   与   <font size="5"> <a href="https://www.danmuji.org/plugins/Re-TTSCat" target="_blank" rel="noopener">TTSCat（语音播报）</a></font></p><p>这些插件可以让您不再错过直播间的消息，及时与观众互动。</p><h3 id="2-Bilibili-Live-Chat-OBS用B站直播弹幕展示"><a href="#2-Bilibili-Live-Chat-OBS用B站直播弹幕展示" class="headerlink" title="2. [Bilibili Live Chat] OBS用B站直播弹幕展示"></a>2.<font size="5"> <a href="https://moe.best/projects/bilibili-live-chat.html" target="_blank" rel="noopener">[Bilibili Live Chat] OBS用B站直播弹幕展示</a></font></h3><p>这个是我偶然在网上看到的，他可以以滚动的方式显示弹幕（如Youtube Live Chat）</p><img src="https://i.loli.net/2019/02/13/5c638e21ad91a.gif" alt><p>图片来自 <a href="https://moe.best/projects/bilibili-live-chat.html" target="_blank" rel="noopener">https://moe.best/projects/bilibili-live-chat.html</a></p><p>大家有需要的可以点击上方链接查看。</p><h3 id="3-FaceRig"><a href="#3-FaceRig" class="headerlink" title="3. FaceRig"></a>3.<font size="5"> <a href="https://facerig.com/" target="_blank" rel="noopener">FaceRig</a></font></h3><p>这个软件还是蛮有趣的，可以通过摄像头捕获你的脸并转为可爱的动漫人物</p><img src="https://thumbs.gfycat.com/UnimportantOrnateCivet-small.gif" alt><p>图片来自Google。</p><p>软件可以在Steam上搜索并购买</p><h3 id="这些就是目前我在网络上搜集到并在使用的小插件了，以后如果发现其他插件将会持续更新"><a href="#这些就是目前我在网络上搜集到并在使用的小插件了，以后如果发现其他插件将会持续更新" class="headerlink" title="这些就是目前我在网络上搜集到并在使用的小插件了，以后如果发现其他插件将会持续更新"></a>这些就是目前我在网络上搜集到并在使用的小插件了，以后如果发现其他插件将会持续更新</h3>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
     
     </summary>
     
     
+    
+      <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="bilibili" scheme="http://yoursite.com/tags/bilibili/"/>
+    
+      <category term="持续更新" scheme="http://yoursite.com/tags/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>海外用户在B站直播方法</title>
+    <link href="http://yoursite.com/2020/05/17/2/"/>
+    <id>http://yoursite.com/2020/05/17/2/</id>
+    <published>2020-05-17T06:39:13.000Z</published>
+    <updated>2020-05-17T19:45:16.590Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.ibb.co/HTv51hF/head-pic.png" alt><h1 id="前-因-后-果"><a href="#前-因-后-果" class="headerlink" title="前 因 后 果"></a>前 因 后 果</h1><h3 id="刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道"><a href="#刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道" class="headerlink" title="刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道"></a>刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道</h3><img src="https://i.ibb.co/n7F7QmT/TIM-20200517151009.png" alt><p>如图</p><h3 id="在尝试多次后，我选择了使用VPN解决此问题。"><a href="#在尝试多次后，我选择了使用VPN解决此问题。" class="headerlink" title="在尝试多次后，我选择了使用VPN解决此问题。"></a>在尝试多次后，我选择了使用VPN解决此问题。</h3><p>最初，我选择了万能的纸飞机ShadowsocksR。但使用了几个订阅链接后发现目前能够搜索到的回国ssr无法解决b站直播问题，尽管设置了全局代理。</p><p>谷歌上可以搜索到的回国vpn也基本全军覆没，在这里为大家推荐几款可用于b站直播的vpn。</p><h3 id="1-蚂蚁VPN"><a href="#1-蚂蚁VPN" class="headerlink" title="1. 蚂蚁VPN"></a>1.<font size="5"> <a href="https://b.antss.me/" target="_blank" rel="noopener">蚂蚁VPN</a></font></h3><p>蚂蚁VPN可以连接多个回国节点，而且无限速。</p><h2 id="缺点-流量优先，需要分享链接给朋友才能增加流量。"><a href="#缺点-流量优先，需要分享链接给朋友才能增加流量。" class="headerlink" title="缺点 流量优先，需要分享链接给朋友才能增加流量。"></a>缺点 流量优先，需要分享链接给朋友才能增加流量。</h2><h3 id="2-穿梭transocks"><a href="#2-穿梭transocks" class="headerlink" title="2.  穿梭transocks"></a>2. <font size="5"> <a href="https://www.transocks.com" target="_blank" rel="noopener">穿梭transocks</a></font></h3><p>穿梭算是海外党的福音，基本所有人选择回国vpn时都会选择此vpn</p><h2 id="缺点-电脑端需要收费使用-手机端可以免费试用（据说速度会慢）"><a href="#缺点-电脑端需要收费使用-手机端可以免费试用（据说速度会慢）" class="headerlink" title="缺点 电脑端需要收费使用 手机端可以免费试用（据说速度会慢）"></a>缺点 电脑端需要收费使用 手机端可以免费试用（据说速度会慢）</h2><h4 id="以上盘点的两款算是可以正常试用b站直播服务，建议有需要的朋友可以选择下载。"><a href="#以上盘点的两款算是可以正常试用b站直播服务，建议有需要的朋友可以选择下载。" class="headerlink" title="以上盘点的两款算是可以正常试用b站直播服务，建议有需要的朋友可以选择下载。"></a>以上盘点的两款算是可以正常试用b站直播服务，建议有需要的朋友可以选择下载。</h4><h3 id="Head-pic-：-https-www-pixiv-net-artworks-73500201"><a href="#Head-pic-：-https-www-pixiv-net-artworks-73500201" class="headerlink" title="Head pic ： https://www.pixiv.net/artworks/73500201"></a>Head pic ： <a href="https://www.pixiv.net/artworks/73500201" target="_blank" rel="noopener">https://www.pixiv.net/artworks/73500201</a></h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+    
+      <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="bilibili" scheme="http://yoursite.com/tags/bilibili/"/>
+    
+      <category term="已完结" scheme="http://yoursite.com/tags/%E5%B7%B2%E5%AE%8C%E7%BB%93/"/>
     
   </entry>
   
@@ -36,21 +77,22 @@
     <link href="http://yoursite.com/2020/05/17/My-New-Post/"/>
     <id>http://yoursite.com/2020/05/17/My-New-Post/</id>
     <published>2020-05-17T04:52:39.000Z</published>
-    <updated>2020-05-17T05:20:06.391Z</updated>
+    <updated>2020-05-17T19:03:32.660Z</updated>
     
-    <content type="html"><![CDATA[<p>欢迎来到 NanaNana的网站。如在浏览时发现任何问题，可以通过 QQ 2391626794 联系我~</p><h2 id="官方Discord服务器"><a href="#官方Discord服务器" class="headerlink" title="官方Discord服务器"></a>官方Discord服务器</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=406072193&auto=1&height=66"></iframe><h3 id="进群与更多人交流-玩游戏吧！"><a href="#进群与更多人交流-玩游戏吧！" class="headerlink" title="进群与更多人交流/玩游戏吧！"></a>进群与更多人交流/玩游戏吧！</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://discord.gg/WSJZx4R</span><br></pre></td></tr></table></figure><iframe src="https://discordapp.com/widget?id=658444715741675560&theme=dark" width="1850" height="700" allowtransparency="true" frameborder="0"></iframe>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>欢迎来到 NanaNana的网站。如在浏览时发现任何问题，可以通过 QQ 2391626794 联系我哟~</p><h2 id="官方Discord服务器"><a href="#官方Discord服务器" class="headerlink" title="官方Discord服务器"></a>官方Discord服务器</h2><h3 id="进群与更多人交流-玩游戏吧！"><a href="#进群与更多人交流-玩游戏吧！" class="headerlink" title="进群与更多人交流/玩游戏吧！"></a>进群与更多人交流/玩游戏吧！</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://discord.gg/WSJZx4R</span><br></pre></td></tr></table></figure><iframe src="https://discordapp.com/widget?id=658444715741675560&theme=dark" width="1850" height="700" allowtransparency="true" frameborder="0"></iframe>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;欢迎来到 NanaNana的网站。如在浏览时发现任何问题，可以通过 QQ 2391626794 联系我~&lt;/p&gt;
-&lt;h2 id=&quot;官方Discord服务器&quot;&gt;&lt;a href=&quot;#官方Discord服务器&quot; class=&quot;headerlink&quot; title=&quot;官方Discor
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
       
     
     </summary>
     
     
+    
+      <category term="Welcome" scheme="http://yoursite.com/tags/Welcome/"/>
     
   </entry>
   
