@@ -10,253 +10,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <script src="//cdn.bootcss.com/pace/1.0.2/pace.min.js"></script>
   <link href="//cdn.bootcss.com/pace/1.0.2/themes/pink/pace-theme-flash.css" rel="stylesheet">
-    <style>
-    .pace .pace-progress {
-        background: #6d6d6d; /*进度条颜色*/
-        height: 5px;
-    }
-    .pace .pace-progress-inner {
-         box-shadow: 0 0 10px #1E92FB, 0 0 5px     #6d6d6d; /*阴影颜色*/
-    }
-    .pace .pace-activity {
-        border-top-color: #6d6d6d;    /*上边框颜色*/
-        border-left-color: #6d6d6d;    /*左边框颜色*/
-    }
-  </style>
-  <!--loading加载界面-->
-<style>
-/*在下面这行粘贴你刚才复制到剪贴板里面的css主题样式*/
-.fingerprint-spinner, .fingerprint-spinner * {
-      box-sizing: border-box;
-    }
 
-    .fingerprint-spinner {
-      height: 115px;
-      width: 115px;
-      padding: 2px;
-      overflow: hidden;
-      position: relative;
-    }
-
-    .fingerprint-spinner .spinner-ring {
-      position: absolute;
-      border-radius: 50%;
-      border: 2px solid transparent;
-      border-top-color: #87ff09;
-      animation: fingerprint-spinner-animation 1500ms cubic-bezier(0.680, -0.750, 0.265, 1.750) infinite forwards;
-      margin: auto;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      top: 0;
-    }
-
-    .fingerprint-spinner .spinner-ring:nth-child(1) {
-      height: calc(60px / 9 + 0 * 60px / 9);
-      width: calc(60px / 9 + 0 * 60px / 9);
-      animation-delay: calc(50ms * 1);
-    }
-
-    .fingerprint-spinner .spinner-ring:nth-child(2) {
-      height: calc(60px / 9 + 1 * 60px / 9);
-      width: calc(60px / 9 + 1 * 60px / 9);
-      animation-delay: calc(50ms * 2);
-    }
-
-    .fingerprint-spinner .spinner-ring:nth-child(3) {
-      height: calc(60px / 9 + 2 * 60px / 9);
-      width: calc(60px / 9 + 2 * 60px / 9);
-      animation-delay: calc(50ms * 3);
-    }
-
-    .fingerprint-spinner .spinner-ring:nth-child(4) {
-      height: calc(60px / 9 + 3 * 60px / 9);
-      width: calc(60px / 9 + 3 * 60px / 9);
-      animation-delay: calc(50ms * 4);
-    }
-
-    .fingerprint-spinner .spinner-ring:nth-child(5) {
-      height: calc(60px / 9 + 4 * 60px / 9);
-      width: calc(60px / 9 + 4 * 60px / 9);
-      animation-delay: calc(50ms * 5);
-    }
-
-    .fingerprint-spinner .spinner-ring:nth-child(6) {
-      height: calc(60px / 9 + 5 * 60px / 9);
-      width: calc(60px / 9 + 5 * 60px / 9);
-      animation-delay: calc(50ms * 6);
-    }
-
-    .fingerprint-spinner .spinner-ring:nth-child(7) {
-      height: calc(60px / 9 + 6 * 60px / 9);
-      width: calc(60px / 9 + 6 * 60px / 9);
-      animation-delay: calc(50ms * 7);
-    }
-
-    .fingerprint-spinner .spinner-ring:nth-child(8) {
-      height: calc(60px / 9 + 7 * 60px / 9);
-      width: calc(60px / 9 + 7 * 60px / 9);
-      animation-delay: calc(50ms * 8);
-    }
-
-    .fingerprint-spinner .spinner-ring:nth-child(9) {
-      height: calc(60px / 9 + 8 * 60px / 9);
-      width: calc(60px / 9 + 8 * 60px / 9);
-      animation-delay: calc(50ms * 9);
-    }
-
-    @keyframes fingerprint-spinner-animation {
-      100% {
-        transform: rotate( 360deg );
+  <!-- Js控制Loding特效-->
+<script>
+  //监听加载状态改变
+  document.onreadystatechange = completeLoading;
+  
+  //加载状态为complete时移除loading效果
+  function completeLoading() {
+      if (document.readyState == "complete") {
+          var loadingMask = document.getElementById('loader-wrapper');
+          loadingMask.parentNode.removeChild(loadingMask);
       }
-    }
-
-
-/***********************end****/
-
-.intersecting-circles-spinner, .intersecting-circles-spinner * {
-      box-sizing: border-box;
-    }
-
-    .intersecting-circles-spinner {
-      height: 115px;
-      width: 115px;
-      position: relative;
-      display: flex;
-      flex-direction: row;
-      justify-content: center;
-      align-items: center;
-    }
-
-    .intersecting-circles-spinner .spinnerBlock {
-      animation: intersecting-circles-spinners-animation 1200ms linear infinite;
-      transform-origin: center;
-      display: block;
-      height: 35px;
-      width: 35px;
-    }
-
-    .intersecting-circles-spinner .circle {
-      display: block;
-      border: 2px solid #ff1d5e;
-      border-radius: 50%;
-      height: 100%;
-      width: 100%;
-      position: absolute;
-      left: 0;
-      top: 0;
-    }
-
-    .intersecting-circles-spinner .circle:nth-child(1) {
-      left: 0;
-      top: 0;
-    }
-
-    .intersecting-circles-spinner .circle:nth-child(2) {
-      left: calc(35px * -0.36);
-      top: calc(35px * 0.2);
-    }
-
-    .intersecting-circles-spinner .circle:nth-child(3) {
-      left: calc(35px * -0.36);
-      top: calc(35px * -0.2);
-    }
-
-    .intersecting-circles-spinner .circle:nth-child(4) {
-      left: 0;
-      top: calc(35px * -0.36);
-    }
-
-    .intersecting-circles-spinner .circle:nth-child(5) {
-      left: calc(35px * 0.36);
-      top: calc(35px * -0.2);
-    }
-
-    .intersecting-circles-spinner .circle:nth-child(6) {
-      left: calc(35px * 0.36);
-      top: calc(35px * 0.2);
-    }
-
-    .intersecting-circles-spinner .circle:nth-child(7) {
-      left: 0;
-      top: calc(35px * 0.36);
-    }
-
-    @keyframes intersecting-circles-spinners-animation {
-      from { transform: rotate(0deg); }
-      to { transform: rotate(360deg); }
-    }
-/**********end********/
-.trinity-rings-spinner, .trinity-rings-spinner * {
-      box-sizing: border-box;
-    }
-
-    .trinity-rings-spinner {
-      height: 115px;
-      width: 115px;
-      padding: 3px;
-      position: relative;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-direction: row;
-      overflow: hidden;
-      box-sizing: border-box;
-    }
-    .trinity-rings-spinner .circle {
-      position:absolute;
-      display:block;
-      border-radius:50%;
-      border: 3px solid #8eff0a;
-      opacity: 1;
-    }
-
-    .trinity-rings-spinner .circle:nth-child(1) {
-      height: 60px;
-      width: 60px;
-      animation : trinity-rings-spinner-circle1-animation 1.5s infinite linear;
-      border-width: 3px;
-    }
-    .trinity-rings-spinner .circle:nth-child(2) {
-      height: calc(60px * 0.65);
-      width: calc(60px * 0.65);
-      animation : trinity-rings-spinner-circle2-animation 1.5s infinite linear;
-      border-width: 2px;
-    }
-    .trinity-rings-spinner .circle:nth-child(3) {
-      height: calc(60px * 0.1);
-      width: calc(60px * 0.1);
-      animation:trinity-rings-spinner-circle3-animation 1.5s infinite linear;
-      border-width: 1px;
-    }
-
-    @keyframes trinity-rings-spinner-circle1-animation{
-      0% {
-        transform: rotateZ(20deg) rotateY(0deg);
-      }
-      100% {
-        transform: rotateZ(100deg) rotateY(360deg);
-      }
-    }
-    @keyframes trinity-rings-spinner-circle2-animation{
-      0% {
-        transform: rotateZ(100deg) rotateX(0deg);
-      }
-      100% {
-        transform: rotateZ(0deg) rotateX(360deg);
-      }
-    }
-    @keyframes trinity-rings-spinner-circle3-animation{
-      0% {
-        transform: rotateZ(100deg) rotateX(-360deg);
-      }
-      100% {
-        transform: rotateZ(-360deg) rotateX(360deg);
-      }
-    }
-</style>
-<script type="text/javascript" src="/pace.min.js" class="pace"></script>
-<!--loading end-->
+  }  
+</script>
+<!-- loading结束 -->
+  
   <meta name="description" content="欢迎来到 NanaNana的网站。如在浏览时发现任何问题，可以通过 QQ 2391626794 联系我哟~     官方Discord服务器进群与更多人交流&#x2F;玩游戏吧！1https:&#x2F;&#x2F;discord.gg&#x2F;WSJZx4R">
 <meta property="og:type" content="article">
 <meta property="og:title" content="欢迎">
@@ -289,6 +58,12 @@
 <meta name="generator" content="Hexo 4.2.1"></head>
 
 <body>
+<div id="loader-wrapper">
+    <div id="loader"></div>
+    <div class="loader-section section-left"></div>
+    <div class="loader-section section-right"></div>
+    <!-- <div class="load_title">Loading. . .<br></div> -->
+</div>
   <div id="container" q-class="show:isCtnShow">
     <canvas id="anm-canvas" class="anm-canvas"></canvas>
     <div class="left-col" q-class="show:isShow">
