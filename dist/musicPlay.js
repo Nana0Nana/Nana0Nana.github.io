@@ -11,7 +11,7 @@ const ap = new APlayer({
     mutex: true,//是否不允许多个播放器同时播放
     listFolded: true,//是否默认收起播放列表
     listMaxHeight: 90,//播放列表的高度
-    //lrcType: 3, //使用lrc文件提供歌词
+    lrcType: 3, //使用lrc文件提供歌词
 	//网易云默认外链链接：http://music.163.com/song/media/outer/url?id=ID数字.mp3
     audio: [
         {
@@ -27,16 +27,18 @@ const ap = new APlayer({
             artist: 'OutaMatic',
             url: 'http://music.163.com/song/media/outer/url?id=412903001.mp3',
             cover: 'https://i1.sndcdn.com/artworks-000161722669-m2fyg7-t500x500.jpg',
-            theme: '#46718b'
 			lrc: '/./dist/music/lrc/N.R.G (feat. F R A N C I S)-OutaMatic.lrc',
+            theme: '#46718b'
+			
         },
 		{
             name: '香りのやる気スイッチ!',
             artist: 'Foxtail-Grass Studio',
             url: 'http://music.163.com/song/media/outer/url?id=454730236.mp3',
             cover: 'https://i0.hdslb.com/bfs/archive/67b7ef243c0129449b7c820fad589e3d8b4d5546.jpg',
-            theme: '#46718b'
 			lrc: '/./dist/music/lrc/香りのやる気スイッチ!-Foxtail-Grass Studio.lrc',
+            theme: '#46718b'
+			
         },
 		{
             name: 'One More Time',
@@ -59,7 +61,7 @@ const ap = new APlayer({
             artist: 'Seven Lions,Tyler Graves',
             url: 'http://ws.stream.qqmusic.qq.com/C400003CHGY543Wnu8.m4a?guid=946220893&vkey=9B792AA40BB435D1BFF185CEEADE648B460F53984100ADBB59D723FE87476E1B9D0E88BCDDFC458DE8CDB2F1D44689EDB5B96E239BA018F5&uin=0&fromtag=66',
             cover: 'https://m.media-amazon.com/images/I/61o7NG2PFaL._SS500_.jpg',
-	    lrc: '/./dist/music/lrc/Only Now(feat. Tyler Graves)-Seven Lions,Tyler Graves.lrc',
+	        lrc: '/./dist/music/lrc/Only Now(feat. Tyler Graves)-Seven Lions,Tyler Graves.lrc',
             theme: '#46718b'
         }
     ]
