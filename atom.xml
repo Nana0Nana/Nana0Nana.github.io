@@ -38,11 +38,11 @@
     
     
     
-      <category term="推荐" scheme="http://yoursite.com/tags/%E6%8E%A8%E8%8D%90/"/>
-    
       <category term="持续更新" scheme="http://yoursite.com/tags/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0/"/>
     
       <category term="CSGO" scheme="http://yoursite.com/tags/CSGO/"/>
+    
+      <category term="推荐" scheme="http://yoursite.com/tags/%E6%8E%A8%E8%8D%90/"/>
     
   </entry>
   
@@ -68,9 +68,9 @@
     
     
     
-      <category term="已完结" scheme="http://yoursite.com/tags/%E5%B7%B2%E5%AE%8C%E7%BB%93/"/>
-    
       <category term="推荐" scheme="http://yoursite.com/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+      <category term="已完结" scheme="http://yoursite.com/tags/%E5%B7%B2%E5%AE%8C%E7%BB%93/"/>
     
       <category term="Launchpad" scheme="http://yoursite.com/tags/Launchpad/"/>
     
@@ -97,11 +97,11 @@
     
     
     
+      <category term="持续更新" scheme="http://yoursite.com/tags/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0/"/>
+    
       <category term="推荐" scheme="http://yoursite.com/tags/%E6%8E%A8%E8%8D%90/"/>
     
       <category term="动漫" scheme="http://yoursite.com/tags/%E5%8A%A8%E6%BC%AB/"/>
-    
-      <category term="持续更新" scheme="http://yoursite.com/tags/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0/"/>
     
   </entry>
   
@@ -127,11 +127,11 @@
     
     
     
-      <category term="已完结" scheme="http://yoursite.com/tags/%E5%B7%B2%E5%AE%8C%E7%BB%93/"/>
-    
       <category term="推荐" scheme="http://yoursite.com/tags/%E6%8E%A8%E8%8D%90/"/>
     
       <category term="动漫" scheme="http://yoursite.com/tags/%E5%8A%A8%E6%BC%AB/"/>
+    
+      <category term="已完结" scheme="http://yoursite.com/tags/%E5%B7%B2%E5%AE%8C%E7%BB%93/"/>
     
   </entry>
   
@@ -155,11 +155,11 @@
     
     
     
+      <category term="持续更新" scheme="http://yoursite.com/tags/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0/"/>
+    
       <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
     
       <category term="bilibili" scheme="http://yoursite.com/tags/bilibili/"/>
-    
-      <category term="持续更新" scheme="http://yoursite.com/tags/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0/"/>
     
   </entry>
   
@@ -183,11 +183,11 @@
     
     
     
+      <category term="已完结" scheme="http://yoursite.com/tags/%E5%B7%B2%E5%AE%8C%E7%BB%93/"/>
+    
       <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
     
       <category term="bilibili" scheme="http://yoursite.com/tags/bilibili/"/>
-    
-      <category term="已完结" scheme="http://yoursite.com/tags/%E5%B7%B2%E5%AE%8C%E7%BB%93/"/>
     
   </entry>
   
