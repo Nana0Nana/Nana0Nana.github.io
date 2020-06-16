@@ -1,0 +1,1031 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<!-- Js控制Loding特效-->
+<script>
+  //监听加载状态改变
+  document.onreadystatechange = completeLoading;
+  
+  //加载状态为complete时移除loading效果
+  function completeLoading() {
+      if (document.readyState == "complete") {
+          var loadingMask = document.getElementById('loader-wrapper');
+          loadingMask.parentNode.removeChild(loadingMask);
+      }
+  }  
+</script>
+<!-- loading结束 -->
+  <meta charset="utf-8">
+  
+  <meta name="renderer" content="webkit">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" >
+  <link rel="dns-prefetch" href="http://yoursite.com">
+  <title>NanaNana的个人网站</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <script src="//cdn.bootcss.com/pace/1.0.2/pace.min.js"></script>
+  <link href="//cdn.bootcss.com/pace/1.0.2/themes/pink/pace-theme-flash.css" rel="stylesheet">
+
+
+  
+  <meta name="description" content="动漫、番剧分享、B站直播、看番平台、动漫分享、恋爱番推荐">
+<meta property="og:type" content="website">
+<meta property="og:title" content="NanaNana的个人网站">
+<meta property="og:url" content="http://yoursite.com/index.html">
+<meta property="og:site_name" content="NanaNana的个人网站">
+<meta property="og:description" content="动漫、番剧分享、B站直播、看番平台、动漫分享、恋爱番推荐">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:author" content="Nana⚝Nana">
+<meta property="article:tag" content="Nana">
+<meta property="article:tag" content="NanaNana">
+<meta property="article:tag" content="动漫">
+<meta property="article:tag" content="番剧分享">
+<meta property="article:tag" content="B站直播">
+<meta property="article:tag" content="nananana">
+<meta name="twitter:card" content="summary">
+  
+    <link rel="alternative" href="/atom.xml" title="NanaNana的个人网站" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="https://i.ibb.co/tPRtRLt/6b3044014a90f603597359a83712b31bb251ed56.jpg">
+  
+  <link rel="stylesheet" type="text/css" href="/./main.0cf68a.css">
+  <style type="text/css">
+  
+    #container.show {
+      background: #fff;
+    }
+  </style>
+  
+
+  
+
+<meta name="generator" content="Hexo 4.2.1"></head>
+
+
+<div id="loader-wrapper">
+    <div id="loader"></div>
+    <div class="loader-section section-left"></div>
+    <div class="loader-section section-right"></div>
+    <!-- <div class="load_title">Loading. . .<br></div> -->
+</div>
+  <div id="container" q-class="show:isCtnShow">
+    <canvas id="anm-canvas" class="anm-canvas"></canvas>
+    <div class="left-col" q-class="show:isShow">
+      
+<div class="overlay" style="background: #4d4d4d"></div>
+<div class="intrude-less">
+	<header id="header" class="inner">
+		<a href="/" class="profilepic">
+			<img src="/img/me.jpg" class="js-avatar">
+		</a>
+		<hgroup>
+		  <h1 class="header-author"><a href="/">Nana⚝Nana</a></h1>
+		</hgroup>
+		
+		<p class="header-subtitle">どうしようかな (/ω＼)</p>
+		
+
+		<nav class="header-menu">
+			<ul>
+			
+				<li><a href="/">主页</a></li>
+	        
+				<li><a href="https://steamcommunity.com/id/Nana0Nana/" target="_blank" rel="noopener">Steam</a></li>
+	        
+				<li><a href="https://discord.gg/WSJZx4R" target="_blank" rel="noopener">Discord</a></li>
+	        
+				<li><a href="/categories">分类</a></li>
+	        
+				<li><a href="https://aidn.jp/mikutap/" target="_blank" rel="noopener">一个有趣的网页</a></li>
+	        
+			</ul>
+		</nav>
+		<input type="text" placeholder="             搜索文章..." class="st-default-search-input">
+		<script type="text/javascript">
+  (function(w,d,t,u,n,s,e){w['SwiftypeObject']=n;w[n]=w[n]||function(){
+  (w[n].q=w[n].q||[]).push(arguments);};s=d.createElement(t);
+  e=d.getElementsByTagName(t)[0];s.async=1;s.src=u;e.parentNode.insertBefore(s,e);
+  })(window,document,'script','//s.swiftypecdn.com/install/v2/st.js','_st');
+  
+  _st('install','Lu7mHXSKHsTRA2wssCkz','2.0.0');
+</script>
+		<nav class="header-smart-menu">
+    		
+    			
+            
+    			
+            
+    			
+            
+		</nav>
+		<nav class="header-nav">
+			<div class="social">
+				
+					<a class="github" target="_blank" href="https://github.com/Nana0Nana" title="github"><i class="icon-github"></i></a>
+		        
+					<a class="qq" target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=Nj4nrH79D1_wqJHOvwtH4P-nIfMwBImu&noverify=0" title="qq"><i class="icon-qq"></i></a>
+		        
+					<a class="bilibili" target="_blank" href="https://space.bilibili.com/284128229" title="bilibili"><i class="icon-bilibili"></i></a>
+		        
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+	
+		
+		
+		
+	<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5i9prls7k0s&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=0" async="async"></script>
+
+
+	</header>		
+</div>
+
+    </div>
+    <div class="mid-col" q-class="show:isShow,hide:isShow|isFalse">
+      
+<nav id="mobile-nav">
+  	<div class="overlay js-overlay" style="background: #4d4d4d"></div>
+	<div class="btnctn js-mobile-btnctn">
+  		<div class="slider-trigger list" q-on="click: openSlider(e)"><i class="icon icon-sort"></i></div>
+	</div>
+	<div class="intrude-less">
+		<header id="header" class="inner">
+			<div class="profilepic">
+				<img src="/img/me.jpg" class="js-avatar">
+			</div>
+			<hgroup>
+			  <h1 class="header-author js-header-author">Nana⚝Nana</h1>
+			</hgroup>
+			
+			<p class="header-subtitle"><i class="icon icon-quo-left"></i>どうしようかな (/ω＼)<i class="icon icon-quo-right"></i></p>
+			
+			
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+			
+			
+			<nav class="header-nav">
+				<div class="social">
+					
+						<a class="github" target="_blank" href="https://github.com/Nana0Nana" title="github"><i class="icon-github"></i></a>
+			        
+						<a class="qq" target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=Nj4nrH79D1_wqJHOvwtH4P-nIfMwBImu&noverify=0" title="qq"><i class="icon-qq"></i></a>
+			        
+						<a class="bilibili" target="_blank" href="https://space.bilibili.com/284128229" title="bilibili"><i class="icon-bilibili"></i></a>
+			        
+				</div>
+			</nav>
+
+			<nav class="header-menu js-header-menu">
+				<ul style="width: 70%">
+				
+				
+					<li style="width: 20%"><a href="/">主页</a></li>
+		        
+					<li style="width: 20%"><a href="https://steamcommunity.com/id/Nana0Nana/" target="_blank" rel="noopener">Steam</a></li>
+		        
+					<li style="width: 20%"><a href="https://discord.gg/WSJZx4R" target="_blank" rel="noopener">Discord</a></li>
+		        
+					<li style="width: 20%"><a href="/categories">分类</a></li>
+		        
+					<li style="width: 20%"><a href="https://aidn.jp/mikutap/" target="_blank" rel="noopener">一个有趣的网页</a></li>
+		        
+				</ul>
+			</nav>
+		</header>				
+	</div>
+	<div class="mobile-mask" style="display:none" q-show="isShow"></div>
+</nav>
+
+      <div id="wrapper" class="body-wrap">
+        <div class="menu-l">
+          <div class="canvas-wrap">
+            <canvas data-colors="#eaeaea" data-sectionHeight="100" data-contentId="js-content" id="myCanvas1" class="anm-canvas"></canvas>
+          </div>
+          <div id="js-content" class="content-ll">
+            
+  
+    <article id="post-Welcome" class="article article-type-post  article-index" itemscope itemprop="blogPost">
+  <div class="article-inner">
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2020/05/17/Welcome/">欢迎</a>
+    </h1>
+  
+
+        
+        <a href="/2020/05/17/Welcome/" class="archive-article-date">
+  	<time datetime="2020-05-17T04:52:39.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2020-05-17</time>
+</a>
+        
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>欢迎来到 NanaNana的网站。如在浏览时发现任何问题，可以通过 QQ 2391626794 联系我哟~</p>
+<h3 id="——-番剧推荐、恋爱番剧推荐、海外B站直播、看番平台、看番网站、NanaNana、nananana-——"><a href="#——-番剧推荐、恋爱番剧推荐、海外B站直播、看番平台、看番网站、NanaNana、nananana-——" class="headerlink" title="——- 番剧推荐、恋爱番剧推荐、海外B站直播、看番平台、看番网站、NanaNana、nananana ——-"></a>——- 番剧推荐、恋爱番剧推荐、海外B站直播、看番平台、看番网站、NanaNana、nananana ——-</h3><h2 id="官方Discord服务器"><a href="#官方Discord服务器" class="headerlink" title="官方Discord服务器"></a>官方Discord服务器</h2><h3 id="进群与更多人交流-玩游戏吧！"><a href="#进群与更多人交流-玩游戏吧！" class="headerlink" title="进群与更多人交流/玩游戏吧！"></a>进群与更多人交流/玩游戏吧！</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://discord.gg/WSJZx4R</span><br></pre></td></tr></table></figure>
+
+
+
+<iframe src="https://discordapp.com/widget?id=658444715741675560&theme=dark" width="1850" height="500" allowtransparency="true" frameborder="0"></iframe>
+
+
+
+
+
+
+      
+
+      
+    </div>
+    <div class="article-info article-info-index">
+      
+        <div class="article-pop-out tagcloud">
+          <i class="icon-tuding"></i>
+          <a class="article-tag-list-link color3">置顶</a>
+        </div>
+      
+      
+	<div class="article-tag tagcloud">
+		<i class="icon-price-tags icon"></i>
+		<ul class="article-tag-list">
+			 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">Welcome</a>
+        		</li>
+      		
+		</ul>
+	</div>
+
+      
+
+      
+        <p class="article-more-link">
+          <a class="article-more-a" href="/2020/05/17/Welcome/">展开全文 >></a>
+        </p>
+      
+
+      
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</article>
+
+<aside class="wrap-side-operation">
+    <div class="mod-side-operation">
+        
+        <div class="jump-container" id="js-jump-container" style="display:none;">
+            <a href="javascript:void(0)" class="mod-side-operation__jump-to-top">
+                <i class="icon-font icon-back"></i>
+            </a>
+            <div id="js-jump-plan-container" class="jump-plan-container" style="top: -11px;">
+                <i class="icon-font icon-plane jump-plane"></i>
+            </div>
+        </div>
+        
+        
+    </div>
+</aside>
+
+
+
+
+  
+    <article id="post-CsgoServer" class="article article-type-post  article-index" itemscope itemprop="blogPost">
+  <div class="article-inner">
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2020/05/30/CsgoServer/">北美1V1单挑CSGO服务器</a>
+    </h1>
+  
+
+        
+        <a href="/2020/05/30/CsgoServer/" class="archive-article-date">
+  	<time datetime="2020-05-31T02:39:46.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2020-05-30</time>
+</a>
+        
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <img src="https://i.ibb.co/BsxsfZj/headpic.png" alt>
+
+
+
+
+<h2 id="CSGO北美加拿大1V1服务器"><a href="#CSGO北美加拿大1V1服务器" class="headerlink" title="CSGO北美加拿大1V1服务器"></a>CSGO北美加拿大1V1服务器</h2><h2 id="你与好友单挑battle的不二之选"><a href="#你与好友单挑battle的不二之选" class="headerlink" title="你与好友单挑battle的不二之选"></a>你与好友单挑battle的不二之选</h2>
+        
+          <a class="article-more-a" href="/2020/05/30/CsgoServer/#more">点击展开全文 >></a>
+        
+      
+
+      
+    </div>
+    <div class="article-info article-info-index">
+      
+        <div class="article-pop-out tagcloud">
+          <i class="icon-tuding"></i>
+          <a class="article-tag-list-link color3">置顶</a>
+        </div>
+      
+      
+	<div class="article-tag tagcloud">
+		<i class="icon-price-tags icon"></i>
+		<ul class="article-tag-list">
+			 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">推荐</a>
+        		</li>
+      		 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color5">持续更新</a>
+        		</li>
+      		 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color5">CSGO</a>
+        		</li>
+      		
+		</ul>
+	</div>
+
+      
+
+      
+        <p class="article-more-link">
+          <a class="article-more-a" href="/2020/05/30/CsgoServer/">展开全文 >></a>
+        </p>
+      
+
+      
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</article>
+
+<aside class="wrap-side-operation">
+    <div class="mod-side-operation">
+        
+        <div class="jump-container" id="js-jump-container" style="display:none;">
+            <a href="javascript:void(0)" class="mod-side-operation__jump-to-top">
+                <i class="icon-font icon-back"></i>
+            </a>
+            <div id="js-jump-plan-container" class="jump-plan-container" style="top: -11px;">
+                <i class="icon-font icon-plane jump-plane"></i>
+            </div>
+        </div>
+        
+        
+    </div>
+</aside>
+
+
+
+
+  
+    <article id="post-Stickers" class="article article-type-post  article-index" itemscope itemprop="blogPost">
+  <div class="article-inner">
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2020/05/29/Stickers/">Launchpad 按键贴</a>
+    </h1>
+  
+
+        
+        <a href="/2020/05/29/Stickers/" class="archive-article-date">
+  	<time datetime="2020-05-29T04:00:00.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2020-05-29</time>
+</a>
+        
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <img src="https://i.ibb.co/MM78Gd9/head-pic.png" alt>
+
+
+
+
+<h2 id="Midiark电子方舟自营Launchpad按键贴"><a href="#Midiark电子方舟自营Launchpad按键贴" class="headerlink" title="Midiark电子方舟自营Launchpad按键贴"></a>Midiark电子方舟自营Launchpad按键贴</h2>
+        
+          <a class="article-more-a" href="/2020/05/29/Stickers/#more">点击展开全文 >></a>
+        
+      
+
+      
+    </div>
+    <div class="article-info article-info-index">
+      
+        <div class="article-pop-out tagcloud">
+          <i class="icon-tuding"></i>
+          <a class="article-tag-list-link color3">置顶</a>
+        </div>
+      
+      
+	<div class="article-tag tagcloud">
+		<i class="icon-price-tags icon"></i>
+		<ul class="article-tag-list">
+			 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">推荐</a>
+        		</li>
+      		 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color4">已完结</a>
+        		</li>
+      		 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color5">Launchpad</a>
+        		</li>
+      		
+		</ul>
+	</div>
+
+      
+
+      
+        <p class="article-more-link">
+          <a class="article-more-a" href="/2020/05/29/Stickers/">展开全文 >></a>
+        </p>
+      
+
+      
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</article>
+
+<aside class="wrap-side-operation">
+    <div class="mod-side-operation">
+        
+        <div class="jump-container" id="js-jump-container" style="display:none;">
+            <a href="javascript:void(0)" class="mod-side-operation__jump-to-top">
+                <i class="icon-font icon-back"></i>
+            </a>
+            <div id="js-jump-plan-container" class="jump-plan-container" style="top: -11px;">
+                <i class="icon-font icon-plane jump-plane"></i>
+            </div>
+        </div>
+        
+        
+    </div>
+</aside>
+
+
+
+
+  
+    <article id="post-Anime-1" class="article article-type-post  article-index" itemscope itemprop="blogPost">
+  <div class="article-inner">
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2020/05/17/Anime-1/">个人向 - 恋爱番剧推荐</a>
+    </h1>
+  
+
+        
+        <a href="/2020/05/17/Anime-1/" class="archive-article-date">
+  	<time datetime="2020-05-17T20:39:48.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2020-05-17</time>
+</a>
+        
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <img src="https://i.ibb.co/p0pgZcH/head-pic-4.png" alt>
+
+
+
+<h2 id="此文章收录了所有我看过的恋爱-后宫番剧，在此做整理并推荐给大家"><a href="#此文章收录了所有我看过的恋爱-后宫番剧，在此做整理并推荐给大家" class="headerlink" title="此文章收录了所有我看过的恋爱/后宫番剧，在此做整理并推荐给大家"></a>此文章收录了所有我看过的恋爱/后宫番剧，在此做整理并推荐给大家</h2><h2 id="所有番剧名称可复制到追番网站直接查看"><a href="#所有番剧名称可复制到追番网站直接查看" class="headerlink" title="所有番剧名称可复制到追番网站直接查看"></a>所有番剧名称可复制到追番网站直接查看</h2><h2 id="不知道有哪些追番网站？-番剧平台分享"><a href="#不知道有哪些追番网站？-番剧平台分享" class="headerlink" title="不知道有哪些追番网站？ 番剧平台分享"></a>不知道有哪些追番网站？<font size="5"> <a href="https://nana0nana.github.io/2020/05/17/Anime/" target="_blank" rel="noopener">番剧平台分享</a></font></h2><h1 id="展开查看番剧推荐列表"><a href="#展开查看番剧推荐列表" class="headerlink" title="展开查看番剧推荐列表"></a>展开查看番剧推荐列表</h1>
+        
+          <a class="article-more-a" href="/2020/05/17/Anime-1/#more">点击展开全文 >></a>
+        
+      
+
+      
+    </div>
+    <div class="article-info article-info-index">
+      
+      
+	<div class="article-tag tagcloud">
+		<i class="icon-price-tags icon"></i>
+		<ul class="article-tag-list">
+			 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">推荐</a>
+        		</li>
+      		 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">动漫</a>
+        		</li>
+      		 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color5">持续更新</a>
+        		</li>
+      		
+		</ul>
+	</div>
+
+      
+
+      
+        <p class="article-more-link">
+          <a class="article-more-a" href="/2020/05/17/Anime-1/">展开全文 >></a>
+        </p>
+      
+
+      
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</article>
+
+<aside class="wrap-side-operation">
+    <div class="mod-side-operation">
+        
+        <div class="jump-container" id="js-jump-container" style="display:none;">
+            <a href="javascript:void(0)" class="mod-side-operation__jump-to-top">
+                <i class="icon-font icon-back"></i>
+            </a>
+            <div id="js-jump-plan-container" class="jump-plan-container" style="top: -11px;">
+                <i class="icon-font icon-plane jump-plane"></i>
+            </div>
+        </div>
+        
+        
+    </div>
+</aside>
+
+
+
+
+  
+    <article id="post-Anime" class="article article-type-post  article-index" itemscope itemprop="blogPost">
+  <div class="article-inner">
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2020/05/17/Anime/">番剧平台分享</a>
+    </h1>
+  
+
+        
+        <a href="/2020/05/17/Anime/" class="archive-article-date">
+  	<time datetime="2020-05-17T20:23:42.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2020-05-17</time>
+</a>
+        
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <img src="https://i.ibb.co/k5XFLqm/head-pic-3.png" alt>
+
+
+
+
+<h1 id="此文章收录了所有我使用过的看番平台，在此做整理分享给大家。"><a href="#此文章收录了所有我使用过的看番平台，在此做整理分享给大家。" class="headerlink" title="此文章收录了所有我使用过的看番平台，在此做整理分享给大家。"></a>此文章收录了所有我使用过的看番平台，在此做整理分享给大家。</h1>
+        
+          <a class="article-more-a" href="/2020/05/17/Anime/#more">点击展开全文 >></a>
+        
+      
+
+      
+    </div>
+    <div class="article-info article-info-index">
+      
+      
+	<div class="article-tag tagcloud">
+		<i class="icon-price-tags icon"></i>
+		<ul class="article-tag-list">
+			 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">推荐</a>
+        		</li>
+      		 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">动漫</a>
+        		</li>
+      		 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color4">已完结</a>
+        		</li>
+      		
+		</ul>
+	</div>
+
+      
+
+      
+        <p class="article-more-link">
+          <a class="article-more-a" href="/2020/05/17/Anime/">展开全文 >></a>
+        </p>
+      
+
+      
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</article>
+
+<aside class="wrap-side-operation">
+    <div class="mod-side-operation">
+        
+        <div class="jump-container" id="js-jump-container" style="display:none;">
+            <a href="javascript:void(0)" class="mod-side-operation__jump-to-top">
+                <i class="icon-font icon-back"></i>
+            </a>
+            <div id="js-jump-plan-container" class="jump-plan-container" style="top: -11px;">
+                <i class="icon-font icon-plane jump-plane"></i>
+            </div>
+        </div>
+        
+        
+    </div>
+</aside>
+
+
+
+
+  
+    <article id="post-Live" class="article article-type-post  article-index" itemscope itemprop="blogPost">
+  <div class="article-inner">
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2020/05/17/Live/">B站直播的一些小插件</a>
+    </h1>
+  
+
+        
+        <a href="/2020/05/17/Live/" class="archive-article-date">
+  	<time datetime="2020-05-17T19:46:10.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2020-05-17</time>
+</a>
+        
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <img src="https://i.ibb.co/wp6FMCB/head-pic-2.png" alt>
+
+
+<h1 id="前-因-后-果"><a href="#前-因-后-果" class="headerlink" title="前 因 后 果"></a>前 因 后 果</h1><h3 id="在我自己直播的时候发现B站自家直播姬功能是在少得可怜，所以上网搜寻了许多改善直播的小插件整理在这里。"><a href="#在我自己直播的时候发现B站自家直播姬功能是在少得可怜，所以上网搜寻了许多改善直播的小插件整理在这里。" class="headerlink" title="在我自己直播的时候发现B站自家直播姬功能是在少得可怜，所以上网搜寻了许多改善直播的小插件整理在这里。"></a>在我自己直播的时候发现B站自家直播姬功能是在少得可怜，所以上网搜寻了许多改善直播的小插件整理在这里。</h3>
+        
+          <a class="article-more-a" href="/2020/05/17/Live/#more">点击展开全文 >></a>
+        
+      
+
+      
+    </div>
+    <div class="article-info article-info-index">
+      
+      
+	<div class="article-tag tagcloud">
+		<i class="icon-price-tags icon"></i>
+		<ul class="article-tag-list">
+			 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color5">持续更新</a>
+        		</li>
+      		 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">教程</a>
+        		</li>
+      		 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color4">bilibili</a>
+        		</li>
+      		
+		</ul>
+	</div>
+
+      
+
+      
+        <p class="article-more-link">
+          <a class="article-more-a" href="/2020/05/17/Live/">展开全文 >></a>
+        </p>
+      
+
+      
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</article>
+
+<aside class="wrap-side-operation">
+    <div class="mod-side-operation">
+        
+        <div class="jump-container" id="js-jump-container" style="display:none;">
+            <a href="javascript:void(0)" class="mod-side-operation__jump-to-top">
+                <i class="icon-font icon-back"></i>
+            </a>
+            <div id="js-jump-plan-container" class="jump-plan-container" style="top: -11px;">
+                <i class="icon-font icon-plane jump-plane"></i>
+            </div>
+        </div>
+        
+        
+    </div>
+</aside>
+
+
+
+
+  
+    <article id="post-Live-2" class="article article-type-post  article-index" itemscope itemprop="blogPost">
+  <div class="article-inner">
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2020/05/17/Live-2/">海外用户在B站直播方法</a>
+    </h1>
+  
+
+        
+        <a href="/2020/05/17/Live-2/" class="archive-article-date">
+  	<time datetime="2020-05-17T06:39:13.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2020-05-17</time>
+</a>
+        
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <img src="https://i.ibb.co/HTv51hF/head-pic.png" alt>
+
+
+<h1 id="前-因-后-果"><a href="#前-因-后-果" class="headerlink" title="前 因 后 果"></a>前 因 后 果</h1><h3 id="刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道"><a href="#刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道" class="headerlink" title="刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道"></a>刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道</h3>
+        
+          <a class="article-more-a" href="/2020/05/17/Live-2/#more">点击展开全文 >></a>
+        
+      
+
+      
+    </div>
+    <div class="article-info article-info-index">
+      
+      
+	<div class="article-tag tagcloud">
+		<i class="icon-price-tags icon"></i>
+		<ul class="article-tag-list">
+			 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">教程</a>
+        		</li>
+      		 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color4">bilibili</a>
+        		</li>
+      		 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color4">已完结</a>
+        		</li>
+      		
+		</ul>
+	</div>
+
+      
+
+      
+        <p class="article-more-link">
+          <a class="article-more-a" href="/2020/05/17/Live-2/">展开全文 >></a>
+        </p>
+      
+
+      
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</article>
+
+<aside class="wrap-side-operation">
+    <div class="mod-side-operation">
+        
+        <div class="jump-container" id="js-jump-container" style="display:none;">
+            <a href="javascript:void(0)" class="mod-side-operation__jump-to-top">
+                <i class="icon-font icon-back"></i>
+            </a>
+            <div id="js-jump-plan-container" class="jump-plan-container" style="top: -11px;">
+                <i class="icon-font icon-plane jump-plane"></i>
+            </div>
+        </div>
+        
+        
+    </div>
+</aside>
+
+
+
+
+  
+  
+
+
+          </div>
+        </div>
+      </div>
+      <footer id="footer">
+  <div class="outer">
+    <div id="footer-info">
+    	<div class="footer-left">
+    		&copy; 2020 Nana⚝Nana
+			<!-- In footer.php -->
+<script type="text/javascript" src="/js/dazi.js"></script>
+    </div>
+  </div>
+</footer>
+    </div>
+    
+<div class="tools-col" q-class="show:isShow,hide:isShow|isFalse" q-on="click:stop(e)">
+  <div class="tools-nav header-menu">
+    
+    
+      
+    
+      
+    
+      
+    
+    
+
+    <ul style="width: 70%">
+    
+    
+      
+        
+      
+        
+      
+        
+    </ul>
+  </div>
+  <div class="tools-wrap">
+    
+
+    
+
+    
+  </div>
+  
+</div>
+    <!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" style="display:none" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+	<canvas class="fireworks" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas> 
+<script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"></script> 
+<script type="text/javascript" src="/js/fireworks.js"></script>
+<!--鼠标点击烟花爆炸效果，需要引入jQuery-->
+
+
+<!--浏览器搞笑标题-->
+<script type="text/javascript" src="\js\FunnyTitle.js"></script>
+<!--动态线条背景-->
+<script type="text/javascript"
+color="220,220,220" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js">
+</script>
+
+<!--动态线条背景-->
+<script type="text/javascript"
+color="220,220,220" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js">
+</script>
+<script type="text/javascript">var OriginTitile=document.title,st;document.addEventListener("visibilitychange",function(){document.hidden?(document.title="_(:ι」∠)_网络状态不佳~",clearTimeout(st)):(document.title="Σσ(・Д・；)网络又好了？？",st=setTimeout(function(){document.title=OriginTitile},3e3))})</script>
+<!--音乐播放器-->
+<link rel="stylesheet" href="/./dist/APlayer.min.css">
+<div id="aplayer" style="z-index: 99999;"></div>
+<script src="/./dist/hls.min.js"></script>
+<script src="/./dist/APlayer.min.js"></script>
+<script src="/./dist/musicPlay.js"></script>
+
+<script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"model":{"jsonPath":"/live2dw/assets/z16.model.json"},"display":{"position":"right","width":300,"height":500},"mobile":{"show":false},"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body>
+
+</html>
