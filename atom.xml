@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-04T01:49:31.790Z</updated>
+  <updated>2020-06-16T20:09:06.952Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,32 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>北美1V1单挑CSGO服务器</title>
-    <link href="http://yoursite.com/2020/05/30/CsgoServer/"/>
-    <id>http://yoursite.com/2020/05/30/CsgoServer/</id>
-    <published>2020-05-31T02:39:46.000Z</published>
-    <updated>2020-06-04T01:49:31.790Z</updated>
+    <title>Hexo Yilia主题设置个性鼠标指针</title>
+    <link href="http://yoursite.com/2020/06/16/mouse/"/>
+    <id>http://yoursite.com/2020/06/16/mouse/</id>
+    <published>2020-06-16T19:47:54.000Z</published>
+    <updated>2020-06-16T20:09:06.952Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.ibb.co/BsxsfZj/headpic.png" alt><h2 id="CSGO北美加拿大1V1服务器"><a href="#CSGO北美加拿大1V1服务器" class="headerlink" title="CSGO北美加拿大1V1服务器"></a>CSGO北美加拿大1V1服务器</h2><h2 id="你与好友单挑battle的不二之选"><a href="#你与好友单挑battle的不二之选" class="headerlink" title="你与好友单挑battle的不二之选"></a>你与好友单挑battle的不二之选</h2><a id="more"></a><br><br><br><p><font size="5"> <a href="steam://connect/72.140.148.180:27015">点我直接进入服务器</a></font><br><br></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">服务器Ip</span><br><span class="line">72.140.148.180:27015</span><br></pre></td></tr></table></figure><br><br><h1 id="服务器目前为-128-Tick，仅适合1V1玩家，服务器为纯净服务器，并无其他插件。如果首次进入服务器下载地图无响应，请在控制台输入"><a href="#服务器目前为-128-Tick，仅适合1V1玩家，服务器为纯净服务器，并无其他插件。如果首次进入服务器下载地图无响应，请在控制台输入" class="headerlink" title="服务器目前为 128 Tick，仅适合1V1玩家，服务器为纯净服务器，并无其他插件。如果首次进入服务器下载地图无响应，请在控制台输入"></a>服务器目前为 128 Tick，仅适合1V1玩家，服务器为纯净服务器，并无其他插件。如果首次进入服务器下载地图无响应，请在控制台输入</h1><h2 id="sv-allowupload-1"><a href="#sv-allowupload-1" class="headerlink" title="sv_allowupload 1"></a>sv_allowupload 1</h2><br> <font size="5"> <a href="https://download1506.mediafire.com/aat0f5hapuag/cnjz34s3qh18kzt/am_texture2014.bsp" target="_blank" rel="noopener">或点我下载地图并放到X:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\maps文件夹中</a></font><br><br><h1 id="友情提示：服务器下载地图速度龟速"><a href="#友情提示：服务器下载地图速度龟速" class="headerlink" title="友情提示：服务器下载地图速度龟速"></a>友情提示：服务器下载地图速度龟速</h1><br><br><h1 id="服务器截图"><a href="#服务器截图" class="headerlink" title="服务器截图"></a>服务器截图</h1><img src="https://i.ibb.co/2gM5K5X/99-R-JRP31-KF-RCO8-FW4-N.png" alt>       <img src="https://i.ibb.co/86DBGd8/WJT1-CJRF-Q-8-J-M7-KNB5-C.png" alt><br><br><br><font size="5"> <a href="http://steamcommunity.com/groups/USCAPRO" target="_blank" rel="noopener">欢迎加入我的steam组</a></font>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.ibb.co/8YRQ3nq/head-pic.png" alt><h1 id="此文章将教大家如何让用户浏览个人博客时鼠标指针会自动改变成我们预设的样式"><a href="#此文章将教大家如何让用户浏览个人博客时鼠标指针会自动改变成我们预设的样式" class="headerlink" title="此文章将教大家如何让用户浏览个人博客时鼠标指针会自动改变成我们预设的样式"></a>此文章将教大家如何让用户浏览个人博客时鼠标指针会自动改变成我们预设的样式</h1><a id="more"></a><br><br><br><h3 id="1-找到-HEXO-themes-hexo-theme-yilia-master-source中的main-0cf68a-css文件"><a href="#1-找到-HEXO-themes-hexo-theme-yilia-master-source中的main-0cf68a-css文件" class="headerlink" title="1. 找到 HEXO\themes\hexo-theme-yilia-master\source中的main.0cf68a.css文件"></a>1. 找到 HEXO\themes\hexo-theme-yilia-master\source中的main.0cf68a.css文件</h3><br><br><br><br><h2 id="2-将此段代码复制进去"><a href="#2-将此段代码复制进去" class="headerlink" title="2. 将此段代码复制进去"></a>2. 将此段代码复制进去</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">body &#123;</span><br><span class="line">    margin:0;</span><br><span class="line">    font-size:10px;</span><br><span class="line">    font-family:Helvetica Neue, Helvetica, STHeiTi, Arial, sans-serif;</span><br><span class="line">    line-height:1.5;</span><br><span class="line">    color:<span class="comment">#333;</span></span><br><span class="line">    /* background-color:<span class="comment">#fff; */</span></span><br><span class="line">    min-height:50%;</span><br><span class="line">    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), </span><br><span class="line">        url(<span class="string">''</span>) no-repeat 0% 0%/ cover;</span><br><span class="line">    cursor:url(<span class="string">'替换'</span>), default;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">/* 因为超链接默认情况下是：cursor: pointer; 显示为手，这里进行设置 */</span><br><span class="line">a &#123;</span><br><span class="line">    cursor:url(<span class="string">'替换'</span>), default;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><br><br><h1 id="3-url后面换成自己想设置的图片地址"><a href="#3-url后面换成自己想设置的图片地址" class="headerlink" title="3. url后面换成自己想设置的图片地址"></a>3. url后面换成自己想设置的图片地址</h1><br><h1 id="尽量不要使用PNG图片，会导致部分浏览器不显示"><a href="#尽量不要使用PNG图片，会导致部分浏览器不显示" class="headerlink" title="尽量不要使用PNG图片，会导致部分浏览器不显示"></a>尽量不要使用PNG图片，会导致部分浏览器不显示</h1><br><br><br><br><h3 id="指令参考来源：https-yansheng0083-gitee-io-article-72a91df5-html"><a href="#指令参考来源：https-yansheng0083-gitee-io-article-72a91df5-html" class="headerlink" title="指令参考来源：https://yansheng0083.gitee.io/article/72a91df5.html"></a>指令参考来源：<a href="https://yansheng0083.gitee.io/article/72a91df5.html" target="_blank" rel="noopener">https://yansheng0083.gitee.io/article/72a91df5.html</a></h3><h3 id="Head-pic-：-https-www-pixiv-net-artworks-73500201"><a href="#Head-pic-：-https-www-pixiv-net-artworks-73500201" class="headerlink" title="Head pic ： https://www.pixiv.net/artworks/73500201"></a>Head pic ： <a href="https://www.pixiv.net/artworks/73500201" target="_blank" rel="noopener">https://www.pixiv.net/artworks/73500201</a></h3>]]></content>
     
     <summary type="html">
     
-      &lt;img src=&quot;https://i.ibb.co/BsxsfZj/headpic.png&quot; alt&gt;
+      &lt;img src=&quot;https://i.ibb.co/8YRQ3nq/head-pic.png&quot; alt&gt;
 
 
-
-
-&lt;h2 id=&quot;CSGO北美加拿大1V1服务器&quot;&gt;&lt;a href=&quot;#CSGO北美加拿大1V1服务器&quot; class=&quot;headerlink&quot; title=&quot;CSGO北美加拿大1V1服务器&quot;&gt;&lt;/a&gt;CSGO北美加拿大1V1服务器&lt;/h2&gt;&lt;h2 id=&quot;你与好友单挑battle的不二之选&quot;&gt;&lt;a href=&quot;#你与好友单挑battle的不二之选&quot; class=&quot;headerlink&quot; title=&quot;你与好友单挑battle的不二之选&quot;&gt;&lt;/a&gt;你与好友单挑battle的不二之选&lt;/h2&gt;
+&lt;h1 id=&quot;此文章将教大家如何让用户浏览个人博客时鼠标指针会自动改变成我们预设的样式&quot;&gt;&lt;a href=&quot;#此文章将教大家如何让用户浏览个人博客时鼠标指针会自动改变成我们预设的样式&quot; class=&quot;headerlink&quot; title=&quot;此文章将教大家如何让用户浏览个人博客时鼠标指针会自动改变成我们预设的样式&quot;&gt;&lt;/a&gt;此文章将教大家如何让用户浏览个人博客时鼠标指针会自动改变成我们预设的样式&lt;/h1&gt;
     
     </summary>
     
     
     
-      <category term="推荐" scheme="http://yoursite.com/tags/%E6%8E%A8%E8%8D%90/"/>
+      <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
     
-      <category term="持续更新" scheme="http://yoursite.com/tags/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0/"/>
+      <category term="已完结" scheme="http://yoursite.com/tags/%E5%B7%B2%E5%AE%8C%E7%BB%93/"/>
     
-      <category term="CSGO" scheme="http://yoursite.com/tags/CSGO/"/>
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+      <category term="yilia" scheme="http://yoursite.com/tags/yilia/"/>
     
   </entry>
   
@@ -51,7 +51,7 @@
     <link href="http://yoursite.com/2020/05/29/Stickers/"/>
     <id>http://yoursite.com/2020/05/29/Stickers/</id>
     <published>2020-05-29T04:00:00.000Z</published>
-    <updated>2020-06-04T01:49:41.773Z</updated>
+    <updated>2020-06-16T19:59:27.866Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.ibb.co/MM78Gd9/head-pic.png" alt><h2 id="Midiark电子方舟自营Launchpad按键贴"><a href="#Midiark电子方舟自营Launchpad按键贴" class="headerlink" title="Midiark电子方舟自营Launchpad按键贴"></a>Midiark电子方舟自营Launchpad按键贴</h2><a id="more"></a><br><br><br><br><br><br><br><h2 id="全场贴纸买三送一，两件包邮"><a href="#全场贴纸买三送一，两件包邮" class="headerlink" title="全场贴纸买三送一，两件包邮"></a>全场贴纸买三送一，两件包邮</h2><br><br><br><h2 id="购买请点击左侧栏添加QQ或者访问-电子方舟官网-也可以直接点击文章末端的赞赏转账并在转账备注中填写快递信息，"><a href="#购买请点击左侧栏添加QQ或者访问-电子方舟官网-也可以直接点击文章末端的赞赏转账并在转账备注中填写快递信息，" class="headerlink" title="购买请点击左侧栏添加QQ或者访问 电子方舟官网,也可以直接点击文章末端的赞赏转账并在转账备注中填写快递信息，"></a>购买请点击左侧栏添加QQ或者访问<font size="5"> <a href="https://www.midiark123.tk" target="_blank" rel="noopener">电子方舟官网</a></font>,也可以直接点击文章末端的赞赏转账并在转账备注中填写快递信息，</h2><h1 id="Galaxy-white-29-99元-张"><a href="#Galaxy-white-29-99元-张" class="headerlink" title="Galaxy white - 29.99元/张"></a>Galaxy white - 29.99元/张</h1><img src="https://i.ibb.co/Z6V3YrT/galaxy-2.jpg" alt height="1000" width="1500"><br><img src="https://i.ibb.co/Lh3tgMM/galaxy-4.jpg" alt height="2000" width="1500"><br><img src="https://i.ibb.co/SVnyGH0/galaxy-5.jpg" alt height="1000" width="1500"><br><h1 id="Edge-Dark-25-99-元-张"><a href="#Edge-Dark-25-99-元-张" class="headerlink" title="Edge Dark - 25.99 元/张"></a>Edge Dark - 25.99 元/张</h1><img src="https://i.ibb.co/tBn4hdg/black-1.jpg" alt height="1000" width="1500"><br><img src="https://i.ibb.co/K0Hgq35/black-2.jpg" alt height="1000" width="1500"><br><img src="https://i.ibb.co/P1L7Qw1/black-4.jpg" alt height="1000" width="1500"><br><h1 id="Focus-Light-40元-2张（黑-白）"><a href="#Focus-Light-40元-2张（黑-白）" class="headerlink" title="Focus Light - 40元/2张（黑+白）"></a>Focus Light - 40元/2张（黑+白）</h1><h1 id="由于白色贴纸颜色以及材质特殊性，购买focus-light将附送黑色一张。"><a href="#由于白色贴纸颜色以及材质特殊性，购买focus-light将附送黑色一张。" class="headerlink" title="由于白色贴纸颜色以及材质特殊性，购买focus light将附送黑色一张。"></a>由于白色贴纸颜色以及材质特殊性，购买focus light将附送黑色一张。</h1><img src="https://i.ibb.co/myqkmbd/white-1.jpg" alt height="1000" width="1500"><br><img src="https://i.ibb.co/K0vkVfd/white-2.jpg" alt height="1000" width="1500"><br><img src="https://i.ibb.co/PMT36Rv/white.jpg" alt height="1000" width="1500">]]></content>
     
@@ -168,7 +168,7 @@
     <link href="http://yoursite.com/2020/05/17/Live-2/"/>
     <id>http://yoursite.com/2020/05/17/Live-2/</id>
     <published>2020-05-17T06:39:13.000Z</published>
-    <updated>2020-05-27T18:07:49.257Z</updated>
+    <updated>2020-06-16T20:00:43.118Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.ibb.co/HTv51hF/head-pic.png" alt><h1 id="前-因-后-果"><a href="#前-因-后-果" class="headerlink" title="前 因 后 果"></a>前 因 后 果</h1><h3 id="刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道"><a href="#刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道" class="headerlink" title="刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道"></a>刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道</h3><a id="more"></a><img src="https://i.ibb.co/n7F7QmT/TIM-20200517151009.png" alt><p>如图</p><h3 id="在尝试多次后，我选择了使用VPN解决此问题。"><a href="#在尝试多次后，我选择了使用VPN解决此问题。" class="headerlink" title="在尝试多次后，我选择了使用VPN解决此问题。"></a>在尝试多次后，我选择了使用VPN解决此问题。</h3><p>最初，我选择了万能的纸飞机ShadowsocksR。但使用了几个订阅链接后发现目前能够搜索到的回国ssr无法解决b站直播问题，尽管设置了全局代理。</p><p>谷歌上可以搜索到的回国vpn也基本全军覆没，在这里为大家推荐几款可用于b站直播的vpn。</p><h3 id="1-蚂蚁VPN"><a href="#1-蚂蚁VPN" class="headerlink" title="1. 蚂蚁VPN"></a>1.<font size="5"> <a href="https://b.antss.me/" target="_blank" rel="noopener">蚂蚁VPN</a></font></h3><p>蚂蚁VPN可以连接多个回国节点，而且无限速</p><h2 id="缺点-流量优先，需要分享链接给朋友才能增加流量。"><a href="#缺点-流量优先，需要分享链接给朋友才能增加流量。" class="headerlink" title="缺点 流量优先，需要分享链接给朋友才能增加流量。"></a>缺点 流量优先，需要分享链接给朋友才能增加流量。</h2><h3 id="2-穿梭transocks"><a href="#2-穿梭transocks" class="headerlink" title="2.  穿梭transocks"></a>2. <font size="5"> <a href="https://www.transocks.com" target="_blank" rel="noopener">穿梭transocks</a></font></h3><p>穿梭算是海外党的福音，基本所有人选择回国vpn时都会选择此vpn</p><h2 id="缺点-电脑端需要收费使用-手机端可以免费试用（据说速度会慢）"><a href="#缺点-电脑端需要收费使用-手机端可以免费试用（据说速度会慢）" class="headerlink" title="缺点 电脑端需要收费使用 手机端可以免费试用（据说速度会慢）"></a>缺点 电脑端需要收费使用 手机端可以免费试用（据说速度会慢）</h2><h4 id="以上盘点的两款算是可以正常试用b站直播服务，建议有需要的朋友可以选择下载。"><a href="#以上盘点的两款算是可以正常试用b站直播服务，建议有需要的朋友可以选择下载。" class="headerlink" title="以上盘点的两款算是可以正常试用b站直播服务，建议有需要的朋友可以选择下载。"></a>以上盘点的两款算是可以正常试用b站直播服务，建议有需要的朋友可以选择下载。</h4><h3 id="Head-pic-：-https-www-pixiv-net-artworks-73500201"><a href="#Head-pic-：-https-www-pixiv-net-artworks-73500201" class="headerlink" title="Head pic ： https://www.pixiv.net/artworks/73500201"></a>Head pic ： <a href="https://www.pixiv.net/artworks/73500201" target="_blank" rel="noopener">https://www.pixiv.net/artworks/73500201</a></h3>]]></content>
     
