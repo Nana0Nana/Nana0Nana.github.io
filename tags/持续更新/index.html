@@ -61,7 +61,6 @@
 
 <meta name="generator" content="Hexo 4.2.1"></head>
 
-<body>
 <div id="loader-wrapper">
     <div id="loader"></div>
     <div class="loader-section section-left"></div>
@@ -162,8 +161,8 @@
 		
 		
 		
-	<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5cl5to2ijwo&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
-	
+	<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5i9prls7k0s&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=0" async="async"></script>
+
 
 <link rel="stylesheet" href="/./dist/APlayer.min.css">
 <div id="aplayer" style="z-index: 99999;"></div>
@@ -694,74 +693,11 @@ color="220,220,220" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com
 color="220,220,220" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js">
 </script>
 <script type="text/javascript">var OriginTitile=document.title,st;document.addEventListener("visibilitychange",function(){document.hidden?(document.title="_(:ι」∠)_网络状态不佳~",clearTimeout(st)):(document.title="Σσ(・Д・；)网络又好了？？",st=setTimeout(function(){document.title=OriginTitile},3e3))})</script>
-
-<!-- 《左侧边栏添加--APlayer音乐播放器 -->
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
-<!-- // 这里div的样式是笔者自己修改过的，你可以直接使用APlayer官方的原配置：<div id="aplayer"></div> -->
-<div id="aplayer" style="position:absolute;left;0;bottom:0;"></div>
-<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/color-thief-don@2.0.2/src/color-thief.js"></script>
-<script>
-    const ap = new APlayer({
-        container: document.getElementById('aplayer'),
-        autoplay: false,
-        listFolded: true,
-        listMaxHeight: 90,
-        order: 'list',
-        loop: 'all',
-        theme: '#b7daff',
-        preload: 'none',
-        mutex: true,
-        lrcType: 3,
-        volume: 0.7,
-        fixed: true,
-        audio: [{
-                name: 'N.R.G',
-                artist: 'OutaMatic',
-                url: 'http://music.163.com/song/media/outer/url?id=412903001.mp3',
-                cover: 'https://i1.sndcdn.com/artworks-000161722669-m2fyg7-t500x500.jpg',
-				lrc: '/./dist/music/lrc/N.R.G (feat. F R A N C I S)-OutaMatic.lrc',
-                theme: '#46718b'
-			
-            },
-            {
-                name: 'Locked Away',
-            artist: 'OutaMatic',
-            url: 'http://music.163.com/song/media/outer/url?id=406072193.mp3',
-            cover: 'https://i1.sndcdn.com/artworks-000138376764-zvin0u-t500x500.jpg',
-            lrc: '/./dist/music/lrc/Locked Away-OutaMatic,Maddie Wilson,Madilyn Paige.lrc',
-            theme: '#46718b'
-            },
-			{
-                name: '香りのやる気スイッチ!',
-                artist: 'Foxtail-Grass Studio',
-            url: 'http://music.163.com/song/media/outer/url?id=454730236.mp3',
-            cover: 'https://i0.hdslb.com/bfs/archive/67b7ef243c0129449b7c820fad589e3d8b4d5546.jpg',
-			lrc: '/./dist/music/lrc/香りのやる気スイッチ!-Foxtail-Grass Studio.lrc',
-            theme: '#46718b'
-		
-        },
-			
-        ]
-    });
-
-    <!-- 根据封面自适应主题色 -->
-    const colorThief = new ColorThief();
-    const setTheme = (index) => {
-        if (!ap.list.audios[index].theme) {
-            colorThief.getColorAsync(ap.list.audios[index].cover, function(color) {
-                ap.theme(`rgb(${color[0]}, ${color[1]}, ${color[2]})`, index);
-            });
-        }
-    };
-    setTheme(ap.list.index);
-    ap.on('listswitch', (data) => {
-        setTheme(data.index);
-    });
-</script>
-
-<!-- 左侧边栏添加--APlayer音乐播放器》 -->
-
+<!--音乐播放器-->
+<link rel="stylesheet" href="/./dist/APlayer.min.css">
+<div id="aplayer" style="z-index: 99999;"></div>
+<script src="/./dist/hls.min.js"></script>
+<script src="/./dist/APlayer.min.js"></script>
+<script src="/./dist/musicPlay.js"></script>
 <script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"model":{"jsonPath":"/live2dw/assets/z16.model.json"},"display":{"position":"right","width":300,"height":500},"mobile":{"show":false},"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body>
 </html>
