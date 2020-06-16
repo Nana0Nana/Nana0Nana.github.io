@@ -53,7 +53,7 @@ const ap = new APlayer({
             name: '世界は恋に落ちている',
             artist: 'CHiCO with HoneyWorks',
             url: 'https://sharefs.yun.kugou.com/202006161119/a60649b693255bf5769f0f41aacc1e90/G196/M05/04/17/ZIcBAF5iT-mAIMEjAExk7Rq79zQ485.mp3',
-            cover: 'https://images-na.ssl-images-amazon.com/images/I/61Ag0oTTbcL._AC_.jpg',
+            cover: 'https://cdn.kdkw.jp/cover_1000/321508/321508000294.jpg',
             lrc: '/./dist/music/lrc/世界は恋に落ちている-CHiCO with HoneyWorks.lrc',
 	    theme: '#46718b'
         },
