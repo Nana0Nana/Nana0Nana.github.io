@@ -571,6 +571,24 @@ https://ianlunn.github.io/Hover/ */
   transform: scale(0);
 }
 
+body {
+    margin:0;
+    font-size:5px;
+    font-family:Helvetica Neue, Helvetica, STHeiTi, Arial, sans-serif;
+    line-height:1.5;
+    color:#333;
+    /* background-color:#fff; */
+    min-height:30%;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), 
+        url('') no-repeat 0% 0%/ cover;
+    cursor:url('https://i.ibb.co/QrNXzHf/1.png'), default;
+	
+}
+/* 因为超链接默认情况下是：cursor: pointer; 显示为手，这里进行设置 */
+a {
+    cursor:url('https://i.ibb.co/QrNXzHf/1.png'), default;
+}
+
 /* 分类和标签的分界面 */
 .category-hr-tag {
 }
@@ -612,20 +630,4 @@ https://ianlunn.github.io/Hover/ */
 }
 /*版权声明的样式》*/
 	
-body {
-    margin:0;
-    font-size:10px;
-    font-family:Helvetica Neue, Helvetica, STHeiTi, Arial, sans-serif;
-    line-height:1.5;
-    color:#333;
-    /* background-color:#fff; */
-    min-height:50%;
-    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), 
-        url('') no-repeat 0% 0%/ cover;
-    cursor:url(''), default;
-	
-}
-/* 因为超链接默认情况下是：cursor: pointer; 显示为手，这里进行设置 */
-a {
-    cursor:url(''), default;
-}
+
