@@ -1,185 +1,743 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>网站搭建周记</title>
-      <link href="/2020/06/16/2020-6-16/"/>
-      <url>/2020/06/16/2020-6-16/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>日记</p><a id="more"></a><br><br><br><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" src="http://your-domain.com/get_bangumi_list.php?uid=284128229"></iframe><html><body><p style="font-family:FangSong;font-size:500%;color:black">今天差不多搞了一天的网站，算是达到了预期的效果，现在预计每年换一次主题</p></body></html><h2 id="站内搜索："><a href="#站内搜索：" class="headerlink" title="站内搜索："></a>站内搜索：</h2><img src="https://i.ibb.co/f1gqxRv/TIM-20200616173010.png" alt><br><h1 id="完成进度：100"><a href="#完成进度：100" class="headerlink" title="完成进度：100%"></a>完成进度：100%</h1><h2 id="基于swiftype开发，现已可以搜索网站内的文章。"><a href="#基于swiftype开发，现已可以搜索网站内的文章。" class="headerlink" title="基于swiftype开发，现已可以搜索网站内的文章。"></a>基于swiftype开发，现已可以搜索网站内的文章。</h2><br><h2 id="标签栏："><a href="#标签栏：" class="headerlink" title="标签栏："></a>标签栏：</h2><img src="https://i.ibb.co/xft0Xq5/TIM-20200616173452.png" alt><br><h1 id="完成进度：100-1"><a href="#完成进度：100-1" class="headerlink" title="完成进度：100%"></a>完成进度：100%</h1><h2 id="参考了大佬的教程制作完成，现已经可以导航标签。"><a href="#参考了大佬的教程制作完成，现已经可以导航标签。" class="headerlink" title="参考了大佬的教程制作完成，现已经可以导航标签。"></a>参考了大佬的教程制作完成，现已经可以导航标签。</h2><br><h2 id="追番栏："><a href="#追番栏：" class="headerlink" title="追番栏："></a>追番栏：</h2><img src="https://i.ibb.co/P59CFrc/TIM-20200616173657.png" alt><br><h1 id="完成进度：80"><a href="#完成进度：80" class="headerlink" title="完成进度：80%"></a>完成进度：80%</h1><h2 id="也是参考了大佬的教程，基于bilibili追番。但是没有达到我预期的效果，正在努力中！！"><a href="#也是参考了大佬的教程，基于bilibili追番。但是没有达到我预期的效果，正在努力中！！" class="headerlink" title="也是参考了大佬的教程，基于bilibili追番。但是没有达到我预期的效果，正在努力中！！"></a>也是参考了大佬的教程，基于bilibili追番。但是没有达到我预期的效果，正在努力中！！</h2><br><h2 id="Pixiv美图："><a href="#Pixiv美图：" class="headerlink" title="Pixiv美图："></a>Pixiv美图：</h2><img src="https://i.ibb.co/ch6XMt7/TIM-20200616173841.png" alt><br><h1 id="完成进度：100-2"><a href="#完成进度：100-2" class="headerlink" title="完成进度：100%"></a>完成进度：100%</h1><h2 id="哈！没错，还是参考了大佬的教程，毕竟我懒得一批。"><a href="#哈！没错，还是参考了大佬的教程，毕竟我懒得一批。" class="headerlink" title="哈！没错，还是参考了大佬的教程，毕竟我懒得一批。"></a>哈！没错，还是参考了大佬的教程，毕竟我懒得一批。</h2><br><h2 id="自定义鼠标："><a href="#自定义鼠标：" class="headerlink" title="自定义鼠标："></a>自定义鼠标：</h2><img src="https://i.ibb.co/QrNXzHf/1.png" alt><br><h1 id="完成进度：100-3"><a href="#完成进度：100-3" class="headerlink" title="完成进度：100%"></a>完成进度：100%</h1><h2 id="这个真的太爽了！以前搞了好久都没搞好，昨天翻了一个多小时教程搞好了，已经放到我自己的网站上供人们学习。"><a href="#这个真的太爽了！以前搞了好久都没搞好，昨天翻了一个多小时教程搞好了，已经放到我自己的网站上供人们学习。" class="headerlink" title="这个真的太爽了！以前搞了好久都没搞好，昨天翻了一个多小时教程搞好了，已经放到我自己的网站上供人们学习。"></a>这个真的太爽了！以前搞了好久都没搞好，昨天翻了一个多小时教程搞好了，已经放到我自己的网站上供人们学习。</h2><br><br><h2 id="更新结束…"><a href="#更新结束…" class="headerlink" title="更新结束…."></a>更新结束….</h2><br><br><h2 id="网站开发整体进度：80"><a href="#网站开发整体进度：80" class="headerlink" title="网站开发整体进度：80%"></a>网站开发整体进度：80%</h2><br><h2 id="感谢支持"><a href="#感谢支持" class="headerlink" title="感谢支持"></a>感谢支持</h2>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 日记 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hexo Yilia主题设置个性鼠标指针</title>
-      <link href="/2020/06/16/mouse/"/>
-      <url>/2020/06/16/mouse/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.ibb.co/8YRQ3nq/head-pic.png" alt><h1 id="此文章将教大家如何让用户浏览个人博客时鼠标指针会自动改变成我们预设的样式"><a href="#此文章将教大家如何让用户浏览个人博客时鼠标指针会自动改变成我们预设的样式" class="headerlink" title="此文章将教大家如何让用户浏览个人博客时鼠标指针会自动改变成我们预设的样式"></a>此文章将教大家如何让用户浏览个人博客时鼠标指针会自动改变成我们预设的样式</h1><a id="more"></a><br><br><br><h3 id="1-找到-HEXO-themes-hexo-theme-yilia-master-source中的main-0cf68a-css文件"><a href="#1-找到-HEXO-themes-hexo-theme-yilia-master-source中的main-0cf68a-css文件" class="headerlink" title="1. 找到 HEXO\themes\hexo-theme-yilia-master\source中的main.0cf68a.css文件"></a>1. 找到 HEXO\themes\hexo-theme-yilia-master\source中的main.0cf68a.css文件</h3><br><br><br><br><h2 id="2-将此段代码复制进去"><a href="#2-将此段代码复制进去" class="headerlink" title="2. 将此段代码复制进去"></a>2. 将此段代码复制进去</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">body &#123;</span><br><span class="line">    margin:0;</span><br><span class="line">    font-size:10px;</span><br><span class="line">    font-family:Helvetica Neue, Helvetica, STHeiTi, Arial, sans-serif;</span><br><span class="line">    line-height:1.5;</span><br><span class="line">    color:<span class="comment">#333;</span></span><br><span class="line">    /* background-color:<span class="comment">#fff; */</span></span><br><span class="line">    min-height:50%;</span><br><span class="line">    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), </span><br><span class="line">        url(<span class="string">''</span>) no-repeat 0% 0%/ cover;</span><br><span class="line">    cursor:url(<span class="string">'替换'</span>), default;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">/* 因为超链接默认情况下是：cursor: pointer; 显示为手，这里进行设置 */</span><br><span class="line">a &#123;</span><br><span class="line">    cursor:url(<span class="string">'替换'</span>), default;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><br><br><h1 id="3-url后面换成自己想设置的图片地址"><a href="#3-url后面换成自己想设置的图片地址" class="headerlink" title="3. url后面换成自己想设置的图片地址"></a>3. url后面换成自己想设置的图片地址</h1><br><h1 id="尽量不要使用PNG图片，会导致部分浏览器不显示"><a href="#尽量不要使用PNG图片，会导致部分浏览器不显示" class="headerlink" title="尽量不要使用PNG图片，会导致部分浏览器不显示"></a>尽量不要使用PNG图片，会导致部分浏览器不显示</h1><br><br><br><br><h3 id="指令参考来源：https-yansheng0083-gitee-io-article-72a91df5-html"><a href="#指令参考来源：https-yansheng0083-gitee-io-article-72a91df5-html" class="headerlink" title="指令参考来源：https://yansheng0083.gitee.io/article/72a91df5.html"></a>指令参考来源：<a href="https://yansheng0083.gitee.io/article/72a91df5.html" target="_blank" rel="noopener">https://yansheng0083.gitee.io/article/72a91df5.html</a></h3><h3 id="Head-pic-：-https-www-pixiv-net-artworks-73500201"><a href="#Head-pic-：-https-www-pixiv-net-artworks-73500201" class="headerlink" title="Head pic ： https://www.pixiv.net/artworks/73500201"></a>Head pic ： <a href="https://www.pixiv.net/artworks/73500201" target="_blank" rel="noopener">https://www.pixiv.net/artworks/73500201</a></h3>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 已完结 </tag>
-            
-            <tag> 教程 </tag>
-            
-            <tag> Hexo </tag>
-            
-            <tag> yilia </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Launchpad 按键贴</title>
-      <link href="/2020/05/29/Stickers/"/>
-      <url>/2020/05/29/Stickers/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.ibb.co/MM78Gd9/head-pic.png" alt><h2 id="Midiark电子方舟自营Launchpad按键贴"><a href="#Midiark电子方舟自营Launchpad按键贴" class="headerlink" title="Midiark电子方舟自营Launchpad按键贴"></a>Midiark电子方舟自营Launchpad按键贴</h2><a id="more"></a><br><br><br><br><br><br><br><h2 id="全场贴纸买三送一，两件包邮"><a href="#全场贴纸买三送一，两件包邮" class="headerlink" title="全场贴纸买三送一，两件包邮"></a>全场贴纸买三送一，两件包邮</h2><br><br><br><h2 id="购买请点击左侧栏添加QQ或者访问-电子方舟官网-也可以直接点击文章末端的赞赏转账并在转账备注中填写快递信息，"><a href="#购买请点击左侧栏添加QQ或者访问-电子方舟官网-也可以直接点击文章末端的赞赏转账并在转账备注中填写快递信息，" class="headerlink" title="购买请点击左侧栏添加QQ或者访问 电子方舟官网,也可以直接点击文章末端的赞赏转账并在转账备注中填写快递信息，"></a>购买请点击左侧栏添加QQ或者访问<font size="5"> <a href="https://www.midiark123.tk" target="_blank" rel="noopener">电子方舟官网</a></font>,也可以直接点击文章末端的赞赏转账并在转账备注中填写快递信息，</h2><h1 id="Galaxy-white-29-99元-张"><a href="#Galaxy-white-29-99元-张" class="headerlink" title="Galaxy white - 29.99元/张"></a>Galaxy white - 29.99元/张</h1><img src="https://i.ibb.co/Z6V3YrT/galaxy-2.jpg" alt height="1000" width="1500"><br><img src="https://i.ibb.co/Lh3tgMM/galaxy-4.jpg" alt height="2000" width="1500"><br><img src="https://i.ibb.co/SVnyGH0/galaxy-5.jpg" alt height="1000" width="1500"><br><h1 id="Edge-Dark-25-99-元-张"><a href="#Edge-Dark-25-99-元-张" class="headerlink" title="Edge Dark - 25.99 元/张"></a>Edge Dark - 25.99 元/张</h1><img src="https://i.ibb.co/tBn4hdg/black-1.jpg" alt height="1000" width="1500"><br><img src="https://i.ibb.co/K0Hgq35/black-2.jpg" alt height="1000" width="1500"><br><img src="https://i.ibb.co/P1L7Qw1/black-4.jpg" alt height="1000" width="1500"><br><h1 id="Focus-Light-40元-2张（黑-白）"><a href="#Focus-Light-40元-2张（黑-白）" class="headerlink" title="Focus Light - 40元/2张（黑+白）"></a>Focus Light - 40元/2张（黑+白）</h1><h1 id="由于白色贴纸颜色以及材质特殊性，购买focus-light将附送黑色一张。"><a href="#由于白色贴纸颜色以及材质特殊性，购买focus-light将附送黑色一张。" class="headerlink" title="由于白色贴纸颜色以及材质特殊性，购买focus light将附送黑色一张。"></a>由于白色贴纸颜色以及材质特殊性，购买focus light将附送黑色一张。</h1><img src="https://i.ibb.co/myqkmbd/white-1.jpg" alt height="1000" width="1500"><br><img src="https://i.ibb.co/K0vkVfd/white-2.jpg" alt height="1000" width="1500"><br><img src="https://i.ibb.co/PMT36Rv/white.jpg" alt height="1000" width="1500">]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 推荐 </tag>
-            
-            <tag> 已完结 </tag>
-            
-            <tag> Launchpad </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>个人向 - 恋爱番剧推荐</title>
-      <link href="/2020/05/17/Anime-1/"/>
-      <url>/2020/05/17/Anime-1/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.ibb.co/p0pgZcH/head-pic-4.png" alt><h2 id="此文章收录了所有我看过的恋爱-后宫番剧，在此做整理并推荐给大家"><a href="#此文章收录了所有我看过的恋爱-后宫番剧，在此做整理并推荐给大家" class="headerlink" title="此文章收录了所有我看过的恋爱/后宫番剧，在此做整理并推荐给大家"></a>此文章收录了所有我看过的恋爱/后宫番剧，在此做整理并推荐给大家</h2><h2 id="所有番剧名称可复制到追番网站直接查看"><a href="#所有番剧名称可复制到追番网站直接查看" class="headerlink" title="所有番剧名称可复制到追番网站直接查看"></a>所有番剧名称可复制到追番网站直接查看</h2><h2 id="不知道有哪些追番网站？-番剧平台分享"><a href="#不知道有哪些追番网站？-番剧平台分享" class="headerlink" title="不知道有哪些追番网站？ 番剧平台分享"></a>不知道有哪些追番网站？<font size="5"> <a href="https://nana0nana.github.io/2020/05/17/Anime/" target="_blank" rel="noopener">番剧平台分享</a></font></h2><h1 id="展开查看番剧推荐列表"><a href="#展开查看番剧推荐列表" class="headerlink" title="展开查看番剧推荐列表"></a>展开查看番剧推荐列表</h1><a id="more"></a><p>　　　　　</p><p>╰☆╮ 其  ╰★╮ 实 ╰☆╮ 我 ╰★╮ 是 ╰☆╮  分 ╰★╮ 割 ╰☆╮ 线</p><p>　　　　　　　　　　　　　　</p><h3 id="辉夜大小姐想让我告白-第一、二季"><a href="#辉夜大小姐想让我告白-第一、二季" class="headerlink" title="辉夜大小姐想让我告白 第一、二季"></a>辉夜大小姐想让我告白 第一、二季</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/2a/f7/248175_4pqpv.jpg" class="bangumi-locandina"><h1>辉夜大小姐想让我告白～天才们的恋爱头脑战～</h1><h4>かぐや様は告らせたい～天才たちの恋愛頭脳戦～</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#352</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">7.8</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">家庭背景与人品都很棒！！一大群有前途的秀才所聚集的秀知院学园！！在那里的学生会相遇的副会长·四宫辉夜与会长·白银御行原本应该是彼此受到了对方吸引…但想不到都过半年了却仍然什么事情也没发生！！最麻烦的是这两个自尊心超强、无法坦率的家伙，居然开始想着要“设法让对方向自己告白”！？直到恋情有下落之前会很欢乐的故事！！新感觉“斗智”爱情喜剧、就此开战！！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/2a/f7/248175_4pqpv.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="青春猪头少年不会梦到兔女郎学姐"><a href="#青春猪头少年不会梦到兔女郎学姐" class="headerlink" title="青春猪头少年不会梦到兔女郎学姐"></a>青春猪头少年不会梦到兔女郎学姐</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/b9/45/240038_b5j7g.jpg" class="bangumi-locandina"><h1>青春笨蛋少年不做兔女郎学姐的梦</h1><h4>青春ブタ野郎はバニーガール先輩の夢を見ない</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#951</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">13</span></span><span class="bangumi-score">7.4</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">思春期症候群——这是一种只发生在易敏感和不稳定的青春期的、不可思议的现象。例如，在梓川咲太面前出现的野生兔女郎。她的真实身份是高中高年级学生，明星活动休止的女演员樱岛麻衣。她迷人的身姿，不知为何在周围的人眼里看不出来。咲太决定解开这一谜题。在于麻衣一起度过的时间里，咲太知道了她秘密的想法……女主人公们一个接一个地出现在咲太的周围，她们都有着“青春期症候群”。在天空和大海都很闪耀的小镇上，开始了令人激动的故事。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/b9/45/240038_b5j7g.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="月色真美"><a href="#月色真美" class="headerlink" title="月色真美"></a>月色真美</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/a8/41/207573_95N29.jpg" class="bangumi-locandina"><h1>月色真美</h1><h4>月がきれい</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#320</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">7.9</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">茜与小太郎。初三时第一次被分到同班，相识的两人。同班同学、社团伙伴、教师、父母……与周围的关联，自己的成长。在那个一边被变化与不安追着，一边慌慌张张地向前飞奔的季节之中，稚嫩而又令人眩目的青春期之恋。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/a8/41/207573_95N29.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="路人女主的养成方法"><a href="#路人女主的养成方法" class="headerlink" title="路人女主的养成方法"></a>路人女主的养成方法</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/6b/01/100403_JFsXn.jpg" class="bangumi-locandina"><h1>路人女主的养成方法</h1><h4>冴えない彼女の育てかた</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#1402</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">13</span></span><span class="bangumi-score">7.2</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">春假时，为了购买动画蓝光片而打工的御宅族安艺伦也，在开满樱花的坡道上邂逅一位少女，帮她捡一顶被风吹走的帽子。于是有了以该少女为女主角制作同人游戏的构想。一个月后，才知道该少女是他的同班同学，名叫加藤惠。为了制作游戏，安艺伦也还要说服同年级美术部的绘画高手泽村·史宾瑟·英梨梨，以及优等生学姐霞之丘诗羽和加藤惠共组同人游戏社团，开始同人游戏的制作。之后又有波岛出海及擅长音乐的冰堂美智留等人的加入。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/6b/01/100403_JFsXn.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="冰菓"><a href="#冰菓" class="headerlink" title="冰菓"></a>冰菓</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/cd/38/27364_B4xxy.jpg" class="bangumi-locandina"><h1>冰菓</h1><h4>氷菓</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#107</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">22</span></span><span class="bangumi-score">8.2</span><span style="color:#545454">&nbsp;力荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">以节能为座右铭的高中生折木奉太郎， 为一个小小的原因而加入了濒临废社的“古典文学部”。古典文学部的社员，包括他在社里认识的好奇宝宝，也就是女主角千反田爱瑠，还有他从国中就认识的伊原摩耶花和福部里志。这是他们四人以神山高中为舞台，对一桩桩事件展开推理的青春学园推理剧。“我很好奇！”奉太郎平静的灰色高中生活，因为千反田的这一句话而为之一变！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/cd/38/27364_B4xxy.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="青春恋爱物语"><a href="#青春恋爱物语" class="headerlink" title="青春恋爱物语"></a>青春恋爱物语</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/1e/f1/54433_pc175.jpg" class="bangumi-locandina"><h1>我的青春恋爱物语果然有问题</h1><h4>やはり俺の青春ラブコメはまちがっている。</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#630</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">13</span></span><span class="bangumi-score">7.6</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　别扭的，没有朋友，没有女朋友，对着那些讴歌青春的同学吐槽着“他们都是骗子，都在说谎，快点爆发把我”的男主角的爱情物语，将来的梦想是“不工作”——　　这样的高中生八幡被生活指导老师的带到了学校第一美少女雪乃所属的“侍奉部”，与美少女意想不到的相遇……怎么想都是恋爱故事的展开吧！？　　但是雪乃却无论如何都原谅不了八幡那令人残念的糟糕性格！　　不断轮回着的充满问题的青春——我的青春，到底怎么了！？</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/1e/f1/54433_pc175.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="我的朋友很少"><a href="#我的朋友很少" class="headerlink" title="我的朋友很少"></a>我的朋友很少</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/80/d1/17883_58mrm.jpg" class="bangumi-locandina"><h1>我的朋友很少</h1><h4>僕は友達が少ない</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#2666</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.9</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　在學校總是獨來獨往的羽瀨川小鷹，在一次偶然的情況下，目擊到總是擺出一副臭臉的美少女三日月夜空一個人很開心地自言自語。　　小鷹和夜空聊了一下該怎麼交朋友的話題，沒想到夜空竟然憑著莫名其妙的行動力成立一個以交朋友為目的的問題社團。而且也不知道是哪裡搞錯，問題美少女們還接二連三地申請入社！大家卯起來打美少女遊戲電玩，一起去游泳、一起演戲。似乎一直沒有抓對要領的他們，果真能交到朋友嗎？</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/80/d1/17883_58mrm.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="恋爱选举与巧克力"><a href="#恋爱选举与巧克力" class="headerlink" title="恋爱选举与巧克力"></a>恋爱选举与巧克力</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/5a/18/27236_7T6Is.jpg" class="bangumi-locandina"><h1>恋爱与选举与巧克力</h1><h4>恋と選挙とチョコレート</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3909</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">13</span></span><span class="bangumi-score">6.5</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　「恋爱与选举与巧克力」是由sprite于09年发行的成人向恋爱AVG，之后便推出了两个版本的漫画作品。　　本作故事主要讲述了主人公大岛裕树与青梅竹马住吉千里以及从以前起就是好友的同班同学木场美冬就读于以拥有超过五千名学生而自豪的工业学园「私立高藤学园」，同时他们还是以吃点心作为活动内容的社团食品研究部(通称：食研)的成员。次期自治学生会长的强力候选人东云皐月誓言要整顿杂乱且无实绩的社团活动，而其中食研更是首当其冲被指名要将其废部。为了避免面临危机的食研被废部，部员们想方设法开始行动起来了……</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/5a/18/27236_7T6Is.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="四月是你的谎言"><a href="#四月是你的谎言" class="headerlink" title="四月是你的谎言"></a>四月是你的谎言</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/ec/c7/100444_yGsJZ.jpg" class="bangumi-locandina"><h1>四月是你的谎言</h1><h4>四月は君の嘘</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#208</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">22</span></span><span class="bangumi-score">8</span><span style="color:#545454">&nbsp;力荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　有马公生的母亲一心想把有马培育成举世闻名的钢琴家，而有马也不负母亲的期望，在念小学时就赢得许多钢琴比赛的大奖。11岁的秋天，有马的母亲过世，从此他再也听不见自己弹奏的钢琴声，沮丧的他也只好放弃演奏，但在14岁那年，经由儿时玩伴的介绍，有马认识了小提琴手宫园薰，并被薰的自由奔放吸引，没想到薰竟开口邀请公生在比赛时担任她的伴奏… </p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/ec/c7/100444_yGsJZ.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="川柳少女"><a href="#川柳少女" class="headerlink" title="川柳少女"></a>川柳少女</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/b4/fb/268510_XKKrF.jpg" class="bangumi-locandina"><h1>川柳少女</h1><h4>川柳少女</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3151</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.7</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">将想要说的话以“五七五的川柳”来表达的女孩子·雪白七七子，与外表可怕但内心善良的文艺社学生·毒岛英二。由短短17个音节而编织成的两人的日常，无论何时都充满幸福！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/b4/fb/268510_XKKrF.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="一弦定音"><a href="#一弦定音" class="headerlink" title="一弦定音"></a>一弦定音</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/17/7f/254788_5501o.jpg" class="bangumi-locandina"><h1>一弦定音！</h1><h4>この音とまれ！</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4339</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">13</span></span><span class="bangumi-score">6.2</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">即将废社的时濑高中筝曲社。来到只身一人的社长面前的是不良少年和他的朋友们，以及古筝的天才少女。各自各自的古筝之乐所编奏的青春学园物语——</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/17/7f/254788_5501o.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="水果篮子"><a href="#水果篮子" class="headerlink" title="水果篮子"></a>水果篮子</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/20/f2/266455_fRBdM.jpg" class="bangumi-locandina"><h1>水果篮子 第一季</h1><h4>フルーツバスケット 1st season</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#1661</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">25</span></span><span class="bangumi-score">7.2</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">高中生本田透在失去了自己唯一亲人的母亲之后过起了独自一人的帐篷生活。但是，透安扎帐篷的地方刚好就是历史渊源的家族“草摩家”的领地之内！在草摩紫吴的邀请下成为了草摩家佣人的透，居然要与学校里王子般存在的草摩由希、以及视由希为眼中钉的草摩夹这两人一起生活。然而，透却仍未知晓。“草摩家”自从数百年前起就被忌讳的诅咒所束缚的事实……</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/20/f2/266455_fRBdM.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="徒然喜欢你"><a href="#徒然喜欢你" class="headerlink" title="徒然喜欢你"></a>徒然喜欢你</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/79/ae/208754_JyZ00.jpg" class="bangumi-locandina"><h1>徒然Children</h1><h4>徒然チルドレン</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#1640</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">7.2</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">故事讲述了青梅竹马之间、学生会长与不良少女之间、前辈与后辈之间、同学之间等多种不同角色的恋爱群像剧。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/79/ae/208754_JyZ00.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="中二病也要谈恋爱"><a href="#中二病也要谈恋爱" class="headerlink" title="中二病也要谈恋爱"></a>中二病也要谈恋爱</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/3d/fd/29648_hkoQV.jpg" class="bangumi-locandina"><h1>中二病也要谈恋爱！</h1><h4>中二病でも恋がしたい！</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#1286</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">13</span></span><span class="bangumi-score">7.3</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">富㭴勇太于初中毕业的时候，决定同时为自己举办中二病毕业的仪式。打算顺利渡过高中生活的他，在开学日以最后的中二语录完全封锁这段黑历史。可惜天意弄人，勇太遇上了现任中二病患者暨同班同学小鸟游六花，更被对方看出中二病的残余症状。六花于是以此威逼勇太与她“立下契约”。对方的行为举止惹来了不少同学、家人、甚至青梅竹马的注目，使勇太在享受“现充”的生活同时，又充满著难言之隐……</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/3d/fd/29648_hkoQV.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="五等分的花嫁"><a href="#五等分的花嫁" class="headerlink" title="五等分的花嫁"></a>五等分的花嫁</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/fd/cd/256114_2S1Yj.jpg" class="bangumi-locandina"><h1>五等分的新娘</h1><h4>五等分の花嫁</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#5378</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">5.8</span><span style="color:#545454">&nbsp;不过不失</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">一直过着贫困生活的高中二年级学生·上杉风太郎，找到了一份条件非常好的家庭教师兼职。然而，要教导的学生居然是同级生！而且还是五胞胎！！虽然都是美少女，但同时也是“将要留级”、“讨厌学习”的问题学生们！最开始的任务就是要取得这些女孩们的信任……！？每天都热闹喧嚣！中野家的五姐妹所带来的可爱度500%的五个不一样的恋爱喜剧，就此开幕！！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/fd/cd/256114_2S1Yj.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="我们无法一起学习"><a href="#我们无法一起学习" class="headerlink" title="我们无法一起学习"></a>我们无法一起学习</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/21/a6/257369_32HM0.jpg" class="bangumi-locandina"><h1>我们真的学不来</h1><h4>ぼくたちは勉強ができない</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4150</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">13</span></span><span class="bangumi-score">6.4</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">刻苦学习的高中3年生·唯我成幸，为了获得免缴大学学费的“特别VIP推荐”资格，而要去担任为备考而苦战的同级生们的教育指导员。教导的对象是“文学之森的睡美人”古桥文乃和“机关精巧的拇指姑娘”绪方理珠这两位学园顶尖的天才美少女！原本以为她们的学习能力完美无缺，没想到对于不擅长的学科却完全无能……！？成幸一边被充满个性的“学不来女孩”们玩弄于股掌之间，一边为了让她们努力通过大学考试！无论学习还是恋爱都“学不来”的天才们的恋爱喜剧，就此开幕！！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/21/a6/257369_32HM0.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="樱花庄的宠物女孩"><a href="#樱花庄的宠物女孩" class="headerlink" title="樱花庄的宠物女孩"></a>樱花庄的宠物女孩</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/01/a2/41488_qw09G.jpg" class="bangumi-locandina"><h1>樱花庄的宠物女孩</h1><h4>さくら荘のペットな彼女</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#1032</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">24</span></span><span class="bangumi-score">7.4</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　就读水明艺术大学附属高中的神田空太，一年级夏天时在宿舍养猫，而被校长叫去问话，并要他把猫赶走，不然就搬出宿舍。身为爱猫一族的空太，企图反抗权威，结果被撵出宿舍，流落到恶名昭彰的“樱花庄”。 隔年春天，随着世界级天才画家椎名真白搬进了樱花庄，空太开始过著被这名缺乏常识的少女耍得团团转的日子</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/01/a2/41488_qw09G.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="告白实行委员会-全集"><a href="#告白实行委员会-全集" class="headerlink" title="告白实行委员会 全集"></a>告白实行委员会 全集</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/c6/a3/140020_64RUU.jpg" class="bangumi-locandina"><h1>从很久以前就喜欢你了。～告白实行委员会～</h1><h4>ずっと前から好きでした。～告白実行委員会～</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3831</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">1</span></span><span class="bangumi-score">6.5</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">因为这是最后的练习——。樱丘高中三年级的榎本夏树，单恋着青梅竹马的濑户口优。但，她无法变得坦率，于是说要把优当做告白的“练习”对象。在一直隐藏着真正心情的过程中，夏树被同班同学绫濑恋雪邀请去约会……？夏树的“练习”能否演变成为“正戏”！？</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/c6/a3/140020_64RUU.jpg); no-repeat fixed;background-size: cover;"></div></div><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/6f/c1/119086_6yLfN.jpg" class="bangumi-locandina"><h1>告白实行委员会 嫉忌的答复</h1><h4>告白実行委員会 ヤキモチの答え ショートストーリー</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3861</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">1</span></span><span class="bangumi-score">6.4</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">『难道我就不行吗?～「告白实行委员会」角色歌曲集』初回特典OAD</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/6f/c1/119086_6yLfN.jpg); no-repeat fixed;background-size: cover;"></div></div><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/45/26/126798_O8ABO.jpg" class="bangumi-locandina"><h1>告白实行委员会 告白预演</h1><h4>告白実行委員会 告白予行練習 ショートストーリー</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3899</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">1</span></span><span class="bangumi-score">6.4</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">メジャーデビューアルバムにしてベスト！！┗|∵|┓ハニワの超豪華仕様による青春ロックベストのリリースが決定！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/45/26/126798_O8ABO.jpg); no-repeat fixed;background-size: cover;"></div></div><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/cf/da/142153_QkBjk.jpg" class="bangumi-locandina"><h1>告白实行委员会 我于此刻恋上你</h1><h4>告白実行委員会  今好きになる。ショートストーリー</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3949</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">1</span></span><span class="bangumi-score">6.3</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">7/15発売 HoneyWorks メジャー3rdアルバム『好きになるその瞬間を。』初回生産限定盤の特典DVDに収録される。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/cf/da/142153_QkBjk.jpg); no-repeat fixed;background-size: cover;"></div></div><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/6d/05/175543_Xw7I7.jpg" class="bangumi-locandina"><h1>喜欢上你的那个瞬间。～告白实行委员会～</h1><h4>好きになるその瞬間を。～告白実行委員会～</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3143</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">1</span></span><span class="bangumi-score">6.7</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text"></p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/6d/05/175543_Xw7I7.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="满脑都是〇〇的我无法谈恋爱"><a href="#满脑都是〇〇的我无法谈恋爱" class="headerlink" title="满脑都是〇〇的我无法谈恋爱"></a>满脑都是〇〇的我无法谈恋爱</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/7d/87/268412_P63Pf.jpg" class="bangumi-locandina"><h1>淫乱的青酱不能学习</h1><h4>みだらな青ちゃんは勉強ができない</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4498</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.3</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">名字的由来是——为官能小说家父亲所困扰的女高中生·小青，为了实现一人独居的愿望，以难关大学为目标拼命学习中。“青春？男女交往？那种事情才不知道！”……但这样的小青，却面对班上的人气者“现充王”木岛难以置信的爱的告白。面对读不懂气氛的木岛不断逼近，小青把学习丢到一边，色色的妄想完全停不下来！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/7d/87/268412_P63Pf.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="如果有妹妹就好了"><a href="#如果有妹妹就好了" class="headerlink" title="如果有妹妹就好了"></a>如果有妹妹就好了</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/d0/59/213076_J5y9R.jpg" class="bangumi-locandina"><h1>如果有妹妹就好了。</h1><h4>妹さえいればいい。</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3505</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.6</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">「如果有妹妹的话就能拥有最棒的人生了，为什么我却没有妹妹呢……？」专写妹系作品的妹控小说家羽岛伊月，身边聚集着各式各样不同个性的人物。有天才变态作家可儿那由多、女大学生白川京、插画家屁桃，以及鬼畜税务师大野艾希莉等等。伊月等人虽然各自有着不同的烦恼，但还是一边写着小说，玩着电玩，喝着酒，申报所得税，过着喧闹的日常生活。在一旁温暖守护着伊月等人的，是伊月的继弟千寻。然而，千寻竟藏着一个天大的秘密……欢乐又锥心，由天才、凡人与怪咖所展开的多重路线青春恋爱喜剧，现在开演！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/d0/59/213076_J5y9R.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="伪恋"><a href="#伪恋" class="headerlink" title="伪恋"></a>伪恋</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/98/71/74628_8HHlL.jpg" class="bangumi-locandina"><h1>伪恋</h1><h4>ニセコイ</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#1852</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">20</span></span><span class="bangumi-score">7.1</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　虽然看上去平凡无奇，但其实是流氓第二代的高中生·一条乐，遇上了转学到班上的美国黑帮大小姐·桐崎千棘。个性合不來的两人，总是天天吵架。但此时，双方的父亲，却要他们为了使双方家族能和平相处，假装成一对恋人？虽然乐其实喜欢同班同学·小野寺，但迫于现实无奈的两人，还是心不甘情不愿地开始了咬牙切齿、动手动脚的「甜蜜」生活…</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/98/71/74628_8HHlL.jpg); no-repeat fixed;background-size: cover;"></div></div><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/22/cd/114758_27XTt.jpg" class="bangumi-locandina"><h1>伪恋：</h1><h4>ニセコイ:</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#2243</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">7</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text"></p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/22/cd/114758_27XTt.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="青春之旅"><a href="#青春之旅" class="headerlink" title="青春之旅"></a>青春之旅</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/47/45/92836_YhO4y.jpg" class="bangumi-locandina"><h1>青春之旅</h1><h4>アオハライド</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#2939</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.8</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">吉冈双叶从国中时期就很不擅长和男生相处，却有一位名为“田中”的男生例外，然而田中在暑假转学了，双叶也来不及传达自己的心意。之后，在男生群非常受欢迎的双叶遭受女生的排挤，在升上高中后的双叶为了不再让女生讨厌决定要伪装自己，同时她与国中时代的初恋“田中”再次相遇了……</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/47/45/92836_YhO4y.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="我的脑内选项正在全力妨碍学院恋爱喜剧"><a href="#我的脑内选项正在全力妨碍学院恋爱喜剧" class="headerlink" title="我的脑内选项正在全力妨碍学院恋爱喜剧"></a>我的脑内选项正在全力妨碍学院恋爱喜剧</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/7a/47/77570_hjy2A.jpg" class="bangumi-locandina"><h1>我的脑内选项正在全力妨碍学园恋爱喜剧</h1><h4>俺の脳内選択肢が、学園ラブコメを全力で邪魔している</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3655</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">10</span></span><span class="bangumi-score">6.6</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">我甘草奏的“绝对选项”是一种会突然出现脑中，不选就不消失的悲惨诅咒；通常人要是被迫做这麼变态的选择，无论如何都会有所抵抗，而我起初也不例外……但若置之不理，我的头就会承受超乎想像的痛苦，那种感觉大概只能用脑浆被挖出来才足以形容。说穿了就是，我根本抵抗不了。所以——我会被骂变态，不是没有原因的。于是害得我整天举止怪异，被列为“五黑”（指黑名单的前五位）之一。然而，在如此饱嚐女生白眼的校园生活中，我脑内突然出现了①美少女从天而降的选项——？</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/7a/47/77570_hjy2A.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="敦君与女朋友"><a href="#敦君与女朋友" class="headerlink" title="敦君与女朋友"></a>敦君与女朋友</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/b7/a1/230940_Mk5DV.jpg" class="bangumi-locandina"><h1>敦君与女朋友</h1><h4>あっくんとカノジョ</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4782</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">25</span></span><span class="bangumi-score">6.1</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">青梅竹马的敦君和小音是一对恋人。但，敦君却以粗暴的言辞冷淡对待小音，总是一副严苛的态度……。但那却是敦君的“最喜欢小音了！”这种心情的反面表现。敦君，以及对于敦君的这种言行毫不在意地“深爱敦君”的小音，描绘他们之间日常的学园青春恋爱喜剧。 </p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/b7/a1/230940_Mk5DV.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="在盛夏等待"><a href="#在盛夏等待" class="headerlink" title="在盛夏等待"></a>在盛夏等待</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/6f/ad/22657_P0ZpP.jpg" class="bangumi-locandina"><h1>在盛夏等待</h1><h4>あの夏で待ってる</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#2228</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">7</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">黒田洋介＆羽音たらくがつむぐ新たな青春物語！ 新作オリジナルアニメ『あの夏で待ってる』は、『おねがい☆ティーチャー』や『おねがい☆ツインズ』で知られる黒田洋介さんと羽音たらくさんが参加する新作オリジナルアニメ。黒田さんは脚本を、羽音さんはキャラクター原案を担当するという。　　天空湛蓝，万里无云。　　积雨云翻涌，仿佛要将彼岸的山隐藏。　　这是我们小镇上常见的风景。　　但是，也是无可替代的“盛夏”。　　那个男孩有一个模糊的想法“一无所有却想做点什么”，　　所以和同伴商量一起拍电影。　　就在那时，一个“特别”的女孩来到了这个小镇，　　然后将男孩的想法视为“特别”。　　男孩的名字是——雾岛海人。　　女孩的名字是——贵月一夏。　　他们的盛夏开始了。　　我们在那个盛夏等待——</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/6f/ad/22657_P0ZpP.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="我的妹妹不可能那么可爱"><a href="#我的妹妹不可能那么可爱" class="headerlink" title="我的妹妹不可能那么可爱"></a>我的妹妹不可能那么可爱</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/50/53/37898_GB3nG.jpg" class="bangumi-locandina"><h1>我的妹妹哪有这么可爱。</h1><h4>俺の妹がこんなに可愛いわけがない。</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#2445</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">16</span></span><span class="bangumi-score">6.9</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">哥哥高坂京介（17岁）和妹妹高坂桐乃（14岁）兄妹两人的关系近几年处于冷战状态。从某个时间点开始，桐乃看到哥哥时连打招呼都没有，只会用像是看到脏东西般的眼神瞪他。京介认为这种关系也会一直持续下去。某天，京介在门口捡到从来没看过的魔法少女动画《星尘☆小魔女梅露露》的DVD盒子，里面竟然不是动画的DVD，而是成人游戏《和妹妹恋爱吧~》的光碟。京介在晚餐时用梅露露的话题试探谁是光碟的物主，但只得到父母充满偏见的否定意见。就在那天晚上，连打招呼都不会的妹妹突然来到京介房间，并且说她有事情想要商量。原来桐乃迷上了萌系动画以及美少女游戏中的妹系角色，却都不敢告诉别人，只能一直闷在心里。被哥哥知道了自己的秘密后，从此开始了和哥哥之间的「人生咨询」。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/50/53/37898_GB3nG.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="埃罗芒阿老师"><a href="#埃罗芒阿老师" class="headerlink" title="埃罗芒阿老师"></a>埃罗芒阿老师</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/87/bf/172498_wfm40.jpg" class="bangumi-locandina"><h1>情色漫画老师</h1><h4>エロマンガ先生</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4064</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.5</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">高中生兼小说作家的“和泉正宗”（笔名：和泉征宗）有个家里蹲的妹妹“和泉纱雾”。一年前才成为家人的她，却完全不走出居室，并也用力踩踏地板，要我帮她准备食物。为了这段称不上“兄妹”的关系，正宗得想个办法让她自己走出居室才行，因为两人已是目前仅存能相依为命的“家人”……至于正宗的搭挡插画家“情色漫画老师”，是个能够画出非常棒煽情图的可靠伙伴。虽然双方并没见过面，但我一直很感谢他！只是在某一天，正宗突然发现到一个冲击事实，那就是“情色漫画老师”其实就是纱雾！？</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/87/bf/172498_wfm40.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="我女友与青梅竹马的惨烈修罗场"><a href="#我女友与青梅竹马的惨烈修罗场" class="headerlink" title="我女友与青梅竹马的惨烈修罗场"></a>我女友与青梅竹马的惨烈修罗场</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/c2/38/43557_jUaQk.jpg" class="bangumi-locandina"><h1>我女友与青梅竹马的惨烈修罗场</h1><h4>俺の彼女と幼なじみが修羅場すぎる</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3724</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">13</span></span><span class="bangumi-score">6.6</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">主人公季堂锐太是个成绩优秀的高中一年级学生，同时也是个恋爱反对派。本来是和像自己妹妹一般的青梅竹马一起过着普通的高中生活的，但某天却被校内公认的第一美人，归国子女夏川真凉表白了。然而真凉的真实意图却是为了骗过众人而需要锐太与她假扮情侣。被真凉掌握了自己的某个“秘密”的锐太被迫假扮“男友”这一角色……之后“前女友”姬香、“未婚妻”爱衣也加了进来，围绕锐太的壮烈修罗场就此拉开帷幕！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/c2/38/43557_jUaQk.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="只要你说你爱我"><a href="#只要你说你爱我" class="headerlink" title="只要你说你爱我"></a>只要你说你爱我</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/10/4a/40651_MMX94.jpg" class="bangumi-locandina"><h1>只要你说你爱我</h1><h4>好きっていいなよ。</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4800</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">13</span></span><span class="bangumi-score">6.1</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">      因为小时候曾经遭受朋友的背叛，橘梅这16年来从来没交过男朋友，甚至连朋友也没有！独来独往的个性导致她成了同学欺负的对象，却在阴错阳差之下认识了学校裡最受欢迎的男生黑泽大和。大和相当欣赏梅毫无所惧的个性，丝毫不在意其他人的眼光，开始主动与梅接触。因為大和随和的个性与古道热肠，梅也开始逐渐卸下了心防…</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/10/4a/40651_MMX94.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="政宗君的复仇"><a href="#政宗君的复仇" class="headerlink" title="政宗君的复仇"></a>政宗君的复仇</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/05/bf/185762_19v9g.jpg" class="bangumi-locandina"><h1>政宗君的复仇</h1><h4>政宗くんのリベンジ</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#5046</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">为了复仇，我又回到这座城市了！8年前，被美少女·安达垣爱姬残忍拒绝的肥胖少年·真壁政宗，变得超瘦又更改了名字，变身成帅哥回来了。没错，一切都是为了让那个号称残虐公主的抖S女生迷上自己，完成最高形式的复仇——。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/05/bf/185762_19v9g.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="农林"><a href="#农林" class="headerlink" title="农林"></a>农林</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/ed/7e/68756_Iqesl.jpg" class="bangumi-locandina"><h1>农林</h1><h4>のうりん</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3742</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.5</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">就读岐阜县立田茂农林高等学校的生产科学科2年A组栽培专攻的畑耕作，是个对偶像草壁由香非常沉迷的偶像迷。耕作与同为A班栽培专攻，体贴的青梅竹马中泽农、可靠的眼镜美少年好友过真鸟继、A班畜产专攻的巨乳少女良田胡蝶等伙伴，为了成为未来日本农业的栋梁，每天都过著热闹的高中生活。某日，草壁由香突然宣布引退，让耕作大受打击，把自己关在宿舍房间中不肯出来。同样住在宿舍里的农与继，想进办法将他拉到教室，刚好年近40的班主任户次菜摘和转学生一起进入教室，转学生名为木下林檎，是个和偶像草壁由香长的一模一样的美少女……</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/ed/7e/68756_Iqesl.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="Re：从零开始的异世界生活"><a href="#Re：从零开始的异世界生活" class="headerlink" title="Re：从零开始的异世界生活"></a>Re：从零开始的异世界生活</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/cb/78/140001_Ew1mo.jpg" class="bangumi-locandina"><h1>Re：从零开始的异世界生活</h1><h4>Re:ゼロから始める異世界生活</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#1276</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">25</span></span><span class="bangumi-score">7.3</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　从便利店回来的路上突然被召唤到异世界的少年，菜月昴。在无可依赖的异世界，无力的少年所唯一拥有的力量……那就是死后便会使时间倒转的“死亡回归”的力量。为了守护重要的人，并取回那些无可替代的时间，少年向绝望抗争，挺身面对残酷的命运。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/cb/78/140001_Ew1mo.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="NEKOPARA"><a href="#NEKOPARA" class="headerlink" title="NEKOPARA"></a>NEKOPARA</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/1b/0e/270274_tt2z7.jpg" class="bangumi-locandina"><h1>NEKOPARA</h1><h4>ネコぱら</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4225</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.3</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">水无月嘉祥的老家经营着一间历史悠久的日式点心老店。他决心以糕点师的身份，离开老家开一间自己的蛋糕店「La Soleil」。嘉祥发现从老家寄来的搬家行李中，竟然混进了两只在老家饲养的人型猫娘：巧克力和香草。嘉祥本来想将她们送回老家，但在两只猫娘的苦苦哀求下他也只好让步，开始和她们一起经营「La Soleil」。妹妹时雨，还有巧克力和香草的猫娘姐姐们：红豆、枫、桂、椰子，住在老家的猫娘们也都来店里帮忙，大家每天都过着开心热闹的生活。某天，巧克力在买东西的途中遇见一只陌生的小猫…。故事就从与这只令人在意的小猫的邂逅开始。温暖人心的猫娘故事即将上演！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/1b/0e/270274_tt2z7.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="汤摇庄的幽奈同学"><a href="#汤摇庄的幽奈同学" class="headerlink" title="汤摇庄的幽奈同学"></a>汤摇庄的幽奈同学</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/64/97/228969_00Tt0.jpg" class="bangumi-locandina"><h1>汤摇庄的幽奈同学</h1><h4>ゆらぎ荘の幽奈さん</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4523</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.2</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">肉体派灵能力者・冬空凩。因被恶灵附身，背负了巨大债务的冬空凩寻求便宜的住处，住进了温泉旅馆·摇曳庄。那里有着无法升天的女高中生地缚灵幽奈小姐、仅凭常识无法想象的美少女。尽管只有女性居住在内的摇曳庄中的住客极力反对冬空凩的下榻，但冬空凩最终还是在摇曳庄中开始生活……。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/64/97/228969_00Tt0.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="欢迎来到实力至上主义的教室"><a href="#欢迎来到实力至上主义的教室" class="headerlink" title="欢迎来到实力至上主义的教室"></a>欢迎来到实力至上主义的教室</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/87/01/214272_JVVxM.jpg" class="bangumi-locandina"><h1>欢迎来到实力至上主义教室</h1><h4>ようこそ実力至上主義の教室へ</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4732</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.2</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">这个社会是否平等呢。真正的“实力”是什么——。东京都高度育成高等学校。那是宣扬彻底的实力至上主义，以升学率·就业率100%而引以为豪的升学学校。升入那里，被分配到1年D班的绫小路清隆，却发现学校与实力至上主义的招牌相反，学生每个月会得到相当于10万日元、与现金同等价值的分数，在授课和生活态度方面也贯彻放任主义。在梦幻般的高中生活当中，不断地挥金如土、过着自甘堕落日子的同班同学们。但，不久他就得知了学校系统的真面目，并被打入绝望的深渊……！来自吊车尾聚集的D班的少年少女们所发现的，是世界的矛盾，还是正当的实力社会？</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/87/01/214272_JVVxM.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="带着智慧型手机闯荡异世界"><a href="#带着智慧型手机闯荡异世界" class="headerlink" title="带着智慧型手机闯荡异世界"></a>带着智慧型手机闯荡异世界</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/28/7f/211723_9Pboo.jpg" class="bangumi-locandina"><h1>带着智能手机闯荡异世界。</h1><h4>異世界はスマートフォンとともに。</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#5774</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">4.7</span><span style="color:#545454">&nbsp;较差</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">由于神的失误而死去的主人公，让自己的第二段人生在异世界展开。他所拥有的是被神强化的身体，以及变得在异世界也可使用的智能手机。在与各种各样的人们相遇，并获得重要伙伴的过程中，主人公在不知不觉当中得知了这个世界的秘密。在继承了古代文明的遗产，与无忧无虑的世界之王们齐心协力的同时，他就这样吊儿郎当地环游着世界——</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/28/7f/211723_9Pboo.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="清恋"><a href="#清恋" class="headerlink" title="清恋"></a>清恋</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/f8/38/195229_l5ydB.jpg" class="bangumi-locandina"><h1>清恋</h1><h4>セイレン</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4319</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.4</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">高中2年级的夏天。嘉味田正一由于志愿调查表的内容而被班主任叫出来，以此为契机开始感受到对于长大成人的不安。这样的他，与各种各样的女孩子相遇……他将会以怎样的未来为目标呢。奔向未来的等身大高中生与清廉可怜的女主角们的恋爱物语，现在开始！ </p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/f8/38/195229_l5ydB.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="为美好的世界献上祝福"><a href="#为美好的世界献上祝福" class="headerlink" title="为美好的世界献上祝福"></a>为美好的世界献上祝福</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/56/de/135275_tt1ce.jpg" class="bangumi-locandina"><h1>为美好的世界献上祝福！</h1><h4>この素晴らしい世界に祝福を！</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#814</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">10</span></span><span class="bangumi-score">7.5</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　热爱游戏的家里蹲少年·佐藤和真的人生，因交通事故（!?）而轻易闭幕……本该是这样，但当他醒来之时，眼前有一位自称是女神的美少女。“喂，我有点好事要告诉你。要去异世界吗？只带一样你喜欢的东西没问题喔。”“那，我就带着你好了。”由此开始，在异世界转生的和真的魔王讨伐大冒险开始了……虽然是这么想的，但他却为了获得衣食住行而开始劳动！想要平稳度日的和真，却由于女神引起的各种问题，而终于被魔王军盯上了!? </p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/56/de/135275_tt1ce.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="信长老师的年幼妻子"><a href="#信长老师的年幼妻子" class="headerlink" title="信长老师的年幼妻子"></a>信长老师的年幼妻子</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/3e/19/269075_WpFNR.jpg" class="bangumi-locandina"><h1>信长老师的年幼妻子</h1><h4>ノブナガ先生の幼な妻</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#5480</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">5.5</span><span style="color:#545454">&nbsp;不过不失</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">“非常喜欢自己的女孩子，突然在某天出现了”总是做着这种GALGAME展开的梦的教师·信永。出现在他身边的，是自称他妻子的14岁少女·归蝶。似乎来自战国时代的她，将信永误认为是织田信长，并为了造小孩而向他逼近……！？GALGAME脑教师和战国脑公主之间爆发的年龄差恋爱喜剧！！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/3e/19/269075_WpFNR.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="我喜欢的是小说里的你"><a href="#我喜欢的是小说里的你" class="headerlink" title="我喜欢的是小说里的你"></a>我喜欢的是小说里的你</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/ef/68/228255_k7ex1.jpg" class="bangumi-locandina"><h1>我喜欢的是妹妹但不是妹妹</h1><h4>俺が好きなのは妹だけど妹じゃない</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#5812</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">10</span></span><span class="bangumi-score">3.5</span><span style="color:#545454">&nbsp;差</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">以轻小说作家为目标的高中生·永见祐，有个名叫凉花的妹妹。凉花是个才色兼备的优等生，但对哥哥的态度却严厉又冷漠。某天，长年在轻小说选拔第一轮就落选的祐，得知了冲击性的事实。凉花创作的“兄妹亲亲热热恋爱喜剧”在轻小说大赏中获奖了！而且，在完全不懂轻小说及萌系的凉花拜托下，祐竟然开始以代理作家·永远野誓的身份活动！祐情非得已地轻小说出道，在被独具个性的业界关系者们玩弄于股掌间的同时，为了妹妹而以永远野誓的身份奋斗中。之后，曾经连一点喜爱哥哥的影子都见不到的凉花却……！？</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/ef/68/228255_k7ex1.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="春园庄的管理员"><a href="#春园庄的管理员" class="headerlink" title="春园庄的管理员"></a>春园庄的管理员</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/91/41/230110_5tFWD.jpg" class="bangumi-locandina"><h1>春原庄的管理人</h1><h4>すのはら荘の管理人さん</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4806</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.1</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">椎名亚树由于外表的缘故而总不被人当成男人看待，他为了改变自己而在升入初中时前往东京，住进了春原庄。在那里等着亚树的，是受到性格天然又爱恶作剧的春原庄管理员·春原彩花从身心两方面疼爱有加的每一天。不止如此，其他的同居人也全都是年长的女生……。治愈与心跳满载，不由得想要向管理员姐姐撒娇的年龄差（御姐正太）恋爱喜剧决定版！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/91/41/230110_5tFWD.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="关于我的女友是个一本正经的碧池这件事"><a href="#关于我的女友是个一本正经的碧池这件事" class="headerlink" title="关于我的女友是个一本正经的碧池这件事"></a>关于我的女友是个一本正经的碧池这件事</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/5b/97/216570_cPpsi.jpg" class="bangumi-locandina"><h1>关于我女友是个一本正经的碧池这件事</h1><h4>僕の彼女がマジメ過ぎるしょびっちな件</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#5619</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">10</span></span><span class="bangumi-score">5.4</span><span style="color:#545454">&nbsp;不过不失</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">度过普通的学校生活，分到普通的班级，普通地恋爱，下定决心告白……讴歌着这种正经到极点的青春的篠崎遥。但只有他恋爱的对象并不“普通”——满溢而出的种种粗鄙之语！无所顾虑地涌出的刺激的性知识！但，一切都是为了成为健全而圆满的恋人——没错，这是毋庸置疑的纯爱物语！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/5b/97/216570_cPpsi.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="Gamers电玩咖"><a href="#Gamers电玩咖" class="headerlink" title="Gamers电玩咖"></a>Gamers电玩咖</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/c9/f3/195816_8fZHP.jpg" class="bangumi-locandina"><h1>GAMERS电玩咖</h1><h4>ゲーマーズ!</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#2359</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.9</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">“……和我一起，试着加入游戏部怎样？”兴趣是游戏，除此之外毫无显眼的特征，仅仅是个龙套的游戏玩家雨野景太，某天突然被学园第一的美少女，游戏部部长天道花怜搭话了。由此开始，景太的日常为之一转，开始了与喜爱游戏的美少女们共度的恋爱喜剧展开的日子……本以为如此！？只有游戏的价值观不同，特立独行的女子玩家星之守千秋。班上的中心人物，虽然有女友却私下里爱好游戏的残念现充上原祐。祐的女友，毫无游戏知识的亚玖璃。将这些人物一并卷入，重复着互相误会、徒劳无功、陷入迷途，乱成一团的游戏玩家们带来的“擦肩而过青春错综系恋爱喜剧”开幕！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/c9/f3/195816_8fZHP.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="缘之空"><a href="#缘之空" class="headerlink" title="缘之空"></a>缘之空</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/6e/01/7157_hF46A.jpg" class="bangumi-locandina"><h1>缘之空</h1><h4>ヨスガノソラ</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4387</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.3</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">远离都市的乡间、奥木染。春日野悠带着他的妹妹·春日野穹来到了这里。兄妹俩幼时暑假期间曾来过多次奥木染，这里有着祖父的家，是个令人怀念的地方。因为意外事故而失去了双亲与去处的兄妹，决定移居至现在没有人居住的祖父家，在此开始新的生活。觉得自小以来就没怎么变化的街道与居民、教人怀念的回忆与静谧的环境，让悠倍感舒适。但徐徐地，变化来到了。阳光日渐变得强烈的初夏天空之下，故事开始了。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/6e/01/7157_hF46A.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="你的名字"><a href="#你的名字" class="headerlink" title="你的名字"></a>你的名字</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/20/15/160209_w42EP.jpg" class="bangumi-locandina"><h1>你的名字。</h1><h4>君の名は。</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#184</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">1</span></span><span class="bangumi-score">8</span><span style="color:#545454">&nbsp;力荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　在每千年回归一次的彗星造访过一个月之后的日本。　　某个深山的乡下小镇，女高中生三叶每天都过着忧郁的生活。　　而她烦恼的不光有担任镇长的父亲所举行的选举运动，还有家传神社的古老习俗。　　在这个小小的城镇，周围都只是些爱瞎操心的老人。为此三叶对于大都市充满了憧憬。　　“下辈子就让我成为东京的帅哥吧……！！！”　　然而某一天，自己做了一个变成男孩子的梦。　　这儿有着陌生的房间、陌生的朋友。而眼前出现的则是东京的街道。　　三叶虽然感到困惑，但是能够来到朝思暮想的都市生活，让她觉得神清气爽。　　“不可思议的梦……”　　另一方面在东京生活的男高中生·泷也做了个奇怪的梦。　　他在一个从未去过的深山小镇中，变成了女高中生……　　那么他们体验的梦境到底有什么秘密呢？　　原本不会相遇的两人由此相逢。　　少女和少年奇迹的故事，开始了。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/20/15/160209_w42EP.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="我想吃掉你的胰脏"><a href="#我想吃掉你的胰脏" class="headerlink" title="我想吃掉你的胰脏"></a>我想吃掉你的胰脏</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/23/17/221736_hm0HO.jpg" class="bangumi-locandina"><h1>我想吃掉你的胰脏</h1><h4>君の膵臓をたべたい</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#2271</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">1</span></span><span class="bangumi-score">7</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">她如此说了。“我想吃掉你的胰脏”春。晚开的樱花仍在绽放的4月。对他人毫无兴趣，总是独自一人读书的高中生“我”，在医院的等候室捡到了一册文库本。这本用手写的文字写着《共病文库》这一标题的书，是天真烂漫的班上人气王·山内樱良私下记录的日记本。樱良将自己身患胰脏的疾病、已经时日无多这件事，告诉了看到日记内容的“我”。对于她而言，那是对除了家人和医生以外的人隐藏病情的她，获得了唯一一位共享秘密之人的瞬间。樱良想要在临终之日到来之前，一边尽量过着一如既往的日常生活，一边去做想要做的事情，竭尽全力享受人生。在被她那奔放的行动牵着鼻子走的同时，“我”的内心也逐渐产生了变化。——那是，“我”的春日回忆。她的一生回忆。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/23/17/221736_hm0HO.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="声之形"><a href="#声之形" class="headerlink" title="声之形"></a>声之形</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/7c/b9/117777_4Ku7z.jpg" class="bangumi-locandina"><h1>声之形</h1><h4>映画 聲の形</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#1486</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">1</span></span><span class="bangumi-score">7.2</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　无比厌恶“无聊”的少年，石田将也。　　小学时期是个孩子王的他，对转校而来的少女西宫硝子产生了兴趣。　　在她到来后，少年无聊的日子得到了解放。　　然而，以硝子身上的某件事为契机，将也被周围孤立了起来。　　而后经过了五年的时间，两人在不同的高中各自成长。　　机缘巧合之下，紧紧封闭自己内心的将也再次见到了硝子。　　这是一个少年，试图接受少女、周围的人们，并接受自己的故事。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/7c/b9/117777_4Ku7z.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="线上游戏的老婆不可能是女生"><a href="#线上游戏的老婆不可能是女生" class="headerlink" title="线上游戏的老婆不可能是女生"></a>线上游戏的老婆不可能是女生</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/64/bd/142758_4WO7N.jpg" class="bangumi-locandina"><h1>线上游戏的老婆不可能是女生？</h1><h4>ネトゲの嫁は女の子じゃないと思った?</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4963</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.1</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">就读于县立前崎高中、爱好网游的男高中生西村英骑，在MMORPG《传奇时代》中向女性角色告白，但却得知对方其实是“网络人妖（以男性身份假扮女性的人）”而大受打击。他由于这一心理阴影而相信“现实与游戏完全不同”并对其做出区别，不过现在仍然和自己所属的公会“Array Cat”的成员们愉快地享受着游戏。但，他被伙伴中的一人“亚子”告白，并演变成要和她结婚的状况。不止如此，英骑还被公会会长告知第一次“线下会”将要开办了。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/64/bd/142758_4WO7N.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="学生会的一己之见"><a href="#学生会的一己之见" class="headerlink" title="学生会的一己之见"></a>学生会的一己之见</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/dd/a0/2567_Vg1Y8.jpg" class="bangumi-locandina"><h1>学生会的一己之见</h1><h4>生徒会の一存</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#1240</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">7.3</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">在私立碧阳学园。学生会成员的选举，有一套特殊的制度。不举行一般的选举，只是单纯地用《人气投票》来选取学生会成员。因此，每年被选出的基本上是《可爱的女孩》。这是因为美男子会遭到男性学生的不满，而美少女对男女学生来说，都是喜欢的对象。可是，用人气和外表来确定这样重要的人选，这样合适吗？在发生了异议之后，妥协的结果是选取《优秀者》。在各年级学习成绩顶尖的学生，只要本人愿意，就有机会加入学生会。于是，有学生开始猛学，却没能得到进入学生会的机会……。但是，有一个男学生，坚持了自己的信念，终于打破了常规！杉崎鍵。他梦想着自己能进入《除了自己之外全是美少女的团体》，他以此为目标，开始猛学，于是终于在年末的考试中取得了第一名。他抵达的目标，是个性鲜明的、美少女云集的学生会。LOLI娘学生会会长・樱野真红。冰冷而理性的前辈・红叶知弦。少年风的傲娇・椎名深夏。可爱的梦幻妹妹・椎名真冬。最终，杉崎能过上理想的后宫生活么？</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/dd/a0/2567_Vg1Y8.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h3 id="恋爱随意连接"><a href="#恋爱随意连接" class="headerlink" title="恋爱随意连接"></a>恋爱随意连接</h3><br><link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/07/2e/37154_69Axl.jpg" class="bangumi-locandina"><h1>心灵链环</h1><h4>ココロコネクト</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#862</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">17</span></span><span class="bangumi-score">7.5</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">本作的舞台位于私立山星高中，在这所学校的文化研究部内，八重樫太一、永濑伊织、稻叶姬子、桐山唯、青木义文这五名成员目前面临着不可思议的现象。起初是成员中的唯及义文，在毫无前兆的情况下发生了人格交换，之后周围的其他成员也是如此。爱与青春的五角形喜剧从此正式开演了。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/07/2e/37154_69Axl.jpg); no-repeat fixed;background-size: cover;"></div></div><br><h2 id="持续更新中…"><a href="#持续更新中…" class="headerlink" title="持续更新中…"></a>持续更新中…</h2><p>Head pic <a href="https://www.pixiv.net/artworks/61423324" target="_blank" rel="noopener">https://www.pixiv.net/artworks/61423324</a></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 动漫 </tag>
-            
-            <tag> 推荐 </tag>
-            
-            <tag> 持续更新 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>番剧平台分享</title>
-      <link href="/2020/05/17/Anime/"/>
-      <url>/2020/05/17/Anime/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.ibb.co/k5XFLqm/head-pic-3.png" alt><h1 id="此文章收录了所有我使用过的看番平台，在此做整理分享给大家。"><a href="#此文章收录了所有我使用过的看番平台，在此做整理分享给大家。" class="headerlink" title="此文章收录了所有我使用过的看番平台，在此做整理分享给大家。"></a>此文章收录了所有我使用过的看番平台，在此做整理分享给大家。</h1><a id="more"></a><h3 id="1-哔哩哔哩"><a href="#1-哔哩哔哩" class="headerlink" title="1. 哔哩哔哩"></a>1.<font size="5"> <a href="https://www.bilibili.com/" target="_blank" rel="noopener">哔哩哔哩</a></font></h3><h3 id="2-ACfun"><a href="#2-ACfun" class="headerlink" title="2. ACfun"></a>2.<font size="5"> <a href="https://www.acfun.cn/" target="_blank" rel="noopener">ACfun</a></font></h3><h2 id="国内两巨头，不用说了8"><a href="#国内两巨头，不用说了8" class="headerlink" title="国内两巨头，不用说了8"></a>国内两巨头，不用说了8</h2><h3 id="3-樱花动漫"><a href="#3-樱花动漫" class="headerlink" title="3. 樱花动漫"></a>3.<font size="5"> <a href="http://www.yhdm.tv/" target="_blank" rel="noopener">樱花动漫</a></font></h3><h2 id="基本收录了所有番剧，缺点就是广告太多，而且不好关闭。"><a href="#基本收录了所有番剧，缺点就是广告太多，而且不好关闭。" class="headerlink" title="基本收录了所有番剧，缺点就是广告太多，而且不好关闭。"></a>基本收录了所有番剧，缺点就是广告太多，而且不好关闭。</h2><h3 id="4-风车动漫"><a href="#4-风车动漫" class="headerlink" title="4. 风车动漫"></a>4.<font size="5"> <a href="http://www.fengchedm.tv/" target="_blank" rel="noopener">风车动漫</a></font></h3><h2 id="也是基本收录了所有番剧，但有些貌似加载不出来了，广告较少。"><a href="#也是基本收录了所有番剧，但有些貌似加载不出来了，广告较少。" class="headerlink" title="也是基本收录了所有番剧，但有些貌似加载不出来了，广告较少。"></a>也是基本收录了所有番剧，但有些貌似加载不出来了，广告较少。</h2><h3 id="5-蜜柑计划"><a href="#5-蜜柑计划" class="headerlink" title="5. 蜜柑计划"></a>5.<font size="5"> <a href="https://mikanani.me/" target="_blank" rel="noopener">蜜柑计划</a></font></h3><h2 id="收录了所有你能想到的番剧，且可选择多个字幕组，画质较高但需要种子下载器或播放器。"><a href="#收录了所有你能想到的番剧，且可选择多个字幕组，画质较高但需要种子下载器或播放器。" class="headerlink" title="收录了所有你能想到的番剧，且可选择多个字幕组，画质较高但需要种子下载器或播放器。"></a>收录了所有你能想到的番剧，且可选择多个字幕组，画质较高但需要种子下载器或播放器。</h2><h2 id="强烈推荐蜜柑计划"><a href="#强烈推荐蜜柑计划" class="headerlink" title="强烈推荐蜜柑计划"></a>强烈推荐蜜柑计划</h2><h2 id="种子播放器推荐使用-SodaPlayer-界面简洁，速度快。"><a href="#种子播放器推荐使用-SodaPlayer-界面简洁，速度快。" class="headerlink" title="种子播放器推荐使用   SodaPlayer  界面简洁，速度快。"></a>种子播放器推荐使用  <font size="5"> <a href="https://www.sodaplayer.com/" target="_blank" rel="noopener">SodaPlayer</a></font>  界面简洁，速度快。</h2><h1 id="Head-pic-我忘了…-侵删"><a href="#Head-pic-我忘了…-侵删" class="headerlink" title="Head pic 我忘了…. 侵删"></a>Head pic 我忘了…. 侵删</h1>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 动漫 </tag>
-            
-            <tag> 推荐 </tag>
-            
-            <tag> 已完结 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>B站直播的一些小插件</title>
-      <link href="/2020/05/17/Live/"/>
-      <url>/2020/05/17/Live/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.ibb.co/wp6FMCB/head-pic-2.png" alt><h1 id="前-因-后-果"><a href="#前-因-后-果" class="headerlink" title="前 因 后 果"></a>前 因 后 果</h1><h3 id="在我自己直播的时候发现B站自家直播姬功能是在少得可怜，所以上网搜寻了许多改善直播的小插件整理在这里。"><a href="#在我自己直播的时候发现B站自家直播姬功能是在少得可怜，所以上网搜寻了许多改善直播的小插件整理在这里。" class="headerlink" title="在我自己直播的时候发现B站自家直播姬功能是在少得可怜，所以上网搜寻了许多改善直播的小插件整理在这里。"></a>在我自己直播的时候发现B站自家直播姬功能是在少得可怜，所以上网搜寻了许多改善直播的小插件整理在这里。</h3><a id="more"></a><h3 id="1-B站弹幕姬-（不会有人不知道这个吧，不会吧不会吧）"><a href="#1-B站弹幕姬-（不会有人不知道这个吧，不会吧不会吧）" class="headerlink" title="1. B站弹幕姬 （不会有人不知道这个吧，不会吧不会吧）"></a>1.<font size="5"> <a href="https://www.danmuji.org/" target="_blank" rel="noopener">B站弹幕姬</a></font> （不会有人不知道这个吧，不会吧不会吧）</h3><p>弹幕姬可以以弹幕的方式显示直播间评论，如图（来自弹幕姬官网）</p><img src="https://www.danmuji.org/pics/3.png" alt><p>弹幕姬还拥有完善的插件系统，例如语音播报，点歌系统，如图（截图来自弹幕姬官网）</p><img src="https://i.ibb.co/jHBXmnc/TIM-20200517155855.png" alt><p>我目前常用的插件是<font size="5"> <a href="https://www.danmuji.org/plugins/FollowAlert" target="_blank" rel="noopener">关注提醒</a></font>   与   <font size="5"> <a href="https://www.danmuji.org/plugins/Re-TTSCat" target="_blank" rel="noopener">TTSCat（语音播报）</a></font></p><p>这些插件可以让您不再错过直播间的消息，及时与观众互动。</p><h3 id="2-Bilibili-Live-Chat-OBS用B站直播弹幕展示"><a href="#2-Bilibili-Live-Chat-OBS用B站直播弹幕展示" class="headerlink" title="2. [Bilibili Live Chat] OBS用B站直播弹幕展示"></a>2.<font size="5"> <a href="https://moe.best/projects/bilibili-live-chat.html" target="_blank" rel="noopener">[Bilibili Live Chat] OBS用B站直播弹幕展示</a></font></h3><p>这个是我偶然在网上看到的，他可以以滚动的方式显示弹幕（如Youtube Live Chat）</p><img src="https://i.loli.net/2019/02/13/5c638e21ad91a.gif" alt><p>图片来自 <a href="https://moe.best/projects/bilibili-live-chat.html" target="_blank" rel="noopener">https://moe.best/projects/bilibili-live-chat.html</a></p><p>大家有需要的可以点击上方链接查看。</p><h3 id="3-FaceRig"><a href="#3-FaceRig" class="headerlink" title="3. FaceRig"></a>3.<font size="5"> <a href="https://facerig.com/" target="_blank" rel="noopener">FaceRig</a></font></h3><p>这个软件还是蛮有趣的，可以通过摄像头捕获你的脸并转为可爱的动漫人物</p><img src="https://thumbs.gfycat.com/UnimportantOrnateCivet-small.gif" alt><p>图片来自Google。</p><p>软件可以在Steam上搜索并购买</p><h3 id="这些就是目前我在网络上搜集到并在使用的小插件了，以后如果发现其他插件将会持续更新"><a href="#这些就是目前我在网络上搜集到并在使用的小插件了，以后如果发现其他插件将会持续更新" class="headerlink" title="这些就是目前我在网络上搜集到并在使用的小插件了，以后如果发现其他插件将会持续更新"></a>这些就是目前我在网络上搜集到并在使用的小插件了，以后如果发现其他插件将会持续更新</h3><h2 id="Head-pic-https-www-pixiv-net-artworks-81495663"><a href="#Head-pic-https-www-pixiv-net-artworks-81495663" class="headerlink" title="Head pic https://www.pixiv.net/artworks/81495663"></a>Head pic <a href="https://www.pixiv.net/artworks/81495663" target="_blank" rel="noopener">https://www.pixiv.net/artworks/81495663</a></h2>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 持续更新 </tag>
-            
-            <tag> 教程 </tag>
-            
-            <tag> bilibili </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>海外用户在B站直播方法</title>
-      <link href="/2020/05/17/Live-2/"/>
-      <url>/2020/05/17/Live-2/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.ibb.co/HTv51hF/head-pic.png" alt><h1 id="前-因-后-果"><a href="#前-因-后-果" class="headerlink" title="前 因 后 果"></a>前 因 后 果</h1><h3 id="刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道"><a href="#刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道" class="headerlink" title="刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道"></a>刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道</h3><a id="more"></a><img src="https://i.ibb.co/n7F7QmT/TIM-20200517151009.png" alt><p>如图</p><h3 id="在尝试多次后，我选择了使用VPN解决此问题。"><a href="#在尝试多次后，我选择了使用VPN解决此问题。" class="headerlink" title="在尝试多次后，我选择了使用VPN解决此问题。"></a>在尝试多次后，我选择了使用VPN解决此问题。</h3><p>最初，我选择了万能的纸飞机ShadowsocksR。但使用了几个订阅链接后发现目前能够搜索到的回国ssr无法解决b站直播问题，尽管设置了全局代理。</p><p>谷歌上可以搜索到的回国vpn也基本全军覆没，在这里为大家推荐几款可用于b站直播的vpn。</p><h3 id="1-蚂蚁VPN"><a href="#1-蚂蚁VPN" class="headerlink" title="1. 蚂蚁VPN"></a>1.<font size="5"> <a href="https://b.antss.me/" target="_blank" rel="noopener">蚂蚁VPN</a></font></h3><p>蚂蚁VPN可以连接多个回国节点，而且无限速</p><h2 id="缺点-流量优先，需要分享链接给朋友才能增加流量。"><a href="#缺点-流量优先，需要分享链接给朋友才能增加流量。" class="headerlink" title="缺点 流量优先，需要分享链接给朋友才能增加流量。"></a>缺点 流量优先，需要分享链接给朋友才能增加流量。</h2><h3 id="2-穿梭transocks"><a href="#2-穿梭transocks" class="headerlink" title="2.  穿梭transocks"></a>2. <font size="5"> <a href="https://www.transocks.com" target="_blank" rel="noopener">穿梭transocks</a></font></h3><p>穿梭算是海外党的福音，基本所有人选择回国vpn时都会选择此vpn</p><h2 id="缺点-电脑端需要收费使用-手机端可以免费试用（据说速度会慢）"><a href="#缺点-电脑端需要收费使用-手机端可以免费试用（据说速度会慢）" class="headerlink" title="缺点 电脑端需要收费使用 手机端可以免费试用（据说速度会慢）"></a>缺点 电脑端需要收费使用 手机端可以免费试用（据说速度会慢）</h2><h4 id="以上盘点的两款算是可以正常试用b站直播服务，建议有需要的朋友可以选择下载。"><a href="#以上盘点的两款算是可以正常试用b站直播服务，建议有需要的朋友可以选择下载。" class="headerlink" title="以上盘点的两款算是可以正常试用b站直播服务，建议有需要的朋友可以选择下载。"></a>以上盘点的两款算是可以正常试用b站直播服务，建议有需要的朋友可以选择下载。</h4><h3 id="Head-pic-：-https-www-pixiv-net-artworks-73500201"><a href="#Head-pic-：-https-www-pixiv-net-artworks-73500201" class="headerlink" title="Head pic ： https://www.pixiv.net/artworks/73500201"></a>Head pic ： <a href="https://www.pixiv.net/artworks/73500201" target="_blank" rel="noopener">https://www.pixiv.net/artworks/73500201</a></h3>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 已完结 </tag>
-            
-            <tag> 教程 </tag>
-            
-            <tag> bilibili </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>欢迎</title>
-      <link href="/2020/05/17/Welcome/"/>
-      <url>/2020/05/17/Welcome/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>欢迎来到 NanaNana的网站。如在浏览时发现任何问题，可以通过 QQ 2391626794 联系我哟~</p><h3 id="——-番剧推荐、恋爱番剧推荐、海外B站直播、看番平台、看番网站、NanaNana、nananana-——"><a href="#——-番剧推荐、恋爱番剧推荐、海外B站直播、看番平台、看番网站、NanaNana、nananana-——" class="headerlink" title="——- 番剧推荐、恋爱番剧推荐、海外B站直播、看番平台、看番网站、NanaNana、nananana ——-"></a>——- 番剧推荐、恋爱番剧推荐、海外B站直播、看番平台、看番网站、NanaNana、nananana ——-</h3><h2 id="官方Discord服务器"><a href="#官方Discord服务器" class="headerlink" title="官方Discord服务器"></a>官方Discord服务器</h2><h3 id="进群与更多人交流-玩游戏吧！"><a href="#进群与更多人交流-玩游戏吧！" class="headerlink" title="进群与更多人交流/玩游戏吧！"></a>进群与更多人交流/玩游戏吧！</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://discord.gg/WSJZx4R</span><br></pre></td></tr></table></figure><iframe src="https://discordapp.com/widget?id=658444715741675560&theme=dark" width="1850" height="500" allowtransparency="true" frameborder="0"></iframe>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> Welcome </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title>欢迎</title>
+    <url>/2020/05/17/Welcome/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>欢迎来到 NanaNana的网站。如在浏览时发现任何问题，可以通过 QQ 2391626794 联系我哟~</p>
+<h3 id="网站已更换为wordpress，现网站域名更换为nana0nana-tk，新网站域名为nananana-net"><a href="#网站已更换为wordpress，现网站域名更换为nana0nana-tk，新网站域名为nananana-net" class="headerlink" title="网站已更换为wordpress，现网站域名更换为nana0nana.tk，新网站域名为nananana.net"></a>网站已更换为wordpress，现网站域名更换为nana0nana.tk，新网站域名为nananana.net</h3><h3 id="——-番剧推荐、恋爱番剧推荐、海外B站直播、看番平台、看番网站、NanaNana、nananana-——"><a href="#——-番剧推荐、恋爱番剧推荐、海外B站直播、看番平台、看番网站、NanaNana、nananana-——" class="headerlink" title="——- 番剧推荐、恋爱番剧推荐、海外B站直播、看番平台、看番网站、NanaNana、nananana ——-"></a>——- 番剧推荐、恋爱番剧推荐、海外B站直播、看番平台、看番网站、NanaNana、nananana ——-</h3><h2 id="官方Discord服务器"><a href="#官方Discord服务器" class="headerlink" title="官方Discord服务器"></a>官方Discord服务器</h2><h3 id="进群与更多人交流-玩游戏吧！"><a href="#进群与更多人交流-玩游戏吧！" class="headerlink" title="进群与更多人交流/玩游戏吧！"></a>进群与更多人交流/玩游戏吧！</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://discord.gg/WSJZx4R</span><br></pre></td></tr></table></figure>
+
+
+
+<iframe src="https://discordapp.com/widget?id=658444715741675560&theme=dark" width="1850" height="500" allowtransparency="true" frameborder="0"></iframe>
+
+
+
+
+
+]]></content>
+      <tags>
+        <tag>Welcome</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Launchpad 按键贴</title>
+    <url>/2020/05/29/Stickers/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.ibb.co/MM78Gd9/head-pic.png" alt>
+
+
+
+
+<h2 id="Midiark电子方舟自营Launchpad按键贴"><a href="#Midiark电子方舟自营Launchpad按键贴" class="headerlink" title="Midiark电子方舟自营Launchpad按键贴"></a>Midiark电子方舟自营Launchpad按键贴</h2><a id="more"></a>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+<h2 id="全场贴纸买三送一，两件包邮"><a href="#全场贴纸买三送一，两件包邮" class="headerlink" title="全场贴纸买三送一，两件包邮"></a>全场贴纸买三送一，两件包邮</h2><br>
+<br>
+<br>
+
+<h2 id="购买请点击左侧栏添加QQ或者访问-电子方舟官网-也可以直接点击文章末端的赞赏转账并在转账备注中填写快递信息，"><a href="#购买请点击左侧栏添加QQ或者访问-电子方舟官网-也可以直接点击文章末端的赞赏转账并在转账备注中填写快递信息，" class="headerlink" title="购买请点击左侧栏添加QQ或者访问 电子方舟官网,也可以直接点击文章末端的赞赏转账并在转账备注中填写快递信息，"></a>购买请点击左侧栏添加QQ或者访问<font size="5"> <a href="https://www.midiark123.tk" target="_blank" rel="noopener">电子方舟官网</a></font>,也可以直接点击文章末端的赞赏转账并在转账备注中填写快递信息，</h2><h1 id="Galaxy-white-29-99元-张"><a href="#Galaxy-white-29-99元-张" class="headerlink" title="Galaxy white - 29.99元/张"></a>Galaxy white - 29.99元/张</h1><img src="https://i.ibb.co/Z6V3YrT/galaxy-2.jpg" alt height="1000" width="1500">
+<br>
+<img src="https://i.ibb.co/Lh3tgMM/galaxy-4.jpg" alt height="2000" width="1500">
+<br>
+<img src="https://i.ibb.co/SVnyGH0/galaxy-5.jpg" alt height="1000" width="1500">
+<br>
+
+
+<h1 id="Edge-Dark-25-99-元-张"><a href="#Edge-Dark-25-99-元-张" class="headerlink" title="Edge Dark - 25.99 元/张"></a>Edge Dark - 25.99 元/张</h1><img src="https://i.ibb.co/tBn4hdg/black-1.jpg" alt height="1000" width="1500">
+<br>
+<img src="https://i.ibb.co/K0Hgq35/black-2.jpg" alt height="1000" width="1500">
+<br>
+<img src="https://i.ibb.co/P1L7Qw1/black-4.jpg" alt height="1000" width="1500">
+<br>
+
+<h1 id="Focus-Light-40元-2张（黑-白）"><a href="#Focus-Light-40元-2张（黑-白）" class="headerlink" title="Focus Light - 40元/2张（黑+白）"></a>Focus Light - 40元/2张（黑+白）</h1><h1 id="由于白色贴纸颜色以及材质特殊性，购买focus-light将附送黑色一张。"><a href="#由于白色贴纸颜色以及材质特殊性，购买focus-light将附送黑色一张。" class="headerlink" title="由于白色贴纸颜色以及材质特殊性，购买focus light将附送黑色一张。"></a>由于白色贴纸颜色以及材质特殊性，购买focus light将附送黑色一张。</h1><img src="https://i.ibb.co/myqkmbd/white-1.jpg" alt height="1000" width="1500">
+<br>
+<img src="https://i.ibb.co/K0vkVfd/white-2.jpg" alt height="1000" width="1500">
+<br>
+<img src="https://i.ibb.co/PMT36Rv/white.jpg" alt height="1000" width="1500">
+
+]]></content>
+      <tags>
+        <tag>推荐</tag>
+        <tag>已完结</tag>
+        <tag>Launchpad</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hexo Yilia主题设置个性鼠标指针</title>
+    <url>/2020/06/16/mouse/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.ibb.co/8YRQ3nq/head-pic.png" alt>
+
+
+<h1 id="此文章将教大家如何让用户浏览个人博客时鼠标指针会自动改变成我们预设的样式"><a href="#此文章将教大家如何让用户浏览个人博客时鼠标指针会自动改变成我们预设的样式" class="headerlink" title="此文章将教大家如何让用户浏览个人博客时鼠标指针会自动改变成我们预设的样式"></a>此文章将教大家如何让用户浏览个人博客时鼠标指针会自动改变成我们预设的样式</h1><a id="more"></a>
+
+<br>
+<br>
+<br>
+
+<h3 id="1-找到-HEXO-themes-hexo-theme-yilia-master-source中的main-0cf68a-css文件"><a href="#1-找到-HEXO-themes-hexo-theme-yilia-master-source中的main-0cf68a-css文件" class="headerlink" title="1. 找到 HEXO\themes\hexo-theme-yilia-master\source中的main.0cf68a.css文件"></a>1. 找到 HEXO\themes\hexo-theme-yilia-master\source中的main.0cf68a.css文件</h3><br>
+
+<br>
+<br>
+<br>
+
+<h2 id="2-将此段代码复制进去"><a href="#2-将此段代码复制进去" class="headerlink" title="2. 将此段代码复制进去"></a>2. 将此段代码复制进去</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">body &#123;</span><br><span class="line">    margin:0;</span><br><span class="line">    font-size:10px;</span><br><span class="line">    font-family:Helvetica Neue, Helvetica, STHeiTi, Arial, sans-serif;</span><br><span class="line">    line-height:1.5;</span><br><span class="line">    color:<span class="comment">#333;</span></span><br><span class="line">    /* background-color:<span class="comment">#fff; */</span></span><br><span class="line">    min-height:50%;</span><br><span class="line">    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), </span><br><span class="line">        url(<span class="string">''</span>) no-repeat 0% 0%/ cover;</span><br><span class="line">    cursor:url(<span class="string">'替换'</span>), default;</span><br><span class="line">	</span><br><span class="line">&#125;</span><br><span class="line">/* 因为超链接默认情况下是：cursor: pointer; 显示为手，这里进行设置 */</span><br><span class="line">a &#123;</span><br><span class="line">    cursor:url(<span class="string">'替换'</span>), default;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<br>
+<br>
+
+<h1 id="3-url后面换成自己想设置的图片地址"><a href="#3-url后面换成自己想设置的图片地址" class="headerlink" title="3. url后面换成自己想设置的图片地址"></a>3. url后面换成自己想设置的图片地址</h1><br>
+
+<h1 id="尽量不要使用PNG图片，会导致部分浏览器不显示"><a href="#尽量不要使用PNG图片，会导致部分浏览器不显示" class="headerlink" title="尽量不要使用PNG图片，会导致部分浏览器不显示"></a>尽量不要使用PNG图片，会导致部分浏览器不显示</h1><br>
+<br>
+<br>
+<br>
+
+<h3 id="指令参考来源：https-yansheng0083-gitee-io-article-72a91df5-html"><a href="#指令参考来源：https-yansheng0083-gitee-io-article-72a91df5-html" class="headerlink" title="指令参考来源：https://yansheng0083.gitee.io/article/72a91df5.html"></a>指令参考来源：<a href="https://yansheng0083.gitee.io/article/72a91df5.html" target="_blank" rel="noopener">https://yansheng0083.gitee.io/article/72a91df5.html</a></h3><h3 id="Head-pic-：-https-www-pixiv-net-artworks-73500201"><a href="#Head-pic-：-https-www-pixiv-net-artworks-73500201" class="headerlink" title="Head pic ： https://www.pixiv.net/artworks/73500201"></a>Head pic ： <a href="https://www.pixiv.net/artworks/73500201" target="_blank" rel="noopener">https://www.pixiv.net/artworks/73500201</a></h3>]]></content>
+      <tags>
+        <tag>已完结</tag>
+        <tag>教程</tag>
+        <tag>Hexo</tag>
+        <tag>yilia</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>海外用户在B站直播方法</title>
+    <url>/2020/05/17/Live-2/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.ibb.co/HTv51hF/head-pic.png" alt>
+
+
+<h1 id="前-因-后-果"><a href="#前-因-后-果" class="headerlink" title="前 因 后 果"></a>前 因 后 果</h1><h3 id="刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道"><a href="#刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道" class="headerlink" title="刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道"></a>刚搬到海外后太无聊，干脆在B站干起了直播，后来发现B站在2019年5月1日左右关闭了海外直播渠道</h3><a id="more"></a>
+
+<img src="https://i.ibb.co/n7F7QmT/TIM-20200517151009.png" alt>
+
+<p>如图</p>
+<h3 id="在尝试多次后，我选择了使用VPN解决此问题。"><a href="#在尝试多次后，我选择了使用VPN解决此问题。" class="headerlink" title="在尝试多次后，我选择了使用VPN解决此问题。"></a>在尝试多次后，我选择了使用VPN解决此问题。</h3><p>最初，我选择了万能的纸飞机ShadowsocksR。但使用了几个订阅链接后发现目前能够搜索到的回国ssr无法解决b站直播问题，尽管设置了全局代理。</p>
+<p>谷歌上可以搜索到的回国vpn也基本全军覆没，在这里为大家推荐几款可用于b站直播的vpn。</p>
+<h3 id="1-蚂蚁VPN"><a href="#1-蚂蚁VPN" class="headerlink" title="1. 蚂蚁VPN"></a>1.<font size="5"> <a href="https://b.antss.me/" target="_blank" rel="noopener">蚂蚁VPN</a></font></h3><p>蚂蚁VPN可以连接多个回国节点，而且无限速</p>
+<h2 id="缺点-流量优先，需要分享链接给朋友才能增加流量。"><a href="#缺点-流量优先，需要分享链接给朋友才能增加流量。" class="headerlink" title="缺点 流量优先，需要分享链接给朋友才能增加流量。"></a>缺点 流量优先，需要分享链接给朋友才能增加流量。</h2><h3 id="2-穿梭transocks"><a href="#2-穿梭transocks" class="headerlink" title="2.  穿梭transocks"></a>2. <font size="5"> <a href="https://www.transocks.com" target="_blank" rel="noopener">穿梭transocks</a></font></h3><p>穿梭算是海外党的福音，基本所有人选择回国vpn时都会选择此vpn</p>
+<h2 id="缺点-电脑端需要收费使用-手机端可以免费试用（据说速度会慢）"><a href="#缺点-电脑端需要收费使用-手机端可以免费试用（据说速度会慢）" class="headerlink" title="缺点 电脑端需要收费使用 手机端可以免费试用（据说速度会慢）"></a>缺点 电脑端需要收费使用 手机端可以免费试用（据说速度会慢）</h2><h4 id="以上盘点的两款算是可以正常试用b站直播服务，建议有需要的朋友可以选择下载。"><a href="#以上盘点的两款算是可以正常试用b站直播服务，建议有需要的朋友可以选择下载。" class="headerlink" title="以上盘点的两款算是可以正常试用b站直播服务，建议有需要的朋友可以选择下载。"></a>以上盘点的两款算是可以正常试用b站直播服务，建议有需要的朋友可以选择下载。</h4><h3 id="Head-pic-：-https-www-pixiv-net-artworks-73500201"><a href="#Head-pic-：-https-www-pixiv-net-artworks-73500201" class="headerlink" title="Head pic ： https://www.pixiv.net/artworks/73500201"></a>Head pic ： <a href="https://www.pixiv.net/artworks/73500201" target="_blank" rel="noopener">https://www.pixiv.net/artworks/73500201</a></h3>]]></content>
+      <tags>
+        <tag>已完结</tag>
+        <tag>教程</tag>
+        <tag>bilibili</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站搭建周记</title>
+    <url>/2020/06/16/2020-6-16/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>日记</p>
+<a id="more"></a>
+
+<br>
+<br>
+<br>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" src="http://your-domain.com/get_bangumi_list.php?uid=284128229"></iframe>
+<html>
+<body>
+<p style="font-family:FangSong;font-size:500%;color:black">
+今天差不多搞了一天的网站，算是达到了预期的效果，现在预计每年换一次主题
+</p>
+</body>
+</html>
+
+<h2 id="站内搜索："><a href="#站内搜索：" class="headerlink" title="站内搜索："></a>站内搜索：</h2><img src="https://i.ibb.co/f1gqxRv/TIM-20200616173010.png" alt>
+
+<br>
+
+<h1 id="完成进度：100"><a href="#完成进度：100" class="headerlink" title="完成进度：100%"></a>完成进度：100%</h1><h2 id="基于swiftype开发，现已可以搜索网站内的文章。"><a href="#基于swiftype开发，现已可以搜索网站内的文章。" class="headerlink" title="基于swiftype开发，现已可以搜索网站内的文章。"></a>基于swiftype开发，现已可以搜索网站内的文章。</h2><br>
+
+<h2 id="标签栏："><a href="#标签栏：" class="headerlink" title="标签栏："></a>标签栏：</h2><img src="https://i.ibb.co/xft0Xq5/TIM-20200616173452.png" alt>
+
+<br>
+
+<h1 id="完成进度：100-1"><a href="#完成进度：100-1" class="headerlink" title="完成进度：100%"></a>完成进度：100%</h1><h2 id="参考了大佬的教程制作完成，现已经可以导航标签。"><a href="#参考了大佬的教程制作完成，现已经可以导航标签。" class="headerlink" title="参考了大佬的教程制作完成，现已经可以导航标签。"></a>参考了大佬的教程制作完成，现已经可以导航标签。</h2><br>
+
+<h2 id="追番栏："><a href="#追番栏：" class="headerlink" title="追番栏："></a>追番栏：</h2><img src="https://i.ibb.co/P59CFrc/TIM-20200616173657.png" alt>
+
+<br>
+
+<h1 id="完成进度：80"><a href="#完成进度：80" class="headerlink" title="完成进度：80%"></a>完成进度：80%</h1><h2 id="也是参考了大佬的教程，基于bilibili追番。但是没有达到我预期的效果，正在努力中！！"><a href="#也是参考了大佬的教程，基于bilibili追番。但是没有达到我预期的效果，正在努力中！！" class="headerlink" title="也是参考了大佬的教程，基于bilibili追番。但是没有达到我预期的效果，正在努力中！！"></a>也是参考了大佬的教程，基于bilibili追番。但是没有达到我预期的效果，正在努力中！！</h2><br>
+
+<h2 id="Pixiv美图："><a href="#Pixiv美图：" class="headerlink" title="Pixiv美图："></a>Pixiv美图：</h2><img src="https://i.ibb.co/ch6XMt7/TIM-20200616173841.png" alt>
+<br>
+
+<h1 id="完成进度：100-2"><a href="#完成进度：100-2" class="headerlink" title="完成进度：100%"></a>完成进度：100%</h1><h2 id="哈！没错，还是参考了大佬的教程，毕竟我懒得一批。"><a href="#哈！没错，还是参考了大佬的教程，毕竟我懒得一批。" class="headerlink" title="哈！没错，还是参考了大佬的教程，毕竟我懒得一批。"></a>哈！没错，还是参考了大佬的教程，毕竟我懒得一批。</h2><br>
+
+<h2 id="自定义鼠标："><a href="#自定义鼠标：" class="headerlink" title="自定义鼠标："></a>自定义鼠标：</h2><img src="https://i.ibb.co/QrNXzHf/1.png" alt>
+
+<br>
+
+<h1 id="完成进度：100-3"><a href="#完成进度：100-3" class="headerlink" title="完成进度：100%"></a>完成进度：100%</h1><h2 id="这个真的太爽了！以前搞了好久都没搞好，昨天翻了一个多小时教程搞好了，已经放到我自己的网站上供人们学习。"><a href="#这个真的太爽了！以前搞了好久都没搞好，昨天翻了一个多小时教程搞好了，已经放到我自己的网站上供人们学习。" class="headerlink" title="这个真的太爽了！以前搞了好久都没搞好，昨天翻了一个多小时教程搞好了，已经放到我自己的网站上供人们学习。"></a>这个真的太爽了！以前搞了好久都没搞好，昨天翻了一个多小时教程搞好了，已经放到我自己的网站上供人们学习。</h2><br>
+<br>
+
+
+<h2 id="更新结束…"><a href="#更新结束…" class="headerlink" title="更新结束…."></a>更新结束….</h2><br>
+<br>
+
+<h2 id="网站开发整体进度：80"><a href="#网站开发整体进度：80" class="headerlink" title="网站开发整体进度：80%"></a>网站开发整体进度：80%</h2><br>
+
+<h2 id="感谢支持"><a href="#感谢支持" class="headerlink" title="感谢支持"></a>感谢支持</h2>]]></content>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>个人向 - 恋爱番剧推荐</title>
+    <url>/2020/05/17/Anime-1/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.ibb.co/p0pgZcH/head-pic-4.png" alt>
+
+
+
+<h2 id="此文章收录了所有我看过的恋爱-后宫番剧，在此做整理并推荐给大家"><a href="#此文章收录了所有我看过的恋爱-后宫番剧，在此做整理并推荐给大家" class="headerlink" title="此文章收录了所有我看过的恋爱/后宫番剧，在此做整理并推荐给大家"></a>此文章收录了所有我看过的恋爱/后宫番剧，在此做整理并推荐给大家</h2><h2 id="所有番剧名称可复制到追番网站直接查看"><a href="#所有番剧名称可复制到追番网站直接查看" class="headerlink" title="所有番剧名称可复制到追番网站直接查看"></a>所有番剧名称可复制到追番网站直接查看</h2><h2 id="不知道有哪些追番网站？-番剧平台分享"><a href="#不知道有哪些追番网站？-番剧平台分享" class="headerlink" title="不知道有哪些追番网站？ 番剧平台分享"></a>不知道有哪些追番网站？<font size="5"> <a href="https://nana0nana.github.io/2020/05/17/Anime/" target="_blank" rel="noopener">番剧平台分享</a></font></h2><h1 id="展开查看番剧推荐列表"><a href="#展开查看番剧推荐列表" class="headerlink" title="展开查看番剧推荐列表"></a>展开查看番剧推荐列表</h1><a id="more"></a>
+<p>　
+　
+　
+　
+　</p>
+<p>╰☆╮ 其  ╰★╮ 实 ╰☆╮ 我 ╰★╮ 是 ╰☆╮  分 ╰★╮ 割 ╰☆╮ 线</p>
+<p>　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　</p>
+<h3 id="辉夜大小姐想让我告白-第一、二季"><a href="#辉夜大小姐想让我告白-第一、二季" class="headerlink" title="辉夜大小姐想让我告白 第一、二季"></a>辉夜大小姐想让我告白 第一、二季</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/2a/f7/248175_4pqpv.jpg" class="bangumi-locandina"><h1>辉夜大小姐想让我告白～天才们的恋爱头脑战～</h1><h4>かぐや様は告らせたい～天才たちの恋愛頭脳戦～</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#352</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">7.8</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">家庭背景与人品都很棒！！一大群有前途的秀才所聚集的秀知院学园！！在那里的学生会相遇的副会长·四宫辉夜与会长·白银御行原本应该是彼此受到了对方吸引…但想不到都过半年了却仍然什么事情也没发生！！最麻烦的是这两个自尊心超强、无法坦率的家伙，居然开始想着要“设法让对方向自己告白”！？
+直到恋情有下落之前会很欢乐的故事！！新感觉“斗智”爱情喜剧、就此开战！！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/2a/f7/248175_4pqpv.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="青春猪头少年不会梦到兔女郎学姐"><a href="#青春猪头少年不会梦到兔女郎学姐" class="headerlink" title="青春猪头少年不会梦到兔女郎学姐"></a>青春猪头少年不会梦到兔女郎学姐</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/b9/45/240038_b5j7g.jpg" class="bangumi-locandina"><h1>青春笨蛋少年不做兔女郎学姐的梦</h1><h4>青春ブタ野郎はバニーガール先輩の夢を見ない</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#951</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">13</span></span><span class="bangumi-score">7.4</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">思春期症候群——这是一种只发生在易敏感和不稳定的青春期的、不可思议的现象。
+例如，在梓川咲太面前出现的野生兔女郎。
+她的真实身份是高中高年级学生，明星活动休止的女演员樱岛麻衣。她迷人的身姿，不知为何在周围的人眼里看不出来。
+咲太决定解开这一谜题。在于麻衣一起度过的时间里，咲太知道了她秘密的想法……
+女主人公们一个接一个地出现在咲太的周围，她们都有着“青春期症候群”。在天空和大海都很闪耀的小镇上，开始了令人激动的故事。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/b9/45/240038_b5j7g.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="月色真美"><a href="#月色真美" class="headerlink" title="月色真美"></a>月色真美</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/a8/41/207573_95N29.jpg" class="bangumi-locandina"><h1>月色真美</h1><h4>月がきれい</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#320</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">7.9</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">茜与小太郎。
+初三时第一次被分到同班，相识的两人。
+同班同学、社团伙伴、教师、父母……与周围的关联，自己的成长。
+在那个一边被变化与不安追着，一边慌慌张张地向前飞奔的季节之中，稚嫩而又令人眩目的青春期之恋。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/a8/41/207573_95N29.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="路人女主的养成方法"><a href="#路人女主的养成方法" class="headerlink" title="路人女主的养成方法"></a>路人女主的养成方法</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/6b/01/100403_JFsXn.jpg" class="bangumi-locandina"><h1>路人女主的养成方法</h1><h4>冴えない彼女の育てかた</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#1402</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">13</span></span><span class="bangumi-score">7.2</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">春假时，为了购买动画蓝光片而打工的御宅族安艺伦也，在开满樱花的坡道上邂逅一位少女，帮她捡一顶被风吹走的帽子。于是有了以该少女为女主角制作同人游戏的构想。一个月后，才知道该少女是他的同班同学，名叫加藤惠。
+
+为了制作游戏，安艺伦也还要说服同年级美术部的绘画高手泽村·史宾瑟·英梨梨，以及优等生学姐霞之丘诗羽和加藤惠共组同人游戏社团，开始同人游戏的制作。之后又有波岛出海及擅长音乐的冰堂美智留等人的加入。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/6b/01/100403_JFsXn.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="冰菓"><a href="#冰菓" class="headerlink" title="冰菓"></a>冰菓</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/cd/38/27364_B4xxy.jpg" class="bangumi-locandina"><h1>冰菓</h1><h4>氷菓</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#107</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">22</span></span><span class="bangumi-score">8.2</span><span style="color:#545454">&nbsp;力荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">以节能为座右铭的高中生折木奉太郎， 为一个小小的原因而加入了濒临废社的“古典文学部”。古典文学部的社员，包括他在社里认识的好奇宝宝，也就是女主角千反田爱瑠，还有他从国中就认识的伊原摩耶花和福部里志。这是他们四人以神山高中为舞台，对一桩桩事件展开推理的青春学园推理剧。“我很好奇！”奉太郎平静的灰色高中生活，因为千反田的这一句话而为之一变！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/cd/38/27364_B4xxy.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="青春恋爱物语"><a href="#青春恋爱物语" class="headerlink" title="青春恋爱物语"></a>青春恋爱物语</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/1e/f1/54433_pc175.jpg" class="bangumi-locandina"><h1>我的青春恋爱物语果然有问题</h1><h4>やはり俺の青春ラブコメはまちがっている。</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#630</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">13</span></span><span class="bangumi-score">7.6</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　别扭的，没有朋友，没有女朋友，对着那些讴歌青春的同学吐槽着“他们都是骗子，都在说谎，快点爆发把我”的男主角的爱情物语，将来的梦想是“不工作”——
+　　这样的高中生八幡被生活指导老师的带到了学校第一美少女雪乃所属的“侍奉部”，与美少女意想不到的相遇……怎么想都是恋爱故事的展开吧！？
+　　但是雪乃却无论如何都原谅不了八幡那令人残念的糟糕性格！
+　　不断轮回着的充满问题的青春——我的青春，到底怎么了！？</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/1e/f1/54433_pc175.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="我的朋友很少"><a href="#我的朋友很少" class="headerlink" title="我的朋友很少"></a>我的朋友很少</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/80/d1/17883_58mrm.jpg" class="bangumi-locandina"><h1>我的朋友很少</h1><h4>僕は友達が少ない</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#2666</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.9</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　在學校總是獨來獨往的羽瀨川小鷹，在一次偶然的情況下，目擊到總是擺出一副臭臉的美少女三日月夜空一個人很開心地自言自語。
+
+　　小鷹和夜空聊了一下該怎麼交朋友的話題，沒想到夜空竟然憑著莫名其妙的行動力成立一個以交朋友為目的的問題社團。而且也不知道是哪裡搞錯，問題美少女們還接二連三地申請入社！大家卯起來打美少女遊戲電玩，一起去游泳、一起演戲。似乎一直沒有抓對要領的他們，果真能交到朋友嗎？</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/80/d1/17883_58mrm.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="恋爱选举与巧克力"><a href="#恋爱选举与巧克力" class="headerlink" title="恋爱选举与巧克力"></a>恋爱选举与巧克力</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/5a/18/27236_7T6Is.jpg" class="bangumi-locandina"><h1>恋爱与选举与巧克力</h1><h4>恋と選挙とチョコレート</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3909</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">13</span></span><span class="bangumi-score">6.5</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　「恋爱与选举与巧克力」是由sprite于09年发行的成人向恋爱AVG，之后便推出了两个版本的漫画作品。
+　　本作故事主要讲述了主人公大岛裕树与青梅竹马住吉千里以及从以前起就是好友的同班同学木场美冬就读于以拥有超过五千名学生而自豪的工业学园「私立高藤学园」，同时他们还是以吃点心作为活动内容的社团食品研究部(通称：食研)的成员。次期自治学生会长的强力候选人东云皐月誓言要整顿杂乱且无实绩的社团活动，而其中食研更是首当其冲被指名要将其废部。为了避免面临危机的食研被废部，部员们想方设法开始行动起来了……</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/5a/18/27236_7T6Is.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="四月是你的谎言"><a href="#四月是你的谎言" class="headerlink" title="四月是你的谎言"></a>四月是你的谎言</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/ec/c7/100444_yGsJZ.jpg" class="bangumi-locandina"><h1>四月是你的谎言</h1><h4>四月は君の嘘</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#208</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">22</span></span><span class="bangumi-score">8</span><span style="color:#545454">&nbsp;力荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　有马公生的母亲一心想把有马培育成举世闻名的钢琴家，而有马也不负母亲的期望，在念小学时就赢得许多钢琴比赛的大奖。11岁的秋天，有马的母亲过世，从此他再也听不见自己弹奏的钢琴声，沮丧的他也只好放弃演奏，但在14岁那年，经由儿时玩伴的介绍，有马认识了小提琴手宫园薰，并被薰的自由奔放吸引，没想到薰竟开口邀请公生在比赛时担任她的伴奏… </p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/ec/c7/100444_yGsJZ.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="川柳少女"><a href="#川柳少女" class="headerlink" title="川柳少女"></a>川柳少女</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/b4/fb/268510_XKKrF.jpg" class="bangumi-locandina"><h1>川柳少女</h1><h4>川柳少女</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3151</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.7</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">将想要说的话以“五七五的川柳”来表达的女孩子·雪白七七子，与外表可怕但内心善良的文艺社学生·毒岛英二。
+由短短17个音节而编织成的两人的日常，无论何时都充满幸福！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/b4/fb/268510_XKKrF.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="一弦定音"><a href="#一弦定音" class="headerlink" title="一弦定音"></a>一弦定音</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/17/7f/254788_5501o.jpg" class="bangumi-locandina"><h1>一弦定音！</h1><h4>この音とまれ！</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4339</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">13</span></span><span class="bangumi-score">6.2</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">即将废社的时濑高中筝曲社。
+来到只身一人的社长面前的是不良少年和他的朋友们，以及古筝的天才少女。
+各自各自的古筝之乐所编奏的青春学园物语——</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/17/7f/254788_5501o.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="水果篮子"><a href="#水果篮子" class="headerlink" title="水果篮子"></a>水果篮子</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/20/f2/266455_fRBdM.jpg" class="bangumi-locandina"><h1>水果篮子 第一季</h1><h4>フルーツバスケット 1st season</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#1661</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">25</span></span><span class="bangumi-score">7.2</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">高中生本田透在失去了自己唯一亲人的母亲之后过起了独自一人的帐篷生活。但是，透安扎帐篷的地方刚好就是历史渊源的家族“草摩家”的领地之内！在草摩紫吴的邀请下成为了草摩家佣人的透，居然要与学校里王子般存在的草摩由希、以及视由希为眼中钉的草摩夹这两人一起生活。然而，透却仍未知晓。“草摩家”自从数百年前起就被忌讳的诅咒所束缚的事实……</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/20/f2/266455_fRBdM.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="徒然喜欢你"><a href="#徒然喜欢你" class="headerlink" title="徒然喜欢你"></a>徒然喜欢你</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/79/ae/208754_JyZ00.jpg" class="bangumi-locandina"><h1>徒然Children</h1><h4>徒然チルドレン</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#1640</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">7.2</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">故事讲述了青梅竹马之间、学生会长与不良少女之间、前辈与后辈之间、同学之间等多种不同角色的恋爱群像剧。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/79/ae/208754_JyZ00.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="中二病也要谈恋爱"><a href="#中二病也要谈恋爱" class="headerlink" title="中二病也要谈恋爱"></a>中二病也要谈恋爱</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/3d/fd/29648_hkoQV.jpg" class="bangumi-locandina"><h1>中二病也要谈恋爱！</h1><h4>中二病でも恋がしたい！</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#1286</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">13</span></span><span class="bangumi-score">7.3</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">富㭴勇太于初中毕业的时候，决定同时为自己举办中二病毕业的仪式。打算顺利渡过高中生活的他，在开学日以最后的中二语录完全封锁这段黑历史。可惜天意弄人，勇太遇上了现任中二病患者暨同班同学小鸟游六花，更被对方看出中二病的残余症状。六花于是以此威逼勇太与她“立下契约”。对方的行为举止惹来了不少同学、家人、甚至青梅竹马的注目，使勇太在享受“现充”的生活同时，又充满著难言之隐……</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/3d/fd/29648_hkoQV.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="五等分的花嫁"><a href="#五等分的花嫁" class="headerlink" title="五等分的花嫁"></a>五等分的花嫁</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/fd/cd/256114_2S1Yj.jpg" class="bangumi-locandina"><h1>五等分的新娘</h1><h4>五等分の花嫁</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#5378</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">5.8</span><span style="color:#545454">&nbsp;不过不失</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">一直过着贫困生活的高中二年级学生·上杉风太郎，找到了一份条件非常好的家庭教师兼职。然而，要教导的学生居然是同级生！而且还是五胞胎！！虽然都是美少女，但同时也是“将要留级”、“讨厌学习”的问题学生们！最开始的任务就是要取得这些女孩们的信任……！？每天都热闹喧嚣！
+中野家的五姐妹所带来的可爱度500%的五个不一样的恋爱喜剧，就此开幕！！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/fd/cd/256114_2S1Yj.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="我们无法一起学习"><a href="#我们无法一起学习" class="headerlink" title="我们无法一起学习"></a>我们无法一起学习</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/21/a6/257369_32HM0.jpg" class="bangumi-locandina"><h1>我们真的学不来</h1><h4>ぼくたちは勉強ができない</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4150</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">13</span></span><span class="bangumi-score">6.4</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">刻苦学习的高中3年生·唯我成幸，为了获得免缴大学学费的“特别VIP推荐”资格，而要去担任为备考而苦战的同级生们的教育指导员。教导的对象是“文学之森的睡美人”古桥文乃和“机关精巧的拇指姑娘”绪方理珠这两位学园顶尖的天才美少女！原本以为她们的学习能力完美无缺，没想到对于不擅长的学科却完全无能……！？成幸一边被充满个性的“学不来女孩”们玩弄于股掌之间，一边为了让她们努力通过大学考试！无论学习还是恋爱都“学不来”的天才们的恋爱喜剧，就此开幕！！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/21/a6/257369_32HM0.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="樱花庄的宠物女孩"><a href="#樱花庄的宠物女孩" class="headerlink" title="樱花庄的宠物女孩"></a>樱花庄的宠物女孩</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/01/a2/41488_qw09G.jpg" class="bangumi-locandina"><h1>樱花庄的宠物女孩</h1><h4>さくら荘のペットな彼女</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#1032</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">24</span></span><span class="bangumi-score">7.4</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　就读水明艺术大学附属高中的神田空太，一年级夏天时在宿舍养猫，而被校长叫去问话，并要他把猫赶走，不然就搬出宿舍。身为爱猫一族的空太，企图反抗权威，结果被撵出宿舍，流落到恶名昭彰的“樱花庄”。 隔年春天，随着世界级天才画家椎名真白搬进了樱花庄，空太开始过著被这名缺乏常识的少女耍得团团转的日子</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/01/a2/41488_qw09G.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="告白实行委员会-全集"><a href="#告白实行委员会-全集" class="headerlink" title="告白实行委员会 全集"></a>告白实行委员会 全集</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/c6/a3/140020_64RUU.jpg" class="bangumi-locandina"><h1>从很久以前就喜欢你了。～告白实行委员会～</h1><h4>ずっと前から好きでした。～告白実行委員会～</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3831</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">1</span></span><span class="bangumi-score">6.5</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">因为这是最后的练习——。
+樱丘高中三年级的榎本夏树，单恋着青梅竹马的濑户口优。
+但，她无法变得坦率，于是说要把优当做告白的“练习”对象。
+在一直隐藏着真正心情的过程中，
+夏树被同班同学绫濑恋雪邀请去约会……？
+夏树的“练习”能否演变成为“正戏”！？</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/c6/a3/140020_64RUU.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/6f/c1/119086_6yLfN.jpg" class="bangumi-locandina"><h1>告白实行委员会 嫉忌的答复</h1><h4>告白実行委員会 ヤキモチの答え ショートストーリー</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3861</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">1</span></span><span class="bangumi-score">6.4</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">『难道我就不行吗?～「告白实行委员会」角色歌曲集』初回特典OAD</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/6f/c1/119086_6yLfN.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/45/26/126798_O8ABO.jpg" class="bangumi-locandina"><h1>告白实行委员会 告白预演</h1><h4>告白実行委員会 告白予行練習 ショートストーリー</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3899</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">1</span></span><span class="bangumi-score">6.4</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">メジャーデビューアルバムにしてベスト！！
+┗|∵|┓ハニワの超豪華仕様による青春ロックベストのリリースが決定！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/45/26/126798_O8ABO.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/cf/da/142153_QkBjk.jpg" class="bangumi-locandina"><h1>告白实行委员会 我于此刻恋上你</h1><h4>告白実行委員会  今好きになる。ショートストーリー</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3949</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">1</span></span><span class="bangumi-score">6.3</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">7/15発売 HoneyWorks メジャー3rdアルバム『好きになるその瞬間を。』
+初回生産限定盤の特典DVDに収録される。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/cf/da/142153_QkBjk.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/6d/05/175543_Xw7I7.jpg" class="bangumi-locandina"><h1>喜欢上你的那个瞬间。～告白实行委员会～</h1><h4>好きになるその瞬間を。～告白実行委員会～</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3143</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">1</span></span><span class="bangumi-score">6.7</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text"></p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/6d/05/175543_Xw7I7.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="满脑都是〇〇的我无法谈恋爱"><a href="#满脑都是〇〇的我无法谈恋爱" class="headerlink" title="满脑都是〇〇的我无法谈恋爱"></a>满脑都是〇〇的我无法谈恋爱</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/7d/87/268412_P63Pf.jpg" class="bangumi-locandina"><h1>淫乱的青酱不能学习</h1><h4>みだらな青ちゃんは勉強ができない</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4498</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.3</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">名字的由来是——
+为官能小说家父亲所困扰的女高中生·小青，为了实现一人独居的愿望，以难关大学为目标拼命学习中。“青春？男女交往？那种事情才不知道！”……但这样的小青，却面对班上的人气者“现充王”木岛难以置信的爱的告白。
+面对读不懂气氛的木岛不断逼近，小青把学习丢到一边，色色的妄想完全停不下来！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/7d/87/268412_P63Pf.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="如果有妹妹就好了"><a href="#如果有妹妹就好了" class="headerlink" title="如果有妹妹就好了"></a>如果有妹妹就好了</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/d0/59/213076_J5y9R.jpg" class="bangumi-locandina"><h1>如果有妹妹就好了。</h1><h4>妹さえいればいい。</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3505</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.6</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">「如果有妹妹的话就能拥有最棒的人生了，为什么我却没有妹妹呢……？」
+专写妹系作品的妹控小说家羽岛伊月，身边聚集着各式各样不同个性的人物。有天才变态作家可儿那由多、女大学生白川京、插画家屁桃，以及鬼畜税务师大野艾希莉等等。
+伊月等人虽然各自有着不同的烦恼，但还是一边写着小说，玩着电玩，喝着酒，申报所得税，过着喧闹的日常生活。
+在一旁温暖守护着伊月等人的，是伊月的继弟千寻。然而，千寻竟藏着一个天大的秘密……
+欢乐又锥心，由天才、凡人与怪咖所展开的多重路线青春恋爱喜剧，现在开演！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/d0/59/213076_J5y9R.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="伪恋"><a href="#伪恋" class="headerlink" title="伪恋"></a>伪恋</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/98/71/74628_8HHlL.jpg" class="bangumi-locandina"><h1>伪恋</h1><h4>ニセコイ</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#1852</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">20</span></span><span class="bangumi-score">7.1</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　虽然看上去平凡无奇，但其实是流氓第二代的高中生·一条乐，遇上了转学到班上的美国黑帮大小姐·桐崎千棘。个性合不來的两人，总是天天吵架。但此时，双方的父亲，却要他们为了使双方家族能和平相处，假装成一对恋人？虽然乐其实喜欢同班同学·小野寺，但迫于现实无奈的两人，还是心不甘情不愿地开始了咬牙切齿、动手动脚的「甜蜜」生活…</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/98/71/74628_8HHlL.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/22/cd/114758_27XTt.jpg" class="bangumi-locandina"><h1>伪恋：</h1><h4>ニセコイ:</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#2243</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">7</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text"></p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/22/cd/114758_27XTt.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="青春之旅"><a href="#青春之旅" class="headerlink" title="青春之旅"></a>青春之旅</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/47/45/92836_YhO4y.jpg" class="bangumi-locandina"><h1>青春之旅</h1><h4>アオハライド</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#2939</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.8</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">吉冈双叶从国中时期就很不擅长和男生相处，却有一位名为“田中”的男生例外，然而田中在暑假转学了，双叶也来不及传达自己的心意。之后，在男生群非常受欢迎的双叶遭受女生的排挤，在升上高中后的双叶为了不再让女生讨厌决定要伪装自己，同时她与国中时代的初恋“田中”再次相遇了……</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/47/45/92836_YhO4y.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="我的脑内选项正在全力妨碍学院恋爱喜剧"><a href="#我的脑内选项正在全力妨碍学院恋爱喜剧" class="headerlink" title="我的脑内选项正在全力妨碍学院恋爱喜剧"></a>我的脑内选项正在全力妨碍学院恋爱喜剧</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/7a/47/77570_hjy2A.jpg" class="bangumi-locandina"><h1>我的脑内选项正在全力妨碍学园恋爱喜剧</h1><h4>俺の脳内選択肢が、学園ラブコメを全力で邪魔している</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3655</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">10</span></span><span class="bangumi-score">6.6</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">我甘草奏的“绝对选项”是一种会突然出现脑中，不选就不消失的悲惨诅咒；
+通常人要是被迫做这麼变态的选择，无论如何都会有所抵抗，而我起初也不例外……
+但若置之不理，我的头就会承受超乎想像的痛苦，那种感觉大概只能用脑浆被挖出来才足以形容。
+说穿了就是，我根本抵抗不了。所以——我会被骂变态，不是没有原因的。
+于是害得我整天举止怪异，被列为“五黑”（指黑名单的前五位）之一。
+然而，在如此饱嚐女生白眼的校园生活中，我脑内突然出现了①美少女从天而降的选项——？</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/7a/47/77570_hjy2A.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="敦君与女朋友"><a href="#敦君与女朋友" class="headerlink" title="敦君与女朋友"></a>敦君与女朋友</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/b7/a1/230940_Mk5DV.jpg" class="bangumi-locandina"><h1>敦君与女朋友</h1><h4>あっくんとカノジョ</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4782</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">25</span></span><span class="bangumi-score">6.1</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">青梅竹马的敦君和小音是一对恋人。
+但，敦君却以粗暴的言辞冷淡对待小音，
+总是一副严苛的态度……。
+
+但那却是敦君的“最喜欢小音了！”这种心情的反面表现。
+敦君，以及对于敦君的这种言行毫不在意地“深爱敦君”的小音，
+描绘他们之间日常的学园青春恋爱喜剧。 </p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/b7/a1/230940_Mk5DV.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="在盛夏等待"><a href="#在盛夏等待" class="headerlink" title="在盛夏等待"></a>在盛夏等待</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/6f/ad/22657_P0ZpP.jpg" class="bangumi-locandina"><h1>在盛夏等待</h1><h4>あの夏で待ってる</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#2228</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">7</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">黒田洋介＆羽音たらくがつむぐ新たな青春物語！ 新作オリジナルアニメ『あの夏で待ってる』は、『おねがい☆ティーチャー』や『おねがい☆ツインズ』で知られる黒田洋介さんと羽音たらくさんが参加する新作オリジナルアニメ。黒田さんは脚本を、羽音さんはキャラクター原案を担当するという。
+
+　　天空湛蓝，万里无云。
+　　积雨云翻涌，仿佛要将彼岸的山隐藏。
+　　这是我们小镇上常见的风景。
+　　但是，也是无可替代的“盛夏”。
+　　那个男孩有一个模糊的想法“一无所有却想做点什么”，
+　　所以和同伴商量一起拍电影。
+　　就在那时，一个“特别”的女孩来到了这个小镇，
+　　然后将男孩的想法视为“特别”。
+　　男孩的名字是——雾岛海人。
+　　女孩的名字是——贵月一夏。
+　　他们的盛夏开始了。
+　　我们在那个盛夏等待——</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/6f/ad/22657_P0ZpP.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="我的妹妹不可能那么可爱"><a href="#我的妹妹不可能那么可爱" class="headerlink" title="我的妹妹不可能那么可爱"></a>我的妹妹不可能那么可爱</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/50/53/37898_GB3nG.jpg" class="bangumi-locandina"><h1>我的妹妹哪有这么可爱。</h1><h4>俺の妹がこんなに可愛いわけがない。</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#2445</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">16</span></span><span class="bangumi-score">6.9</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">哥哥高坂京介（17岁）和妹妹高坂桐乃（14岁）兄妹两人的关系近几年处于冷战状态。从某个时间点开始，桐乃看到哥哥时连打招呼都没有，只会用像是看到脏东西般的眼神瞪他。京介认为这种关系也会一直持续下去。
+某天，京介在门口捡到从来没看过的魔法少女动画《星尘☆小魔女梅露露》的DVD盒子，里面竟然不是动画的DVD，而是成人游戏《和妹妹恋爱吧~》的光碟。京介在晚餐时用梅露露的话题试探谁是光碟的物主，但只得到父母充满偏见的否定意见。
+就在那天晚上，连打招呼都不会的妹妹突然来到京介房间，并且说她有事情想要商量。原来桐乃迷上了萌系动画以及美少女游戏中的妹系角色，却都不敢告诉别人，只能一直闷在心里。被哥哥知道了自己的秘密后，从此开始了和哥哥之间的「人生咨询」。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/50/53/37898_GB3nG.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="埃罗芒阿老师"><a href="#埃罗芒阿老师" class="headerlink" title="埃罗芒阿老师"></a>埃罗芒阿老师</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/87/bf/172498_wfm40.jpg" class="bangumi-locandina"><h1>情色漫画老师</h1><h4>エロマンガ先生</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4064</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.5</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">高中生兼小说作家的“和泉正宗”（笔名：和泉征宗）有个家里蹲的妹妹“和泉纱雾”。一年前才成为家人的她，却完全不走出居室，并也用力踩踏地板，要我帮她准备食物。为了这段称不上“兄妹”的关系，正宗得想个办法让她自己走出居室才行，因为两人已是目前仅存能相依为命的“家人”……至于正宗的搭挡插画家“情色漫画老师”，是个能够画出非常棒煽情图的可靠伙伴。虽然双方并没见过面，但我一直很感谢他！只是在某一天，正宗突然发现到一个冲击事实，那就是“情色漫画老师”其实就是纱雾！？</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/87/bf/172498_wfm40.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="我女友与青梅竹马的惨烈修罗场"><a href="#我女友与青梅竹马的惨烈修罗场" class="headerlink" title="我女友与青梅竹马的惨烈修罗场"></a>我女友与青梅竹马的惨烈修罗场</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/c2/38/43557_jUaQk.jpg" class="bangumi-locandina"><h1>我女友与青梅竹马的惨烈修罗场</h1><h4>俺の彼女と幼なじみが修羅場すぎる</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3724</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">13</span></span><span class="bangumi-score">6.6</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">主人公季堂锐太是个成绩优秀的高中一年级学生，同时也是个恋爱反对派。本来是和像自己妹妹一般的青梅竹马一起过着普通的高中生活的，但某天却被校内公认的第一美人，归国子女夏川真凉表白了。然而真凉的真实意图却是为了骗过众人而需要锐太与她假扮情侣。被真凉掌握了自己的某个“秘密”的锐太被迫假扮“男友”这一角色……之后“前女友”姬香、“未婚妻”爱衣也加了进来，围绕锐太的壮烈修罗场就此拉开帷幕！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/c2/38/43557_jUaQk.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="只要你说你爱我"><a href="#只要你说你爱我" class="headerlink" title="只要你说你爱我"></a>只要你说你爱我</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/10/4a/40651_MMX94.jpg" class="bangumi-locandina"><h1>只要你说你爱我</h1><h4>好きっていいなよ。</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4800</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">13</span></span><span class="bangumi-score">6.1</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">      因为小时候曾经遭受朋友的背叛，橘梅这16年来从来没交过男朋友，甚至连朋友也没有！独来独往的个性导致她成了同学欺负的对象，却在阴错阳差之下认识了学校裡最受欢迎的男生黑泽大和。大和相当欣赏梅毫无所惧的个性，丝毫不在意其他人的眼光，开始主动与梅接触。因為大和随和的个性与古道热肠，梅也开始逐渐卸下了心防…</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/10/4a/40651_MMX94.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="政宗君的复仇"><a href="#政宗君的复仇" class="headerlink" title="政宗君的复仇"></a>政宗君的复仇</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/05/bf/185762_19v9g.jpg" class="bangumi-locandina"><h1>政宗君的复仇</h1><h4>政宗くんのリベンジ</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#5046</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">为了复仇，我又回到这座城市了！
+8年前，被美少女·安达垣爱姬残忍拒绝的肥胖少年·真壁政宗，变得超瘦又更改了名字，变身成帅哥回来了。没错，一切都是为了让那个号称残虐公主的抖S女生迷上自己，完成最高形式的复仇——。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/05/bf/185762_19v9g.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="农林"><a href="#农林" class="headerlink" title="农林"></a>农林</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/ed/7e/68756_Iqesl.jpg" class="bangumi-locandina"><h1>农林</h1><h4>のうりん</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#3742</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.5</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">就读岐阜县立田茂农林高等学校的生产科学科2年A组栽培专攻的畑耕作，是个对偶像草壁由香非常沉迷的偶像迷。耕作与同为A班栽培专攻，体贴的青梅竹马中泽农、可靠的眼镜美少年好友过真鸟继、A班畜产专攻的巨乳少女良田胡蝶等伙伴，为了成为未来日本农业的栋梁，每天都过著热闹的高中生活。
+某日，草壁由香突然宣布引退，让耕作大受打击，把自己关在宿舍房间中不肯出来。同样住在宿舍里的农与继，想进办法将他拉到教室，刚好年近40的班主任户次菜摘和转学生一起进入教室，转学生名为木下林檎，是个和偶像草壁由香长的一模一样的美少女……</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/ed/7e/68756_Iqesl.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="Re：从零开始的异世界生活"><a href="#Re：从零开始的异世界生活" class="headerlink" title="Re：从零开始的异世界生活"></a>Re：从零开始的异世界生活</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/cb/78/140001_Ew1mo.jpg" class="bangumi-locandina"><h1>Re：从零开始的异世界生活</h1><h4>Re:ゼロから始める異世界生活</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#1276</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">25</span></span><span class="bangumi-score">7.3</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　从便利店回来的路上突然被召唤到异世界的少年，菜月昴。在无可依赖的异世界，无力的少年所唯一拥有的力量……那就是死后便会使时间倒转的“死亡回归”的力量。为了守护重要的人，并取回那些无可替代的时间，少年向绝望抗争，挺身面对残酷的命运。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/cb/78/140001_Ew1mo.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="NEKOPARA"><a href="#NEKOPARA" class="headerlink" title="NEKOPARA"></a>NEKOPARA</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/1b/0e/270274_tt2z7.jpg" class="bangumi-locandina"><h1>NEKOPARA</h1><h4>ネコぱら</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4225</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.3</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">水无月嘉祥的老家经营着一间历史悠久的日式点心老店。他决心以糕点师的身份，离开老家开一间自己的蛋糕店「La Soleil」。
+嘉祥发现从老家寄来的搬家行李中，竟然混进了两只在老家饲养的人型猫娘：巧克力和香草。嘉祥本来想将她们送回老家，但在两只猫娘的苦苦哀求下他也只好让步，开始和她们一起经营「La Soleil」。
+妹妹时雨，还有巧克力和香草的猫娘姐姐们：红豆、枫、桂、椰子，住在老家的猫娘们也都来店里帮忙，大家每天都过着开心热闹的生活。
+某天，巧克力在买东西的途中遇见一只陌生的小猫…。
+故事就从与这只令人在意的小猫的邂逅开始。温暖人心的猫娘故事即将上演！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/1b/0e/270274_tt2z7.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="汤摇庄的幽奈同学"><a href="#汤摇庄的幽奈同学" class="headerlink" title="汤摇庄的幽奈同学"></a>汤摇庄的幽奈同学</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/64/97/228969_00Tt0.jpg" class="bangumi-locandina"><h1>汤摇庄的幽奈同学</h1><h4>ゆらぎ荘の幽奈さん</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4523</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.2</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">肉体派灵能力者・冬空凩。因被恶灵附身，背负了巨大债务的冬空凩寻求便宜的住处，住进了温泉旅馆·摇曳庄。那里有着无法升天的女高中生地缚灵幽奈小姐、仅凭常识无法想象的美少女。尽管只有女性居住在内的摇曳庄中的住客极力反对冬空凩的下榻，但冬空凩最终还是在摇曳庄中开始生活……。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/64/97/228969_00Tt0.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="欢迎来到实力至上主义的教室"><a href="#欢迎来到实力至上主义的教室" class="headerlink" title="欢迎来到实力至上主义的教室"></a>欢迎来到实力至上主义的教室</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/87/01/214272_JVVxM.jpg" class="bangumi-locandina"><h1>欢迎来到实力至上主义教室</h1><h4>ようこそ実力至上主義の教室へ</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4732</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.2</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">这个社会是否平等呢。真正的“实力”是什么——。
+东京都高度育成高等学校。那是宣扬彻底的实力至上主义，以升学率·就业率100%而引以为豪的升学学校。升入那里，被分配到1年D班的绫小路清隆，却发现学校与实力至上主义的招牌相反，学生每个月会得到相当于10万日元、与现金同等价值的分数，在授课和生活态度方面也贯彻放任主义。在梦幻般的高中生活当中，不断地挥金如土、过着自甘堕落日子的同班同学们。但，不久他就得知了学校系统的真面目，并被打入绝望的深渊……！
+来自吊车尾聚集的D班的少年少女们所发现的，是世界的矛盾，还是正当的实力社会？</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/87/01/214272_JVVxM.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="带着智慧型手机闯荡异世界"><a href="#带着智慧型手机闯荡异世界" class="headerlink" title="带着智慧型手机闯荡异世界"></a>带着智慧型手机闯荡异世界</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/28/7f/211723_9Pboo.jpg" class="bangumi-locandina"><h1>带着智能手机闯荡异世界。</h1><h4>異世界はスマートフォンとともに。</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#5774</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">4.7</span><span style="color:#545454">&nbsp;较差</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">由于神的失误而死去的主人公，让自己的第二段人生在异世界展开。
+他所拥有的是被神强化的身体，以及变得在异世界也可使用的智能手机。
+在与各种各样的人们相遇，并获得重要伙伴的过程中，主人公在不知不觉当中得知了这个世界的秘密。
+在继承了古代文明的遗产，与无忧无虑的世界之王们齐心协力的同时，他就这样吊儿郎当地环游着世界——</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/28/7f/211723_9Pboo.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="清恋"><a href="#清恋" class="headerlink" title="清恋"></a>清恋</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/f8/38/195229_l5ydB.jpg" class="bangumi-locandina"><h1>清恋</h1><h4>セイレン</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4319</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.4</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">高中2年级的夏天。
+嘉味田正一由于志愿调查表的内容而被班主任叫出来，以此为契机开始感受到对于长大成人的不安。
+这样的他，与各种各样的女孩子相遇……他将会以怎样的未来为目标呢。
+奔向未来的等身大高中生与清廉可怜的女主角们的恋爱物语，现在开始！ </p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/f8/38/195229_l5ydB.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="为美好的世界献上祝福"><a href="#为美好的世界献上祝福" class="headerlink" title="为美好的世界献上祝福"></a>为美好的世界献上祝福</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/56/de/135275_tt1ce.jpg" class="bangumi-locandina"><h1>为美好的世界献上祝福！</h1><h4>この素晴らしい世界に祝福を！</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#814</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">10</span></span><span class="bangumi-score">7.5</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　热爱游戏的家里蹲少年·佐藤和真的人生，因交通事故（!?）而轻易闭幕……本该是这样，但当他醒来之时，眼前有一位自称是女神的美少女。“喂，我有点好事要告诉你。要去异世界吗？只带一样你喜欢的东西没问题喔。”“那，我就带着你好了。”由此开始，在异世界转生的和真的魔王讨伐大冒险开始了……虽然是这么想的，但他却为了获得衣食住行而开始劳动！想要平稳度日的和真，却由于女神引起的各种问题，而终于被魔王军盯上了!? </p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/56/de/135275_tt1ce.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="信长老师的年幼妻子"><a href="#信长老师的年幼妻子" class="headerlink" title="信长老师的年幼妻子"></a>信长老师的年幼妻子</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/3e/19/269075_WpFNR.jpg" class="bangumi-locandina"><h1>信长老师的年幼妻子</h1><h4>ノブナガ先生の幼な妻</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#5480</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">5.5</span><span style="color:#545454">&nbsp;不过不失</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">“非常喜欢自己的女孩子，突然在某天出现了”
+总是做着这种GALGAME展开的梦的教师·信永。
+出现在他身边的，是自称他妻子的14岁少女·归蝶。
+似乎来自战国时代的她，将信永误认为是织田信长，并为了造小孩而向他逼近……！？
+GALGAME脑教师和战国脑公主之间爆发的年龄差恋爱喜剧！！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/3e/19/269075_WpFNR.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="我喜欢的是小说里的你"><a href="#我喜欢的是小说里的你" class="headerlink" title="我喜欢的是小说里的你"></a>我喜欢的是小说里的你</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/ef/68/228255_k7ex1.jpg" class="bangumi-locandina"><h1>我喜欢的是妹妹但不是妹妹</h1><h4>俺が好きなのは妹だけど妹じゃない</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#5812</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">10</span></span><span class="bangumi-score">3.5</span><span style="color:#545454">&nbsp;差</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">以轻小说作家为目标的高中生·永见祐，有个名叫凉花的妹妹。凉花是个才色兼备的优等生，但对哥哥的态度却严厉又冷漠。
+某天，长年在轻小说选拔第一轮就落选的祐，得知了冲击性的事实。凉花创作的“兄妹亲亲热热恋爱喜剧”在轻小说大赏中获奖了！
+而且，在完全不懂轻小说及萌系的凉花拜托下，祐竟然开始以代理作家·永远野誓的身份活动！祐情非得已地轻小说出道，在被独具个性的业界关系者们玩弄于股掌间的同时，为了妹妹而以永远野誓的身份奋斗中。
+之后，曾经连一点喜爱哥哥的影子都见不到的凉花却……！？</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/ef/68/228255_k7ex1.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="春园庄的管理员"><a href="#春园庄的管理员" class="headerlink" title="春园庄的管理员"></a>春园庄的管理员</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/91/41/230110_5tFWD.jpg" class="bangumi-locandina"><h1>春原庄的管理人</h1><h4>すのはら荘の管理人さん</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4806</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.1</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">椎名亚树由于外表的缘故而总不被人当成男人看待，他为了改变自己而在升入初中时前往东京，住进了春原庄。在那里等着亚树的，是受到性格天然又爱恶作剧的春原庄管理员·春原彩花从身心两方面疼爱有加的每一天。不止如此，其他的同居人也全都是年长的女生……。治愈与心跳满载，不由得想要向管理员姐姐撒娇的年龄差（御姐正太）恋爱喜剧决定版！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/91/41/230110_5tFWD.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="关于我的女友是个一本正经的碧池这件事"><a href="#关于我的女友是个一本正经的碧池这件事" class="headerlink" title="关于我的女友是个一本正经的碧池这件事"></a>关于我的女友是个一本正经的碧池这件事</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/5b/97/216570_cPpsi.jpg" class="bangumi-locandina"><h1>关于我女友是个一本正经的碧池这件事</h1><h4>僕の彼女がマジメ過ぎるしょびっちな件</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#5619</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">10</span></span><span class="bangumi-score">5.4</span><span style="color:#545454">&nbsp;不过不失</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">度过普通的学校生活，分到普通的班级，普通地恋爱，下定决心告白……讴歌着这种正经到极点的青春的篠崎遥。
+但只有他恋爱的对象并不“普通”——
+满溢而出的种种粗鄙之语！
+无所顾虑地涌出的刺激的性知识！
+但，一切都是为了成为健全而圆满的恋人——
+没错，这是毋庸置疑的纯爱物语！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/5b/97/216570_cPpsi.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="Gamers电玩咖"><a href="#Gamers电玩咖" class="headerlink" title="Gamers电玩咖"></a>Gamers电玩咖</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/c9/f3/195816_8fZHP.jpg" class="bangumi-locandina"><h1>GAMERS电玩咖</h1><h4>ゲーマーズ!</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#2359</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.9</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">“……和我一起，试着加入游戏部怎样？”兴趣是游戏，除此之外毫无显眼的特征，仅仅是个龙套的游戏玩家雨野景太，某天突然被学园第一的美少女，游戏部部长天道花怜搭话了。
+由此开始，景太的日常为之一转，开始了与喜爱游戏的美少女们共度的恋爱喜剧展开的日子……本以为如此！？只有游戏的价值观不同，特立独行的女子玩家星之守千秋。班上的中心人物，虽然有女友却私下里爱好游戏的残念现充上原祐。祐的女友，毫无游戏知识的亚玖璃。
+将这些人物一并卷入，重复着互相误会、徒劳无功、陷入迷途，乱成一团的游戏玩家们带来的“擦肩而过青春错综系恋爱喜剧”开幕！</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/c9/f3/195816_8fZHP.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="缘之空"><a href="#缘之空" class="headerlink" title="缘之空"></a>缘之空</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/6e/01/7157_hF46A.jpg" class="bangumi-locandina"><h1>缘之空</h1><h4>ヨスガノソラ</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4387</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.3</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">远离都市的乡间、奥木染。春日野悠带着他的妹妹·春日野穹来到了这里。
+兄妹俩幼时暑假期间曾来过多次奥木染，这里有着祖父的家，是个令人怀念的地方。
+因为意外事故而失去了双亲与去处的兄妹，决定移居至现在没有人居住的祖父家，在此开始新的生活。
+
+觉得自小以来就没怎么变化的街道与居民、教人怀念的回忆与静谧的环境，让悠倍感舒适。但徐徐地，变化来到了。
+阳光日渐变得强烈的初夏天空之下，故事开始了。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/6e/01/7157_hF46A.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="你的名字"><a href="#你的名字" class="headerlink" title="你的名字"></a>你的名字</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/20/15/160209_w42EP.jpg" class="bangumi-locandina"><h1>你的名字。</h1><h4>君の名は。</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#184</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">1</span></span><span class="bangumi-score">8</span><span style="color:#545454">&nbsp;力荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　在每千年回归一次的彗星造访过一个月之后的日本。
+　　某个深山的乡下小镇，女高中生三叶每天都过着忧郁的生活。
+　　而她烦恼的不光有担任镇长的父亲所举行的选举运动，还有家传神社的古老习俗。
+　　在这个小小的城镇，周围都只是些爱瞎操心的老人。为此三叶对于大都市充满了憧憬。
+　　“下辈子就让我成为东京的帅哥吧……！！！”
+　　然而某一天，自己做了一个变成男孩子的梦。
+　　这儿有着陌生的房间、陌生的朋友。而眼前出现的则是东京的街道。
+　　三叶虽然感到困惑，但是能够来到朝思暮想的都市生活，让她觉得神清气爽。
+　　“不可思议的梦……”
+　　另一方面在东京生活的男高中生·泷也做了个奇怪的梦。
+　　他在一个从未去过的深山小镇中，变成了女高中生……
+　　那么他们体验的梦境到底有什么秘密呢？
+　　原本不会相遇的两人由此相逢。
+　　少女和少年奇迹的故事，开始了。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/20/15/160209_w42EP.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="我想吃掉你的胰脏"><a href="#我想吃掉你的胰脏" class="headerlink" title="我想吃掉你的胰脏"></a>我想吃掉你的胰脏</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/23/17/221736_hm0HO.jpg" class="bangumi-locandina"><h1>我想吃掉你的胰脏</h1><h4>君の膵臓をたべたい</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#2271</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">1</span></span><span class="bangumi-score">7</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">她如此说了。
+“我想吃掉你的胰脏”
+
+春。
+晚开的樱花仍在绽放的4月。
+对他人毫无兴趣，总是独自一人读书的高中生“我”，在医院的等候室捡到了一册文库本。
+这本用手写的文字写着《共病文库》这一标题的书，是天真烂漫的班上人气王·山内樱良私下记录的日记本。
+樱良将自己身患胰脏的疾病、已经时日无多这件事，告诉了看到日记内容的“我”。
+对于她而言，那是对除了家人和医生以外的人隐藏病情的她，获得了唯一一位共享秘密之人的瞬间。
+樱良想要在临终之日到来之前，一边尽量过着一如既往的日常生活，一边去做想要做的事情，竭尽全力享受人生。
+在被她那奔放的行动牵着鼻子走的同时，“我”的内心也逐渐产生了变化。
+
+——那是，“我”的春日回忆。
+她的一生回忆。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/23/17/221736_hm0HO.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="声之形"><a href="#声之形" class="headerlink" title="声之形"></a>声之形</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/7c/b9/117777_4Ku7z.jpg" class="bangumi-locandina"><h1>声之形</h1><h4>映画 聲の形</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#1486</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">1</span></span><span class="bangumi-score">7.2</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">　　无比厌恶“无聊”的少年，石田将也。
+　　小学时期是个孩子王的他，对转校而来的少女西宫硝子产生了兴趣。
+　　在她到来后，少年无聊的日子得到了解放。
+　　然而，以硝子身上的某件事为契机，将也被周围孤立了起来。
+　　而后经过了五年的时间，两人在不同的高中各自成长。
+　　机缘巧合之下，紧紧封闭自己内心的将也再次见到了硝子。
+　　这是一个少年，试图接受少女、周围的人们，并接受自己的故事。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/7c/b9/117777_4Ku7z.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="线上游戏的老婆不可能是女生"><a href="#线上游戏的老婆不可能是女生" class="headerlink" title="线上游戏的老婆不可能是女生"></a>线上游戏的老婆不可能是女生</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/64/bd/142758_4WO7N.jpg" class="bangumi-locandina"><h1>线上游戏的老婆不可能是女生？</h1><h4>ネトゲの嫁は女の子じゃないと思った?</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#4963</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">6.1</span><span style="color:#545454">&nbsp;还行</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">就读于县立前崎高中、爱好网游的男高中生西村英骑，在MMORPG《传奇时代》中向女性角色告白，但却得知对方其实是“网络人妖（以男性身份假扮女性的人）”而大受打击。他由于这一心理阴影而相信“现实与游戏完全不同”并对其做出区别，不过现在仍然和自己所属的公会“Array Cat”的成员们愉快地享受着游戏。但，他被伙伴中的一人“亚子”告白，并演变成要和她结婚的状况。不止如此，英骑还被公会会长告知第一次“线下会”将要开办了。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/64/bd/142758_4WO7N.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="学生会的一己之见"><a href="#学生会的一己之见" class="headerlink" title="学生会的一己之见"></a>学生会的一己之见</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/dd/a0/2567_Vg1Y8.jpg" class="bangumi-locandina"><h1>学生会的一己之见</h1><h4>生徒会の一存</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#1240</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">12</span></span><span class="bangumi-score">7.3</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">在私立碧阳学园。学生会成员的选举，有一套特殊的制度。
+不举行一般的选举，只是单纯地用《人气投票》来选取学生会成员。
+因此，每年被选出的基本上是《可爱的女孩》。这是因为美男子会遭到男性学生的不满，而美少女对男女学生来说，都是喜欢的对象。
+可是，用人气和外表来确定这样重要的人选，这样合适吗？
+在发生了异议之后，妥协的结果是选取《优秀者》。在各年级学习成绩顶尖的学生，只要本人愿意，就有机会加入学生会。
+于是，有学生开始猛学，却没能得到进入学生会的机会……。
+但是，有一个男学生，坚持了自己的信念，终于打破了常规！
+杉崎鍵。他梦想着自己能进入《除了自己之外全是美少女的团体》，他以此为目标，开始猛学，于是终于在年末的考试中取得了第一名。
+他抵达的目标，是个性鲜明的、美少女云集的学生会。
+LOLI娘学生会会长・樱野真红。
+冰冷而理性的前辈・红叶知弦。
+少年风的傲娇・椎名深夏。
+可爱的梦幻妹妹・椎名真冬。
+最终，杉崎能过上理想的后宫生活么？</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/dd/a0/2567_Vg1Y8.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+<h3 id="恋爱随意连接"><a href="#恋爱随意连接" class="headerlink" title="恋爱随意连接"></a>恋爱随意连接</h3><br>
+
+<link rel="stylesheet" type="text/css" href="http://projekt.alias.zone:801/css/hexo-tag-bangumi.css"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><div class="bangumi-anime_card"><div class="bangumi-info_section"><div class="bangumi-anime_header"><img src="http://lain.bgm.tv/pic/cover/l/07/2e/37154_69Axl.jpg" class="bangumi-locandina"><h1>心灵链环</h1><h4>ココロコネクト</h4><div><span class="bangumi-rankspan">排名 <span class="bangumi-rank">#862</span></span><span class="bangumi-rankspan">话数 <span class="bangumi-rank">17</span></span><span class="bangumi-score">7.5</span><span style="color:#545454">&nbsp;推荐</span></div></div><div class="bangumi-anime_desc"><p class="bangumi-text">本作的舞台位于私立山星高中，在这所学校的文化研究部内，八重樫太一、永濑伊织、稻叶姬子、桐山唯、青木义文这五名成员目前面临着不可思议的现象。起初是成员中的唯及义文，在毫无前兆的情况下发生了人格交换，之后周围的其他成员也是如此。爱与青春的五角形喜剧从此正式开演了。</p></div></div><div class="bangumi-blur_back" style="background: url(http://lain.bgm.tv/pic/cover/l/07/2e/37154_69Axl.jpg); no-repeat fixed;background-size: cover;"></div></div>
+
+<br>
+
+
+
+<h2 id="持续更新中…"><a href="#持续更新中…" class="headerlink" title="持续更新中…"></a>持续更新中…</h2><p>Head pic <a href="https://www.pixiv.net/artworks/61423324" target="_blank" rel="noopener">https://www.pixiv.net/artworks/61423324</a></p>
+]]></content>
+      <tags>
+        <tag>动漫</tag>
+        <tag>推荐</tag>
+        <tag>持续更新</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>番剧平台分享</title>
+    <url>/2020/05/17/Anime/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.ibb.co/k5XFLqm/head-pic-3.png" alt>
+
+
+
+
+<h1 id="此文章收录了所有我使用过的看番平台，在此做整理分享给大家。"><a href="#此文章收录了所有我使用过的看番平台，在此做整理分享给大家。" class="headerlink" title="此文章收录了所有我使用过的看番平台，在此做整理分享给大家。"></a>此文章收录了所有我使用过的看番平台，在此做整理分享给大家。</h1><a id="more"></a>
+
+<h3 id="1-哔哩哔哩"><a href="#1-哔哩哔哩" class="headerlink" title="1. 哔哩哔哩"></a>1.<font size="5"> <a href="https://www.bilibili.com/" target="_blank" rel="noopener">哔哩哔哩</a></font></h3><h3 id="2-ACfun"><a href="#2-ACfun" class="headerlink" title="2. ACfun"></a>2.<font size="5"> <a href="https://www.acfun.cn/" target="_blank" rel="noopener">ACfun</a></font></h3><h2 id="国内两巨头，不用说了8"><a href="#国内两巨头，不用说了8" class="headerlink" title="国内两巨头，不用说了8"></a>国内两巨头，不用说了8</h2><h3 id="3-樱花动漫"><a href="#3-樱花动漫" class="headerlink" title="3. 樱花动漫"></a>3.<font size="5"> <a href="http://www.yhdm.tv/" target="_blank" rel="noopener">樱花动漫</a></font></h3><h2 id="基本收录了所有番剧，缺点就是广告太多，而且不好关闭。"><a href="#基本收录了所有番剧，缺点就是广告太多，而且不好关闭。" class="headerlink" title="基本收录了所有番剧，缺点就是广告太多，而且不好关闭。"></a>基本收录了所有番剧，缺点就是广告太多，而且不好关闭。</h2><h3 id="4-风车动漫"><a href="#4-风车动漫" class="headerlink" title="4. 风车动漫"></a>4.<font size="5"> <a href="http://www.fengchedm.tv/" target="_blank" rel="noopener">风车动漫</a></font></h3><h2 id="也是基本收录了所有番剧，但有些貌似加载不出来了，广告较少。"><a href="#也是基本收录了所有番剧，但有些貌似加载不出来了，广告较少。" class="headerlink" title="也是基本收录了所有番剧，但有些貌似加载不出来了，广告较少。"></a>也是基本收录了所有番剧，但有些貌似加载不出来了，广告较少。</h2><h3 id="5-蜜柑计划"><a href="#5-蜜柑计划" class="headerlink" title="5. 蜜柑计划"></a>5.<font size="5"> <a href="https://mikanani.me/" target="_blank" rel="noopener">蜜柑计划</a></font></h3><h2 id="收录了所有你能想到的番剧，且可选择多个字幕组，画质较高但需要种子下载器或播放器。"><a href="#收录了所有你能想到的番剧，且可选择多个字幕组，画质较高但需要种子下载器或播放器。" class="headerlink" title="收录了所有你能想到的番剧，且可选择多个字幕组，画质较高但需要种子下载器或播放器。"></a>收录了所有你能想到的番剧，且可选择多个字幕组，画质较高但需要种子下载器或播放器。</h2><h2 id="强烈推荐蜜柑计划"><a href="#强烈推荐蜜柑计划" class="headerlink" title="强烈推荐蜜柑计划"></a>强烈推荐蜜柑计划</h2><h2 id="种子播放器推荐使用-SodaPlayer-界面简洁，速度快。"><a href="#种子播放器推荐使用-SodaPlayer-界面简洁，速度快。" class="headerlink" title="种子播放器推荐使用   SodaPlayer  界面简洁，速度快。"></a>种子播放器推荐使用  <font size="5"> <a href="https://www.sodaplayer.com/" target="_blank" rel="noopener">SodaPlayer</a></font>  界面简洁，速度快。</h2><h1 id="Head-pic-我忘了…-侵删"><a href="#Head-pic-我忘了…-侵删" class="headerlink" title="Head pic 我忘了…. 侵删"></a>Head pic 我忘了…. 侵删</h1>]]></content>
+      <tags>
+        <tag>动漫</tag>
+        <tag>推荐</tag>
+        <tag>已完结</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>B站直播的一些小插件</title>
+    <url>/2020/05/17/Live/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://i.ibb.co/wp6FMCB/head-pic-2.png" alt>
+
+
+<h1 id="前-因-后-果"><a href="#前-因-后-果" class="headerlink" title="前 因 后 果"></a>前 因 后 果</h1><h3 id="在我自己直播的时候发现B站自家直播姬功能是在少得可怜，所以上网搜寻了许多改善直播的小插件整理在这里。"><a href="#在我自己直播的时候发现B站自家直播姬功能是在少得可怜，所以上网搜寻了许多改善直播的小插件整理在这里。" class="headerlink" title="在我自己直播的时候发现B站自家直播姬功能是在少得可怜，所以上网搜寻了许多改善直播的小插件整理在这里。"></a>在我自己直播的时候发现B站自家直播姬功能是在少得可怜，所以上网搜寻了许多改善直播的小插件整理在这里。</h3><a id="more"></a>
+
+
+
+
+<h3 id="1-B站弹幕姬-（不会有人不知道这个吧，不会吧不会吧）"><a href="#1-B站弹幕姬-（不会有人不知道这个吧，不会吧不会吧）" class="headerlink" title="1. B站弹幕姬 （不会有人不知道这个吧，不会吧不会吧）"></a>1.<font size="5"> <a href="https://www.danmuji.org/" target="_blank" rel="noopener">B站弹幕姬</a></font> （不会有人不知道这个吧，不会吧不会吧）</h3><p>弹幕姬可以以弹幕的方式显示直播间评论，如图（来自弹幕姬官网）</p>
+<img src="https://www.danmuji.org/pics/3.png" alt>
+
+<p>弹幕姬还拥有完善的插件系统，例如语音播报，点歌系统，如图（截图来自弹幕姬官网）</p>
+<img src="https://i.ibb.co/jHBXmnc/TIM-20200517155855.png" alt>
+
+<p>我目前常用的插件是<font size="5"> <a href="https://www.danmuji.org/plugins/FollowAlert" target="_blank" rel="noopener">关注提醒</a></font>   与   <font size="5"> <a href="https://www.danmuji.org/plugins/Re-TTSCat" target="_blank" rel="noopener">TTSCat（语音播报）</a></font></p>
+<p>这些插件可以让您不再错过直播间的消息，及时与观众互动。</p>
+<h3 id="2-Bilibili-Live-Chat-OBS用B站直播弹幕展示"><a href="#2-Bilibili-Live-Chat-OBS用B站直播弹幕展示" class="headerlink" title="2. [Bilibili Live Chat] OBS用B站直播弹幕展示"></a>2.<font size="5"> <a href="https://moe.best/projects/bilibili-live-chat.html" target="_blank" rel="noopener">[Bilibili Live Chat] OBS用B站直播弹幕展示</a></font></h3><p>这个是我偶然在网上看到的，他可以以滚动的方式显示弹幕（如Youtube Live Chat）</p>
+<img src="https://i.loli.net/2019/02/13/5c638e21ad91a.gif" alt>
+
+<p>图片来自 <a href="https://moe.best/projects/bilibili-live-chat.html" target="_blank" rel="noopener">https://moe.best/projects/bilibili-live-chat.html</a></p>
+<p>大家有需要的可以点击上方链接查看。</p>
+<h3 id="3-FaceRig"><a href="#3-FaceRig" class="headerlink" title="3. FaceRig"></a>3.<font size="5"> <a href="https://facerig.com/" target="_blank" rel="noopener">FaceRig</a></font></h3><p>这个软件还是蛮有趣的，可以通过摄像头捕获你的脸并转为可爱的动漫人物</p>
+<img src="https://thumbs.gfycat.com/UnimportantOrnateCivet-small.gif" alt>
+
+<p>图片来自Google。</p>
+<p>软件可以在Steam上搜索并购买</p>
+<h3 id="这些就是目前我在网络上搜集到并在使用的小插件了，以后如果发现其他插件将会持续更新"><a href="#这些就是目前我在网络上搜集到并在使用的小插件了，以后如果发现其他插件将会持续更新" class="headerlink" title="这些就是目前我在网络上搜集到并在使用的小插件了，以后如果发现其他插件将会持续更新"></a>这些就是目前我在网络上搜集到并在使用的小插件了，以后如果发现其他插件将会持续更新</h3><h2 id="Head-pic-https-www-pixiv-net-artworks-81495663"><a href="#Head-pic-https-www-pixiv-net-artworks-81495663" class="headerlink" title="Head pic https://www.pixiv.net/artworks/81495663"></a>Head pic <a href="https://www.pixiv.net/artworks/81495663" target="_blank" rel="noopener">https://www.pixiv.net/artworks/81495663</a></h2>]]></content>
+      <tags>
+        <tag>持续更新</tag>
+        <tag>教程</tag>
+        <tag>bilibili</tag>
+      </tags>
+  </entry>
 </search>
